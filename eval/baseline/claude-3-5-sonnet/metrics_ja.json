@@ -1,0 +1,16 @@
+{
+  "model": "claude-3-5-sonnet",
+  "target_language": "ja",
+  "n_segments": 76,
+  "error_count": 0,
+  "error_rate": 0.0,
+  "tag_preservation_rate": 1.0,
+  "length_ratio_avg": 0.664,
+  "length_ratio_std": 0.273,
+  "total_duration_sec": 103.05,
+  "avg_latency_sec": 1.356,
+  "segments_per_minute": 44.3,
+  "estimated_cost_usd": null,
+  "few_shot_prompting": true,
+  "evaluation_timestamp": "2025-09-26 14:00:45"
+}

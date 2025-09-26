@@ -1,0 +1,20 @@
+source_term,fr,ja,it,pos,case_sensitive,fr_gender,it_gender,dnt,notes
+press-on nails,press-on nails,ネイルチップ,press-on nails,noun,FALSE,masc,fem,FALSE,
+NaiLit,NaiLit,NaiLit,NaiLit,proper,TRUE,neutral,neutral,TRUE,Brand DNT
+oval,ovale,オーバル,ovale,adjective,FALSE,,,FALSE,
+coffin,ballerine,バレリーナ,ballerina,adjective,FALSE,,,FALSE,
+stiletto,pointu,ポイント,stiletto,adjective,FALSE,,,FALSE,
+almond,amande,アーモンド,mandorla,adjective,FALSE,,,FALSE,
+muted pink,rose poudré,くすみピンク,rosa antico,adjective,FALSE,,,FALSE,
+nude,nude,ヌーディー,nude,adjective,FALSE,,,FALSE,
+seafoam,vert d’eau,ミント,verde acqua,adjective,FALSE,,,FALSE,
+milky white,blanc doux,ミルキー,bianco lattiginoso,adjective,FALSE,,,FALSE,
+finish,effet,仕上げ,finitura,noun,FALSE,masc,fem,FALSE,
+blush,blush nails,チーク,blush nails,adjective,FALSE,,,FALSE,
+French,French Manucure,フレンチ,French,adjective,TRUE,,,FALSE,
+cat eye,Cat Eye,マグネット,cat-eye,adjective,TRUE,,,FALSE,
+glitter,pailletées,ラメ,glitterate,adjective,FALSE,,,FALSE,
+Gel-X,Gel-X,Gel-X,Gel-X,proper,TRUE,neutral,neutral,TRUE,Brand DNT
+Removal,dépose,オフ,rimozione,noun,FALSE,fem,fem,FALSE,
+nail tech,styliste ongulaire,ネイリスト,onicotecnico,noun,FALSE,masc,masc,FALSE,Occupation (masc form)
+nail tech,styliste ongulaire,ネイリスト,onicotecnica,noun,FALSE,fem,fem,FALSE,Occupation (fem form)

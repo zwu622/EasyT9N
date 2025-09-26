@@ -1,0 +1,610 @@
+[
+  {
+    "path": "nav.design",
+    "source": "Design",
+    "translation": "Design",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:50:38"
+  },
+  {
+    "path": "nav.about",
+    "source": "About Us",
+    "translation": "Chi siamo",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:50:39"
+  },
+  {
+    "path": "nav.faq",
+    "source": "FAQ",
+    "translation": "FAQ",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:50:41"
+  },
+  {
+    "path": "hero.title",
+    "source": "Design Your",
+    "translation": "Progetta il tuo",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:50:43"
+  },
+  {
+    "path": "hero.titleHighlight",
+    "source": "{span}Perfect Nails{/span}",
+    "translation": "{span}Unghie Perfette{/span}",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:50:45"
+  },
+  {
+    "path": "hero.subtitle",
+    "source": "No more salon stress. No more flimsy press-ons. With {strong}NaiLit{/strong}, you get {strong}fully custom{/strong}, {strong}hand-painted{/strong}, {strong}durable{/strong}, {strong}reusable{/strong} Gel-X press-on nails for every occasion.",
+    "translation": "Niente più stress da salone. Niente più press-on fragili. Con {strong}NaiLit{/strong}, ottieni unghie press-on Gel-X {strong}completamente personalizzate{/strong}, {strong}dipinte a mano{/strong}, {strong}resistenti{/strong}, {strong}riutilizzabili{/strong} per ogni occasione.",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:50:50"
+  },
+  {
+    "path": "hero.startDesigning",
+    "source": "Start Designing",
+    "translation": "Inizia a progettare",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:50:53"
+  },
+  {
+    "path": "features.designer.title",
+    "source": "Custom Designer",
+    "translation": "Designer personalizzato",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:50:56"
+  },
+  {
+    "path": "features.designer.description",
+    "source": "Mix and match {strong}colors, patterns, and finishes{/strong} to create your unique style",
+    "translation": "Mescola e abbina {strong}colori, fantasie e finiture{/strong} per creare il tuo stile unico",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:50:59"
+  },
+  {
+    "path": "features.share.title",
+    "source": "Share & Save",
+    "translation": "Condividi e Salva",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:01"
+  },
+  {
+    "path": "features.share.description",
+    "source": "{strong}Download your designs{/strong} or share them with friends via social links",
+    "translation": "{strong}Scarica i tuoi design{/strong} o condividili con gli amici tramite i link social",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:04"
+  },
+  {
+    "path": "features.premium.title",
+    "source": "Premium Sets",
+    "translation": "Set Premium",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:07"
+  },
+  {
+    "path": "features.premium.description",
+    "source": "Order {strong}custom designs{/strong} or choose from our curated nail art collections",
+    "translation": "Ordina {strong}design personalizzati{/strong} o scegli tra le nostre collezioni di nail art selezionate",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:08"
+  },
+  {
+    "path": "about.title",
+    "source": "About Us",
+    "translation": "Chi siamo",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:10"
+  },
+  {
+    "path": "about.backToHome",
+    "source": "← Back to Home",
+    "translation": "← Torna alla Home",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:11"
+  },
+  {
+    "path": "about.tagline",
+    "source": "{strong}NaiLit{/strong} is here to make your nails {em}lit{/em} and help you {em}nail it{/em}! ✨",
+    "translation": "<strong>NaiLit</strong> è qui per rendere le tue unghie <em>splendenti</em> e aiutarti a <em>fare centro</em>! ✨",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:18"
+  },
+  {
+    "path": "about.intro",
+    "source": "We believe that nails should be as {strong}unique as you are{/strong}. That is why {strong}NaiLit{/strong} offers fully customizable press-on nails designed with you in mind. Using our {em}Nail Dress-Up system{/em}, you can choose your shape, length, color, and finish to create a set that is {strong}100% your style{/strong}.",
+    "translation": "Crediamo che le unghie dovrebbero essere {strong}uniche come te{/strong}. Ecco perché {strong}NaiLit{/strong} offre unghie press-on completamente personalizzabili, pensate per te. Usando il nostro {em}Nail Dress-Up system{/em}, puoi scegliere la tua forma, lunghezza, colore e finitura per creare un set che sia {strong}100% il tuo stile{/strong}.",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:23"
+  },
+  {
+    "path": "about.craftmanship",
+    "source": "Once you have submitted your design, our {strong}expert nail techs{/strong} handcraft each set on {em}authentic Gel-X bases{/em}. {strong}No 3D printing. No bulky plastic.{/strong} Just the perfect balance of thinness, flexibility, and {strong}salon-quality feel{/strong} combined with the convenience of press-ons.",
+    "translation": "Una volta che hai inviato il tuo design, le nostre {strong}onicotecniche esperte{/strong} realizzano a mano ogni set su {em}basi Gel-X autentiche{/em}. {strong}Niente stampa 3D. Niente plastica ingombrante.{/strong} Solo il perfetto equilibrio tra sottigliezza, flessibilità e una {strong}sensazione di qualità da salone{/strong} combinato con la praticità dei press-on.",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:30"
+  },
+  {
+    "path": "about.safety",
+    "source": "We are also proud to say that our products are {strong}Trimethylbenzoyl Diphenylphosphine Oxide (TPO)-free{/strong} and fully compliant with {strong}EU safety standards{/strong}. Beauty should never come at the cost of safety, and {strong}NaiLit{/strong} is committed to giving you both.",
+    "translation": "Siamo anche orgogliosi di affermare che i nostri prodotti sono <strong>privi di ossido di difenilfosfina di trimetilbenzoile (TPO)</strong> e pienamente conformi agli <strong>standard di sicurezza dell'UE</strong>. La bellezza non dovrebbe mai andare a scapito della sicurezza, e <strong>NaiLit</strong> si impegna a offrirti entrambi.",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:37"
+  },
+  {
+    "path": "about.kitIncludes",
+    "source": "{strong}Every kit comes complete with:{/strong}",
+    "translation": "{strong}Ogni kit viene fornito completo di:{/strong}",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:38"
+  },
+  {
+    "path": "about.adhesiveKit",
+    "source": "{strong}1x Nail Adhesive Kit{/strong} (featuring both glue and sticker tabs, so you can choose between {em}long-lasting hold{/em} or {em}easy reuse{/em})",
+    "translation": "{strong}1x Kit Adesivo per Unghie{/strong} (che include sia colla che linguette adesive, così puoi scegliere tra {em}tenuta a lungo termine{/em} o {em}facile riutilizzo{/em})",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:41"
+  },
+  {
+    "path": "about.removalKit",
+    "source": "{strong}1x Nail Removal Kit{/strong} (so you can change up your look whenever you want, {em}without damage{/em})",
+    "translation": "{strong}1x Kit di rimozione unghie{/strong} (così puoi cambiare il tuo look ogni volta che vuoi, {em}senza danni{/em})",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:48"
+  },
+  {
+    "path": "about.confidence",
+    "source": "With {strong}NaiLit{/strong}, you do not just wear nails. You wear your {em}style{/em}, your {em}creativity{/em}, and your {em}confidence{/em}.",
+    "translation": "Con {strong}NaiLit{/strong}, non indossi solo le unghie. Indossi il tuo {em}stile{/em}, la tua {em}creatività{/em} e la tua {em}sicurezza{/em}.",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:54"
+  },
+  {
+    "path": "about.motto",
+    "source": "{strong}NaiLit. Nails made for you, by you.{/strong} 💅",
+    "translation": "{strong}NaiLit. Unghie fatte per te, da te.{/strong} 💅",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:57"
+  },
+  {
+    "path": "about.faqText",
+    "source": "For Order and Shipping related questions, please see our",
+    "translation": "Per domande relative a ordini e spedizioni, si prega di consultare la nostra",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:51:59"
+  },
+  {
+    "path": "about.faqLink",
+    "source": "{link}FAQ page{/link}",
+    "translation": "{link}Pagina FAQ{/link}",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:01"
+  },
+  {
+    "path": "design.title",
+    "source": "Design Your Nails",
+    "translation": "Personalizza le tue unghie",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:05"
+  },
+  {
+    "path": "design.backToHome",
+    "source": "Back to Home",
+    "translation": "Torna alla Home",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:07"
+  },
+  {
+    "path": "design.shape.title",
+    "source": "Shape",
+    "translation": "Forma",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:08"
+  },
+  {
+    "path": "design.shape.oval",
+    "source": "Oval",
+    "translation": "Ovale",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:10"
+  },
+  {
+    "path": "design.shape.coffin",
+    "source": "Coffin",
+    "translation": "Bara",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:11"
+  },
+  {
+    "path": "design.shape.stiletto",
+    "source": "Stiletto",
+    "translation": "Stiletto",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:12"
+  },
+  {
+    "path": "design.shape.almond",
+    "source": "Almond",
+    "translation": "Mandorla",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:13"
+  },
+  {
+    "path": "design.color.title",
+    "source": "Color",
+    "translation": "Colore",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:14"
+  },
+  {
+    "path": "design.color.mutedPink",
+    "source": "Muted Pink",
+    "translation": "Rosa tenue",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:16"
+  },
+  {
+    "path": "design.color.nude",
+    "source": "Nude",
+    "translation": "Nudo",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:21"
+  },
+  {
+    "path": "design.color.seafoam",
+    "source": "Seafoam",
+    "translation": "Schiuma di mare",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:22"
+  },
+  {
+    "path": "design.color.milkyWhite",
+    "source": "Milky White",
+    "translation": "Bianco Latte",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:24"
+  },
+  {
+    "path": "design.finish.title",
+    "source": "Finish",
+    "translation": "Fine",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:25"
+  },
+  {
+    "path": "design.finish.blush",
+    "source": "Blush",
+    "translation": "Blush",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:28"
+  },
+  {
+    "path": "design.finish.french",
+    "source": "French",
+    "translation": "Francese",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:30"
+  },
+  {
+    "path": "design.finish.catEye",
+    "source": "Cat Eye",
+    "translation": "Occhio di Gatto",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:33"
+  },
+  {
+    "path": "design.finish.glitter",
+    "source": "Glitter",
+    "translation": "Glitter",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:35"
+  },
+  {
+    "path": "design.size.title",
+    "source": "Size",
+    "translation": "Taglia",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:36"
+  },
+  {
+    "path": "design.size.short",
+    "source": "Short",
+    "translation": "Corto",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:37"
+  },
+  {
+    "path": "design.size.medium",
+    "source": "Medium",
+    "translation": "Medium",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:40"
+  },
+  {
+    "path": "design.size.long",
+    "source": "Long",
+    "translation": "Lungo",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:42"
+  },
+  {
+    "path": "design.preview",
+    "source": "Preview",
+    "translation": "Anteprima",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:44"
+  },
+  {
+    "path": "design.saveDesign",
+    "source": "Save Design",
+    "translation": "Salva Design",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:45"
+  },
+  {
+    "path": "design.downloadDesign",
+    "source": "Download Design",
+    "translation": "Scarica Design",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:49"
+  },
+  {
+    "path": "faq.title",
+    "source": "FAQ",
+    "translation": "Domande Frequenti",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:52"
+  },
+  {
+    "path": "faq.backToHome",
+    "source": "← Back to Home",
+    "translation": "← Torna alla Home",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:53"
+  },
+  {
+    "path": "faq.orders.title",
+    "source": "Orders",
+    "translation": "Ordini",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:54"
+  },
+  {
+    "path": "faq.orders.placeOrder.question",
+    "source": "{strong}How do I place an order?{/strong}",
+    "translation": "{strong}Come si effettua un ordine?{/strong}",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:52:56"
+  },
+  {
+    "path": "faq.orders.placeOrder.answer",
+    "source": "Simply use our {strong}Nail Dress-Up system{/strong} to design your set, add it to cart, and check out. Once your order is placed, our {em}expert nail techs{/em} will start handcrafting your press-ons.",
+    "translation": "Basta usare il nostro <strong>Nail Dress-Up system</strong> per progettare il tuo set, aggiungerlo al carrello e completare l'ordine. Una volta effettuato l'ordine, i nostri <em>onicotecnici esperti</em> inizieranno a realizzare a mano i tuoi press-on.",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:05"
+  },
+  {
+    "path": "faq.orders.processTime.question",
+    "source": "{strong}How long does it take to process my order?{/strong}",
+    "translation": "{strong}Quanto tempo ci vuole per elaborare il mio ordine?{/strong}",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:07"
+  },
+  {
+    "path": "faq.orders.processTime.answer",
+    "source": "Because each set is {em}custom-made{/em}, please allow {strong}5–7 business days{/strong} for production before shipping.",
+    "translation": "Poiché ogni set è {em}realizzato su ordinazione{/em}, si prega di considerare {strong}5-7 giorni lavorativi{/strong} per la produzione prima della spedizione.",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:11"
+  },
+  {
+    "path": "faq.shipping.title",
+    "source": "Shipping",
+    "translation": "Spedizione",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:12"
+  },
+  {
+    "path": "faq.shipping.whereShip.question",
+    "source": "{strong}Where do you ship?{/strong}",
+    "translation": "{strong}Dove spedite?{/strong}",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:14"
+  },
+  {
+    "path": "faq.shipping.whereShip.answer",
+    "source": "We currently ship domestically within the {strong}United States{/strong} and internationally to {strong}Italy, France, Canada, and Japan{/strong}.",
+    "translation": "Spediamo attualmente a livello nazionale all'interno degli {strong}Stati Uniti{/strong} e a livello internazionale in {strong}Italia, Francia, Canada e Giappone{/strong}.",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:17"
+  },
+  {
+    "path": "faq.shipping.cost.question",
+    "source": "{strong}How much is shipping?{/strong}",
+    "translation": "{strong}Quanto costa la spedizione?{/strong}",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:19"
+  },
+  {
+    "path": "faq.shipping.cost.answer",
+    "source": "Domestic shipping is a {strong}flat rate of $X{/strong}. International shipping rates vary depending on destination and will be calculated at checkout.",
+    "translation": "La spedizione nazionale è una {strong}tariffa fissa di $X{/strong}. Le tariffe di spedizione internazionali variano a seconda della destinazione e verranno calcolate al momento del checkout.",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:23"
+  },
+  {
+    "path": "faq.shipping.duration.question",
+    "source": "{strong}How long does shipping take?{/strong}",
+    "translation": "{strong}Quanto tempo ci vuole per la spedizione?{/strong}",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:24"
+  },
+  {
+    "path": "faq.shipping.duration.intro",
+    "source": "Shipping times vary by destination:",
+    "translation": "I tempi di spedizione variano in base alla destinazione:",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:26"
+  },
+  {
+    "path": "faq.shipping.duration.us",
+    "source": "{strong}United States:{/strong} 3–5 business days after processing",
+    "translation": "<strong>Stati Uniti:</strong> 3–5 giorni lavorativi dopo l'elaborazione",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:29"
+  },
+  {
+    "path": "faq.shipping.duration.canada",
+    "source": "{strong}Canada:{/strong} 5–10 business days after processing",
+    "translation": "{strong}Canada:{/strong} 5–10 giorni lavorativi dopo l'elaborazione",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:32"
+  },
+  {
+    "path": "faq.shipping.duration.europe",
+    "source": "{strong}Italy & France:{/strong} 7–14 business days after processing",
+    "translation": "{strong}Italia e Francia:{/strong} 7–14 giorni lavorativi dopo l'elaborazione",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:37"
+  },
+  {
+    "path": "faq.shipping.duration.japan",
+    "source": "{strong}Japan:{/strong} 7–14 business days after processing",
+    "translation": "<strong>Giappone:</strong> 7–14 giorni lavorativi dopo l'elaborazione",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:39"
+  },
+  {
+    "path": "faq.returns.title",
+    "source": "Returns & Exchanges",
+    "translation": "Resi e Cambi",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:40"
+  },
+  {
+    "path": "faq.returns.acceptReturns.question",
+    "source": "{strong}Do you accept returns?{/strong}",
+    "translation": "{strong}Accettate resi?{/strong}",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:43"
+  },
+  {
+    "path": "faq.returns.acceptReturns.answer",
+    "source": "Because each set is {em}handcrafted and customized{/em}, we unfortunately {strong}cannot accept returns{/strong}. If there is an issue with your order, please contact us and we will make it right.",
+    "translation": "Poiché ogni set è <em>realizzato a mano e personalizzato</em>, purtroppo <strong>non possiamo accettare resi</strong>. Se c'è un problema con il tuo ordine, ti preghiamo di contattarci e faremo in modo di rimediare.",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:48"
+  },
+  {
+    "path": "faq.other.title",
+    "source": "Other Questions",
+    "translation": "Altre domande",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:49"
+  },
+  {
+    "path": "faq.other.contactText",
+    "source": "If you have a question not covered here, please reach out to us through our",
+    "translation": "Se hai una domanda non trattata qui, ti pre preghiamo di contattarci tramite il nostro",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:53"
+  },
+  {
+    "path": "faq.other.contactLink",
+    "source": "{link}Contact page{/link}",
+    "translation": "{link}Pagina di contatto{/link}",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:54"
+  },
+  {
+    "path": "faq.other.helpText",
+    "source": "We are {strong}always happy to help{/strong}.",
+    "translation": "Siamo {strong}sempre felici di aiutare{/strong}.",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:55"
+  },
+  {
+    "path": "footer.copyright",
+    "source": "© 2025 {strong}NaiLit{/strong}.",
+    "translation": "© 2025 {strong}NaiLit{/strong}.",
+    "model": "gemini-2.5-flash",
+    "target_lang": "it",
+    "timestamp": "2025-09-26 13:53:58"
+  }
+]

@@ -5,7 +5,7 @@
     "translation": "デザイン",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "nav.about",
@@ -13,7 +13,7 @@
     "translation": "私たちについて",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "about.title",
@@ -21,7 +21,7 @@
     "translation": "私たちについて",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "nav.faq",
@@ -29,7 +29,7 @@
     "translation": "FAQ",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.title",
@@ -37,7 +37,7 @@
     "translation": "FAQ",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "hero.title",
@@ -45,7 +45,7 @@
     "translation": "デザインする",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "hero.titleHighlight",
@@ -53,15 +53,15 @@
     "translation": "<span>完璧なネイル</span>",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "hero.subtitle",
     "source": "No more salon stress. No more flimsy press-ons. With <strong>NaiLit</strong>, you get <strong>fully custom</strong>, <strong>hand-painted</strong>, high-quality <strong>Gel-X</strong> press-on nails for every occasion.",
-    "translation": "もうサロンのストレスはありません。もう頼りないプレスオンはありません。<strong>NaiLit</strong>では、すべての機会に対応した<strong>完全カスタム</strong>、<strong>手描き</strong>、高品質な<strong>Gel-X</strong>プレスオンネイルを手に入れることができます。",
+    "translation": "もうサロンのストレスはありません。もう頼りないプレスオンはありません。<strong>NaiLit</strong>では、すべての機会に対応した<strong>完全カスタム</strong>、<strong>手描き</strong>、高品質の<strong>Gel-X</strong>プレスオンネイルを手に入れることができます。",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "hero.startDesigning",
@@ -69,7 +69,7 @@
     "translation": "デザインを始める",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "features.designer.title",
@@ -77,7 +77,7 @@
     "translation": "カスタムデザイナー",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "features.designer.description",
@@ -85,15 +85,15 @@
     "translation": "<strong>色、パターン、仕上げ</strong>を組み合わせて、あなたのユニークなスタイルを作りましょう",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "features.share.title",
     "source": "Share & Save",
-    "translation": "共有して保存",
+    "translation": "共有 & 保存",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "features.share.description",
@@ -101,7 +101,7 @@
     "translation": "<strong>デザインをダウンロード</strong>するか、ソーシャルリンクを通じて友達と共有してください",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "features.premium.title",
@@ -109,15 +109,15 @@
     "translation": "プレミアムセット",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "features.premium.description",
     "source": "Order <strong>custom designs</strong> or choose from our curated nail art collections",
-    "translation": "カスタムデザイン<strong>を注文</strong>するか、厳選されたネイルアートコレクションから選択してください",
+    "translation": "カスタムデザイン<strong>を注文</strong>するか、厳選されたネイルアートコレクションからお選びください",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "about.backToHome",
@@ -125,7 +125,7 @@
     "translation": "← ホームに戻る",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.backToHome",
@@ -133,7 +133,7 @@
     "translation": "← ホームに戻る",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "about.tagline",
@@ -141,15 +141,15 @@
     "translation": "<strong>NaiLit</strong>はあなたの爪を<em>リット</em>にし、<em>成功させる</em>お手伝いをします！✨</translation>",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "about.intro",
     "source": "We believe that nails should be as <strong>unique as you are</strong>. That is why <strong>NaiLit</strong> offers fully customizable press-on nails designed with you in mind. Using our <em>Nail Dress-Up system</em>, you can choose your shape, length, color, and finish to create a set that is <strong>100% your style</strong>.",
-    "translation": "私たちは、爪は<strong>あなたと同じくらいユニークであるべき</strong>だと信じています。だからこそ<strong>NaiLit</strong>は、あなたを考えてデザインされた完全にカスタマイズ可能なプレスオンネイルを提供します。私たちの<em>Nail Dress-Up system</em>を使用すれば、形、長さ、色、仕上げを選んで<strong>100%あなたのスタイル</strong>のセットを作成できます。",
+    "translation": "爪は<strong>あなたと同じくらいユニークであるべきだ</strong>と私たちは信じています。だからこそ<strong>NaiLit</strong>は、あなたを考慮してデザインされた完全にカスタマイズ可能なプレスオンネイルを提供しています。私たちの<em>ネイルドレスアップシステム</em>を使用すれば、形、長さ、色、仕上げを選んで<strong>100%あなたのスタイル</strong>のセットを作成できます。",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "about.craftmanship",
@@ -157,15 +157,15 @@
     "translation": "デザインを提出すると、私たちの<strong>専門のネイル技術者</strong>が、<em>本物のGel-Xベース</em>の上に各セットを手作りします。<strong>3Dプリントなし。かさばるプラスチックなし。</strong> 薄さ、柔軟性、そして<strong>サロン品質の感触</strong>の完璧なバランスと、プレスオンの便利さを兼ね備えています。",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "about.safety",
     "source": "We are also proud to say that our products are <strong>Trimethylbenzoyl Diphenylphosphine Oxide (TPO)-free</strong> and fully compliant with <strong>EU safety standards</strong>. Beauty should never come at the cost of safety, and <strong>NaiLit</strong> is committed to giving you both.",
-    "translation": "私たちはまた、私たちの製品が<strong>トリメチルベンゾイルジフェニルホスフィンオキシド (TPO) フリー</strong>であり、完全に<strong>EUの安全基準</strong>に準拠していることを誇りに思っています。美しさは決して安全性の犠牲になってはならず、<strong>NaiLit</strong>は両方を提供することにコミットしています。",
+    "translation": "私たちは、私たちの製品が<strong>トリメチルベンゾイルジフェニルホスフィンオキシド (TPO) フリー</strong>であり、完全に<strong>EUの安全基準</strong>に準拠していることを誇りに思います。美しさは決して安全性の犠牲になってはならず、<strong>NaiLit</strong>は両方を提供することにコミットしています。",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "about.kitIncludes",
@@ -173,15 +173,15 @@
     "translation": "<strong>すべてのキットには以下が含まれています：</strong>",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "about.adhesiveKit",
     "source": "<strong>1x Nail Adhesive Kit</strong> (featuring both glue and sticker tabs, so you can choose between <em>long-lasting hold</em> or <em>easy reuse</em>)",
-    "translation": "<strong>1x ネイル接着剤キット</strong>（接着剤とステッカータブの両方を備えているため、<em>長持ちする保持</em>または<em>簡単な再利用</em>のいずれかを選択できます）",
+    "translation": "<strong>1x ネイル接着キット</strong>（接着剤とステッカータブの両方が含まれているため、<em>長持ちする保持</em>または<em>簡単な再利用</em>のいずれかを選択できます）",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "about.removalKit",
@@ -189,7 +189,7 @@
     "translation": "<strong>1x ネイルリムーバルキット</strong>（いつでもあなたのルックを変えられるために、<em>ダメージなしで</em>）",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "about.confidence",
@@ -197,7 +197,7 @@
     "translation": "<strong>NaiLit</strong>を使えば、単にネイルを身に着けるだけではありません。あなたの<em>スタイル</em>、あなたの<em>クリエイティビティ</em>、そしてあなたの<em>自信</em>を身に着けるのです。</translation>",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "about.motto",
@@ -205,7 +205,7 @@
     "translation": "<strong>NaiLit. あなたのために、あなたが作ったネイル。</strong> 💅",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "about.faqText",
@@ -213,7 +213,7 @@
     "translation": "注文および配送に関する質問については、当社の",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "about.faqLink",
@@ -221,7 +221,7 @@
     "translation": "<a href=\"#\">FAQページ</a>",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.title",
@@ -229,7 +229,7 @@
     "translation": "ネイルをデザインする",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.backToHome",
@@ -237,7 +237,7 @@
     "translation": "ホームに戻る",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.shape.title",
@@ -245,7 +245,7 @@
     "translation": "形状",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.shape.oval",
@@ -253,7 +253,7 @@
     "translation": "オーバル",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.shape.coffin",
@@ -261,7 +261,7 @@
     "translation": "棺",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.shape.stiletto",
@@ -269,7 +269,7 @@
     "translation": "スティレット",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.shape.almond",
@@ -277,7 +277,7 @@
     "translation": "アーモンド",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.color.title",
@@ -285,7 +285,7 @@
     "translation": "色",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.color.mutedPink",
@@ -293,7 +293,7 @@
     "translation": "ミュートピンク",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.color.nude",
@@ -301,7 +301,7 @@
     "translation": "ヌード",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.color.seafoam",
@@ -309,7 +309,7 @@
     "translation": "シーフォーム",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.color.milkyWhite",
@@ -317,7 +317,7 @@
     "translation": "ミルキーホワイト",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.finish.title",
@@ -325,7 +325,7 @@
     "translation": "終了",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.finish.blush",
@@ -333,7 +333,7 @@
     "translation": "ブラッシュ",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.finish.french",
@@ -341,7 +341,7 @@
     "translation": "フランス語",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.finish.catEye",
@@ -349,7 +349,7 @@
     "translation": "キャットアイ",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.finish.glitter",
@@ -357,7 +357,7 @@
     "translation": "グリッター",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.size.title",
@@ -365,7 +365,7 @@
     "translation": "サイズ",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.size.short",
@@ -373,7 +373,7 @@
     "translation": "短い",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.size.medium",
@@ -381,7 +381,7 @@
     "translation": "ミディアム",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.size.long",
@@ -389,7 +389,7 @@
     "translation": "長い",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.preview",
@@ -397,7 +397,7 @@
     "translation": "プレビュー",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.saveDesign",
@@ -405,7 +405,7 @@
     "translation": "デザインを保存",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "design.downloadDesign",
@@ -413,7 +413,7 @@
     "translation": "デザインをダウンロード",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.orders.title",
@@ -421,7 +421,7 @@
     "translation": "注文",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.orders.placeOrder.question",
@@ -429,15 +429,15 @@
     "translation": "<strong>注文はどのように行いますか？</strong>",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.orders.placeOrder.answer",
     "source": "Simply use our <strong>Nail Dress-Up system</strong> to design your set, add it to cart, and check out. Once your order is placed, our <em>expert nail techs</em> will start handcrafting your press-ons.",
-    "translation": "単に私たちの<strong>Nail Dress-Up system</strong>を使用してセットをデザインし、カートに追加してチェックアウトしてください。注文が完了すると、私たちの<em>専門のネイル技術者</em>があなたのプレスオンを手作りし始めます。",
+    "translation": "<strong>Nail Dress-Up system</strong>を使ってセットをデザインし、カートに追加してチェックアウトしてください。注文が完了すると、私たちの<em>専門のネイル技術者</em>があなたのプレスオンを手作りし始めます。",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.orders.processTime.question",
@@ -445,15 +445,15 @@
     "translation": "<strong>私の注文を処理するのにどれくらい時間がかかりますか？</strong>",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.orders.processTime.answer",
     "source": "Because each set is <em>custom-made</em>, please allow <strong>5–7 business days</strong> for production before shipping.",
-    "translation": "各セットは<em>カスタムメイド</em>のため、発送前に<strong>5～7営業日</strong>の製作期間をいただきます。",
+    "translation": "各セットは<em>カスタムメイド</em>のため、発送前に<strong>5～7営業日</strong>の製造期間をいただきます。",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.shipping.title",
@@ -461,7 +461,7 @@
     "translation": "配送",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.shipping.whereShip.question",
@@ -469,15 +469,15 @@
     "translation": "<strong>どこに発送しますか？</strong>",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.shipping.whereShip.answer",
     "source": "We currently ship domestically within the <strong>United States</strong> and internationally to <strong>Italy, France, Canada, and Japan</strong>.",
-    "translation": "<strong>アメリカ合衆国</strong>国内および<strong>イタリア、フランス、カナダ、日本</strong>への国際発送を現在行っています。",
+    "translation": "<strong>アメリカ合衆国</strong>国内および<strong>イタリア、フランス、カナダ、日本</strong>への国際配送を現在行っています。",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.shipping.cost.question",
@@ -485,15 +485,15 @@
     "translation": "<strong>送料はいくらですか？</strong>",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.shipping.cost.answer",
     "source": "Domestic shipping is a <strong>flat rate of $X</strong>. International shipping rates vary depending on destination and will be calculated at checkout.",
-    "translation": "国内配送は<strong>$Xの定額</strong>です。国際配送料金は目的地によって異なり、チェックアウト時に計算されます。",
+    "translation": "国内配送は<strong>$Xの一律料金</strong>です。国際配送の料金は目的地によって異なり、チェックアウト時に計算されます。",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.shipping.duration.question",
@@ -501,7 +501,7 @@
     "translation": "<strong>配送にはどれくらいの時間がかかりますか？</strong>",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.shipping.duration.intro",
@@ -509,7 +509,7 @@
     "translation": "配送時間は目的地によって異なります：",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.shipping.duration.us",
@@ -517,7 +517,7 @@
     "translation": "<strong>アメリカ合衆国:</strong> 処理後3～5営業日",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.shipping.duration.canada",
@@ -525,7 +525,7 @@
     "translation": "<strong>カナダ:</strong> 処理後5～10営業日",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.shipping.duration.europe",
@@ -533,7 +533,7 @@
     "translation": "<strong>イタリアとフランス:</strong> 処理後7～14営業日",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.shipping.duration.japan",
@@ -541,7 +541,7 @@
     "translation": "<strong>日本：</strong> 処理後7～14営業日",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.returns.title",
@@ -549,7 +549,7 @@
     "translation": "返品と交換",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.returns.acceptReturns.question",
@@ -557,15 +557,15 @@
     "translation": "<strong>返品を受け付けていますか？</strong>",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.returns.acceptReturns.answer",
     "source": "Because each set is <em>handcrafted and customized</em>, we unfortunately <strong>cannot accept returns</strong>. If there is an issue with your order, please contact us and we will make it right.",
-    "translation": "各セットは<em>手作りでカスタマイズ</em>されているため、残念ながら<strong>返品を受け付けることができません</strong>。ご注文に問題がある場合は、お問い合わせいただければ、適切に対応いたします。",
+    "translation": "各セットは<em>手作りでカスタマイズ</em>されているため、残念ながら<strong>返品を受け付けることはできません</strong>。ご注文に問題がある場合は、お問い合わせいただければ、適切に対応いたします。",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.other.title",
@@ -573,7 +573,7 @@
     "translation": "その他の質問",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.other.contactText",
@@ -581,7 +581,7 @@
     "translation": "ここに記載されていない質問がある場合は、私たちにご連絡ください。",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.other.contactLink",
@@ -589,7 +589,7 @@
     "translation": "<a href=\"#\">お問い合わせページ</a>",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "faq.other.helpText",
@@ -597,7 +597,7 @@
     "translation": "<strong>いつでもお手伝いできて嬉しいです</strong>。",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   },
   {
     "path": "footer.copyright",
@@ -605,6 +605,6 @@
     "translation": "© 2025 <strong>NaiLit</strong>。",
     "model": "gpt-4o-mini",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:43:09"
+    "timestamp": "2025-09-27 10:19:29"
   }
 ]

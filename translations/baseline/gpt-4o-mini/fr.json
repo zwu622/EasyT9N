@@ -5,7 +5,7 @@
     "translation": "Conception",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "nav.about",
@@ -13,7 +13,7 @@
     "translation": "À propos de nous",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "about.title",
@@ -21,7 +21,7 @@
     "translation": "À propos de nous",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "nav.faq",
@@ -29,7 +29,7 @@
     "translation": "FAQ",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.title",
@@ -37,7 +37,7 @@
     "translation": "FAQ",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "hero.title",
@@ -45,7 +45,7 @@
     "translation": "Concevez votre",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "hero.titleHighlight",
@@ -53,7 +53,7 @@
     "translation": "<span>Ongles Parfaits</span>",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "hero.subtitle",
@@ -61,7 +61,7 @@
     "translation": "Fini le stress du salon. Fini les faux ongles fragiles. Avec <strong>NaiLit</strong>, vous obtenez des ongles press-on <strong>entièrement personnalisés</strong>, <strong>peints à la main</strong>, de haute qualité <strong>Gel-X</strong> pour chaque occasion.",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "hero.startDesigning",
@@ -69,7 +69,7 @@
     "translation": "Commencez à concevoir",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "features.designer.title",
@@ -77,15 +77,15 @@
     "translation": "Designer personnalisé",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "features.designer.description",
     "source": "Mix and match <strong>colors, patterns, and finishes</strong> to create your unique style",
-    "translation": "Mixez et associez <strong>couleurs, motifs et finitions</strong> pour créer votre style unique",
+    "translation": "Associez et mélangez <strong>couleurs, motifs et finitions</strong> pour créer votre style unique",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "features.share.title",
@@ -93,7 +93,7 @@
     "translation": "Partager & Économiser",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "features.share.description",
@@ -101,7 +101,7 @@
     "translation": "<strong>Téléchargez vos designs</strong> ou partagez-les avec des amis via des liens sociaux",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "features.premium.title",
@@ -109,7 +109,7 @@
     "translation": "Ensembles Premium",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "features.premium.description",
@@ -117,7 +117,7 @@
     "translation": "Commandez des <strong>designs personnalisés</strong> ou choisissez parmi nos collections de nail art soigneusement sélectionnées",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "about.backToHome",
@@ -125,7 +125,7 @@
     "translation": "← Retour à l'accueil",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.backToHome",
@@ -133,31 +133,31 @@
     "translation": "← Retour à l'accueil",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "about.tagline",
     "source": "<strong>NaiLit</strong> is here to make your nails <em>lit</em> and help you <em>nail it</em>! ✨",
-    "translation": "<strong>NaiLit</strong> est là pour rendre vos ongles <em>lit</em> et vous aider à <em>nail it</em> ! ✨</translation>",
+    "translation": "<strong>NaiLit</strong> est là pour rendre vos ongles <em>éblouissants</em> et vous aider à <em>réussir</em> ! ✨</translation>",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "about.intro",
     "source": "We believe that nails should be as <strong>unique as you are</strong>. That is why <strong>NaiLit</strong> offers fully customizable press-on nails designed with you in mind. Using our <em>Nail Dress-Up system</em>, you can choose your shape, length, color, and finish to create a set that is <strong>100% your style</strong>.",
-    "translation": "Nous croyons que les ongles devraient être aussi <strong>uniques que vous</strong>. C'est pourquoi <strong>NaiLit</strong> propose des ongles autocollants entièrement personnalisables conçus pour vous. Grâce à notre <em>système de Nail Dress-Up</em>, vous pouvez choisir votre forme, longueur, couleur et finition pour créer un ensemble qui est <strong>100 % votre style</strong>.",
+    "translation": "Nous croyons que les ongles devraient être aussi <strong>uniques que vous</strong>. C'est pourquoi <strong>NaiLit</strong> propose des ongles autocollants entièrement personnalisables conçus pour vous. En utilisant notre <em>système de relooking des ongles</em>, vous pouvez choisir votre forme, longueur, couleur et finition pour créer un ensemble qui est <strong>100% votre style</strong>.",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "about.craftmanship",
     "source": "Once you have submitted your design, our <strong>expert nail techs</strong> handcraft each set on <em>authentic Gel-X bases</em>. <strong>No 3D printing. No bulky plastic.</strong> Just the perfect balance of thinness, flexibility, and <strong>salon-quality feel</strong> combined with the convenience of press-ons.",
-    "translation": "Une fois que vous avez soumis votre design, nos <strong>experts en manucure</strong> fabriquent à la main chaque ensemble sur des <em>bases Gel-X authentiques</em>. <strong>Pas d'impression 3D. Pas de plastique encombrant.</strong> Juste le parfait équilibre entre finesse, flexibilité et <strong>sensations de qualité salon</strong> combiné avec la commodité des faux ongles.",
+    "translation": "Une fois que vous avez soumis votre design, nos <strong>experts en manucure</strong> fabriquent chaque ensemble à la main sur des <em>bases Gel-X authentiques</em>. <strong>Pas d'impression 3D. Pas de plastique encombrant.</strong> Juste le parfait équilibre entre finesse, flexibilité et <strong>qualité salon</strong> combiné avec la commodité des press-ons.",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "about.safety",
@@ -165,7 +165,7 @@
     "translation": "Nous sommes également fiers de dire que nos produits sont <strong>sans Triméthylbenzoyl Diphenylphosphine Oxide (TPO)</strong> et entièrement conformes aux <strong>normes de sécurité de l'UE</strong>. La beauté ne devrait jamais se faire au détriment de la sécurité, et <strong>NaiLit</strong> s'engage à vous offrir les deux.",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "about.kitIncludes",
@@ -173,15 +173,15 @@
     "translation": "<strong>Chaque kit est complet avec :</strong>",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "about.adhesiveKit",
     "source": "<strong>1x Nail Adhesive Kit</strong> (featuring both glue and sticker tabs, so you can choose between <em>long-lasting hold</em> or <em>easy reuse</em>)",
-    "translation": "<strong>Kit d'adhésif à ongles 1x</strong> (comprenant à la fois de la colle et des onglets autocollants, afin que vous puissiez choisir entre <em>tenue longue durée</em> ou <em>réutilisation facile</em>)",
+    "translation": "<strong>Kit d'adhésif pour ongles 1x</strong> (comprenant à la fois de la colle et des onglets autocollants, afin que vous puissiez choisir entre <em>une tenue longue durée</em> ou <em>une réutilisation facile</em>)",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "about.removalKit",
@@ -189,15 +189,15 @@
     "translation": "<strong>Kit de retrait d'ongles 1x</strong> (pour que vous puissiez changer de look quand vous le souhaitez, <em>sans dommage</em>)",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "about.confidence",
     "source": "With <strong>NaiLit</strong>, you do not just wear nails. You wear your <em>style</em>, your <em>creativity</em>, and your <em>confidence</em>.",
-    "translation": "Avec <strong>NaiLit</strong>, vous ne portez pas seulement des ongles. Vous portez votre <em>style</em>, votre <em>créativité</em> et votre <em>confiance</em>.",
+    "translation": "Avec <strong>NaiLit</strong>, vous ne portez pas seulement des ongles. Vous portez votre <em>style</em>, votre <em>créativité</em>, et votre <em>confiance</em>.",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "about.motto",
@@ -205,7 +205,7 @@
     "translation": "<strong>NaiLit. Des ongles faits pour vous, par vous.</strong> 💅",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "about.faqText",
@@ -213,7 +213,7 @@
     "translation": "Pour les questions liées aux commandes et à l'expédition, veuillez consulter notre",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "about.faqLink",
@@ -221,7 +221,7 @@
     "translation": "<a href=\"#\">Page FAQ</a>",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.title",
@@ -229,7 +229,7 @@
     "translation": "Concevez vos ongles",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.backToHome",
@@ -237,7 +237,7 @@
     "translation": "Retour à l'accueil",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.shape.title",
@@ -245,7 +245,7 @@
     "translation": "Forme",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.shape.oval",
@@ -253,15 +253,15 @@
     "translation": "Ovale",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.shape.coffin",
     "source": "Coffin",
-    "translation": "cercueil",
+    "translation": "Tombeau",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.shape.stiletto",
@@ -269,7 +269,7 @@
     "translation": "Stiletto",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.shape.almond",
@@ -277,7 +277,7 @@
     "translation": "Amande",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.color.title",
@@ -285,7 +285,7 @@
     "translation": "Couleur",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.color.mutedPink",
@@ -293,7 +293,7 @@
     "translation": "Rose muet",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.color.nude",
@@ -301,7 +301,7 @@
     "translation": "Nudité",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.color.seafoam",
@@ -309,7 +309,7 @@
     "translation": "Écume de mer",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.color.milkyWhite",
@@ -317,7 +317,7 @@
     "translation": "Blanc laiteux",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.finish.title",
@@ -325,7 +325,7 @@
     "translation": "Terminer",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.finish.blush",
@@ -333,7 +333,7 @@
     "translation": "Rouge à lèvres",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.finish.french",
@@ -341,7 +341,7 @@
     "translation": "Français",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.finish.catEye",
@@ -349,7 +349,7 @@
     "translation": "Œil de chat",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.finish.glitter",
@@ -357,7 +357,7 @@
     "translation": "Paillettes",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.size.title",
@@ -365,7 +365,7 @@
     "translation": "Taille",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.size.short",
@@ -373,7 +373,7 @@
     "translation": "Court",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.size.medium",
@@ -381,7 +381,7 @@
     "translation": "Moyen",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.size.long",
@@ -389,7 +389,7 @@
     "translation": "Long",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.preview",
@@ -397,7 +397,7 @@
     "translation": "Aperçu",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.saveDesign",
@@ -405,7 +405,7 @@
     "translation": "Enregistrer le design",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "design.downloadDesign",
@@ -413,7 +413,7 @@
     "translation": "Télécharger le design",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.orders.title",
@@ -421,7 +421,7 @@
     "translation": "Commandes",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.orders.placeOrder.question",
@@ -429,15 +429,15 @@
     "translation": "<strong>Comment passer une commande ?</strong>",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.orders.placeOrder.answer",
     "source": "Simply use our <strong>Nail Dress-Up system</strong> to design your set, add it to cart, and check out. Once your order is placed, our <em>expert nail techs</em> will start handcrafting your press-ons.",
-    "translation": "Il vous suffit d'utiliser notre <strong>système de Nail Dress-Up</strong> pour concevoir votre ensemble, l'ajouter au panier et passer à la caisse. Une fois votre commande passée, nos <em>experts en manucure</em> commenceront à fabriquer à la main vos faux ongles.",
+    "translation": "Il vous suffit d'utiliser notre <strong>système de Nail Dress-Up</strong> pour concevoir votre ensemble, de l'ajouter au panier et de passer à la caisse. Une fois votre commande passée, nos <em>experts en manucure</em> commenceront à fabriquer à la main vos faux ongles.",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.orders.processTime.question",
@@ -445,7 +445,7 @@
     "translation": "<strong>Combien de temps faut-il pour traiter ma commande ?</strong>",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.orders.processTime.answer",
@@ -453,7 +453,7 @@
     "translation": "Parce que chaque ensemble est <em>fait sur mesure</em>, veuillez prévoir <strong>5 à 7 jours ouvrables</strong> pour la production avant l'expédition.",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.shipping.title",
@@ -461,7 +461,7 @@
     "translation": "Expédition",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.shipping.whereShip.question",
@@ -469,7 +469,7 @@
     "translation": "<strong>Où expédiez-vous ?</strong>",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.shipping.whereShip.answer",
@@ -477,7 +477,7 @@
     "translation": "Nous expédions actuellement à l'intérieur des <strong>États-Unis</strong> et à l'international vers <strong>l'Italie, la France, le Canada et le Japon</strong>.",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.shipping.cost.question",
@@ -485,15 +485,15 @@
     "translation": "<strong>Combien coûte la livraison ?</strong>",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.shipping.cost.answer",
     "source": "Domestic shipping is a <strong>flat rate of $X</strong>. International shipping rates vary depending on destination and will be calculated at checkout.",
-    "translation": "La livraison nationale est à un <strong>tarif fixe de $X</strong>. Les tarifs de livraison internationale varient en fonction de la destination et seront calculés lors du passage à la caisse.",
+    "translation": "La livraison nationale est à un <strong>tarif forfaitaire de $X</strong>. Les tarifs de livraison internationale varient en fonction de la destination et seront calculés au moment du paiement.",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.shipping.duration.question",
@@ -501,7 +501,7 @@
     "translation": "<strong>Combien de temps prend la livraison ?</strong>",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.shipping.duration.intro",
@@ -509,7 +509,7 @@
     "translation": "Les délais de livraison varient en fonction de la destination :",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.shipping.duration.us",
@@ -517,7 +517,7 @@
     "translation": "<strong>États-Unis :</strong> 3 à 5 jours ouvrables après traitement",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.shipping.duration.canada",
@@ -525,15 +525,15 @@
     "translation": "<strong>Canada :</strong> 5 à 10 jours ouvrables après traitement",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.shipping.duration.europe",
     "source": "<strong>Italy & France:</strong> 7–14 business days after processing",
-    "translation": "<strong>Italie & France :</strong> 7 à 14 jours ouvrables après traitement",
+    "translation": "<strong>Italie et France :</strong> 7 à 14 jours ouvrables après traitement",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.shipping.duration.japan",
@@ -541,7 +541,7 @@
     "translation": "<strong>Japon :</strong> 7 à 14 jours ouvrables après traitement",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.returns.title",
@@ -549,7 +549,7 @@
     "translation": "Retours et échanges",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.returns.acceptReturns.question",
@@ -557,7 +557,7 @@
     "translation": "<strong>Acceptez-vous les retours ?</strong>",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.returns.acceptReturns.answer",
@@ -565,7 +565,7 @@
     "translation": "Parce que chaque ensemble est <em>fait à la main et personnalisé</em>, nous <strong>ne pouvons malheureusement pas accepter de retours</strong>. S'il y a un problème avec votre commande, veuillez nous contacter et nous le réglerons.",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.other.title",
@@ -573,7 +573,7 @@
     "translation": "Autres questions",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.other.contactText",
@@ -581,7 +581,7 @@
     "translation": "Si vous avez une question qui n'est pas abordée ici, veuillez nous contacter via notre",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.other.contactLink",
@@ -589,7 +589,7 @@
     "translation": "<a href=\"#\">Page de contact</a>",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "faq.other.helpText",
@@ -597,7 +597,7 @@
     "translation": "Nous sommes <strong>toujours heureux de vous aider</strong>.",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   },
   {
     "path": "footer.copyright",
@@ -605,6 +605,6 @@
     "translation": "© 2025 <strong>NaiLit</strong>.",
     "model": "gpt-4o-mini",
     "target_lang": "fr",
-    "timestamp": "2025-09-26 23:42:52"
+    "timestamp": "2025-09-27 10:19:12"
   }
 ]

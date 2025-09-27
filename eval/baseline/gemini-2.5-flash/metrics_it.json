@@ -4,13 +4,13 @@
   "n_segments": 76,
   "error_count": 0,
   "error_rate": 0.0,
-  "tag_preservation_rate": 0.908,
-  "length_ratio_avg": 1.481,
-  "length_ratio_std": 1.542,
-  "total_duration_sec": 49.89,
-  "avg_latency_sec": 0.656,
-  "segments_per_minute": 91.4,
-  "estimated_cost_usd": 0.4084,
+  "tag_preservation_rate": 0.961,
+  "length_ratio_avg": 1.207,
+  "length_ratio_std": 0.454,
+  "total_duration_sec": 100.65,
+  "avg_latency_sec": 1.324,
+  "segments_per_minute": 45.3,
+  "estimated_cost_usd": 0.0004,
   "few_shot_prompting": true,
-  "evaluation_timestamp": "2025-09-26 23:42:32"
+  "evaluation_timestamp": "2025-09-27 10:18:55"
 }

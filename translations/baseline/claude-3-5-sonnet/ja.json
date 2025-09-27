@@ -5,7 +5,7 @@
     "translation": "デザイン",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "nav.about",
@@ -13,7 +13,7 @@
     "translation": "会社概要",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "about.title",
@@ -21,7 +21,7 @@
     "translation": "会社概要",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "nav.faq",
@@ -29,7 +29,7 @@
     "translation": "よくある質問",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.title",
@@ -37,7 +37,7 @@
     "translation": "よくある質問",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "hero.title",
@@ -45,23 +45,23 @@
     "translation": "デザインする\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "hero.titleHighlight",
     "source": "<span>Perfect Nails</span>",
-    "translation": "<span>完璧なネイル</span>",
+    "translation": "<span>パーフェクトネイル</span>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "hero.subtitle",
     "source": "No more salon stress. No more flimsy press-ons. With <strong>NaiLit</strong>, you get <strong>fully custom</strong>, <strong>hand-painted</strong>, high-quality <strong>Gel-X</strong> press-on nails for every occasion.",
-    "translation": "もうサロンでのストレスは不要。もろい付け爪も不要。<strong>NaiLit</strong>なら、あらゆるシーンに合わせた<strong>完全オーダーメイド</strong>の<strong>手描き</strong>の高品質な<strong>Gel-X</strong>付け爪をご提供します。",
+    "translation": "もうサロンでのストレスも、もろい付け爪も必要ありません。<strong>NaiLit</strong>なら、あらゆるシーンに合わせた<strong>完全オーダーメイド</strong>の<strong>手描き</strong>の高品質な<strong>Gel-X</strong>付け爪をご提供します。",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "hero.startDesigning",
@@ -69,7 +69,7 @@
     "translation": "デザインを始める",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "features.designer.title",
@@ -77,15 +77,15 @@
     "translation": "カスタムデザイナー",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "features.designer.description",
     "source": "Mix and match <strong>colors, patterns, and finishes</strong> to create your unique style",
-    "translation": "独自のスタイルを作り出すために<strong>カラー、パターン、仕上げ</strong>を組み合わせて",
+    "translation": "独自のスタイルを作り出すために<strong>カラー、パターン、仕上げ</strong>を組み合わせてみましょう",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "features.share.title",
@@ -93,7 +93,7 @@
     "translation": "シェア＆保存",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "features.share.description",
@@ -101,7 +101,7 @@
     "translation": "<strong>デザインをダウンロード</strong>するか、ソーシャルリンクを通じて友達とシェアしましょう\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "features.premium.title",
@@ -109,31 +109,31 @@
     "translation": "プレミアムセット",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "features.premium.description",
     "source": "Order <strong>custom designs</strong> or choose from our curated nail art collections",
-    "translation": "<strong>カスタムデザイン</strong>を注文するか、厳選されたネイルアートコレクションからお選びください\n\n</translation>",
+    "translation": "オーダーメイドの<strong>カスタムデザイン</strong>や、厳選されたネイルアートコレクションからお選びいただけます",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "about.backToHome",
     "source": "← Back to Home",
-    "translation": "[TRANSLATION_ERROR]",
+    "translation": "← ホームに戻る",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.backToHome",
     "source": "← Back to Home",
-    "translation": "[TRANSLATION_ERROR]",
+    "translation": "← ホームに戻る",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "about.tagline",
@@ -141,31 +141,31 @@
     "translation": "<strong>NaiLit</strong>があなたのネイルを<em>輝かせ</em>、あなたを<em>成功</em>へと導きます！✨\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "about.intro",
     "source": "We believe that nails should be as <strong>unique as you are</strong>. That is why <strong>NaiLit</strong> offers fully customizable press-on nails designed with you in mind. Using our <em>Nail Dress-Up system</em>, you can choose your shape, length, color, and finish to create a set that is <strong>100% your style</strong>.",
-    "translation": "ネイルは<strong>あなたらしい個性</strong>を表現するべきだと私たちは考えています。だからこそ<strong>NaiLit</strong>は、あなたのことを考えて作られた、完全にカスタマイズ可能なつけ爪を提供しています。<em>ネイルドレスアップシステム</em>を使用することで、形、長さ、カラー、仕上げを選択して、<strong>100%あなたらしいスタイル</strong>のネイルセットを作ることができます。",
+    "translation": "ネイルは<strong>あなたらしい個性</strong>を表現するものだと私たちは考えています。だからこそ<strong>NaiLit</strong>では、お客様一人一人のことを考えて、完全にカスタマイズ可能なつけ爪をご用意しています。<em>ネイルドレスアップシステム</em>を使用して、形、長さ、カラー、仕上げをお選びいただき、<strong>100%あなたらしいスタイル</strong>のネイルセットを作ることができます。",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "about.craftmanship",
     "source": "Once you have submitted your design, our <strong>expert nail techs</strong> handcraft each set on <em>authentic Gel-X bases</em>. <strong>No 3D printing. No bulky plastic.</strong> Just the perfect balance of thinness, flexibility, and <strong>salon-quality feel</strong> combined with the convenience of press-ons.",
-    "translation": "デザインをご提出いただくと、<strong>熟練のネイルテクニシャン</strong>が<em>本物のジェルXベース</em>で一つ一つ丁寧に制作いたします。<strong>3Dプリントは使用せず、厚みのあるプラスチックも使用しません。</strong>薄さ、柔軟性、そして<strong>サロンクオリティの仕上がり</strong>と、つけ爪の手軽さを完璧なバランスで実現しています。",
+    "translation": "デザインをご提出いただくと、<strong>熟練のネイルテクニシャン</strong>が<em>本物のジェルXベース</em>で一つ一つ丁寧に作り上げます。<strong>3Dプリントは使用せず、厚みのあるプラスチックも使用しません。</strong>薄さ、柔軟性、そして<strong>サロンクオリティの質感</strong>と、つけ爪の手軽さを完璧なバランスで実現しています。",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "about.safety",
     "source": "We are also proud to say that our products are <strong>Trimethylbenzoyl Diphenylphosphine Oxide (TPO)-free</strong> and fully compliant with <strong>EU safety standards</strong>. Beauty should never come at the cost of safety, and <strong>NaiLit</strong> is committed to giving you both.",
-    "translation": "また、当社の製品は<strong>トリメチルベンゾイルジフェニルホスフィンオキシド（TPO）フリー</strong>で、<strong>EU安全基準</strong>に完全に準拠していることを誇りにしています。美しさは決して安全性を犠牲にすべきではなく、<strong>NaiLit</strong>は両方を提供することをお約束します。",
+    "translation": "また、当社の製品は<strong>トリメチルベンゾイルジフェニルホスフィンオキシド（TPO）フリー</strong>で、<strong>EU安全基準</strong>に完全に準拠していることを誇りにしています。美しさは決して安全性を犠牲にすべきではなく、<strong>NaiLit</strong>はその両方をお届けすることをお約束します。",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "about.kitIncludes",
@@ -173,15 +173,15 @@
     "translation": "<strong>各キットには以下のものが含まれています：</strong>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "about.adhesiveKit",
     "source": "<strong>1x Nail Adhesive Kit</strong> (featuring both glue and sticker tabs, so you can choose between <em>long-lasting hold</em> or <em>easy reuse</em>)",
-    "translation": "<strong>1xネイル接着キット</strong>（グルーとシールタブの両方が付属しており、<em>長時間の固定</em>または<em>簡単な再利用</em>のいずれかを選択可能）\n\n</translation>",
+    "translation": "<strong>1xネイル接着キット</strong>（グルーとシールタブの両方が付属し、<em>長時間の固定</em>または<em>簡単な再利用</em>のいずれかを選択可能）\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "about.removalKit",
@@ -189,7 +189,7 @@
     "translation": "<strong>1x ネイルリムーバーキット</strong>（ダメージを<em>与えることなく</em>、好きな時にルックを変更できます）\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "about.confidence",
@@ -197,7 +197,7 @@
     "translation": "<strong>NaiLit</strong>では、単にネイルを付けるだけではありません。あなたの<em>スタイル</em>、<em>創造性</em>、そして<em>自信</em>を身につけることができます。\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "about.motto",
@@ -205,23 +205,23 @@
     "translation": "<strong>NaiLit. あなたが作る、あなたのためのネイル。</strong> 💅",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "about.faqText",
     "source": "For Order and Shipping related questions, please see our",
-    "translation": "ご注文や配送に関するご質問は、当社の",
+    "translation": "ご注文と配送に関するご質問は、当社の",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "about.faqLink",
     "source": "<a href=\"#\">FAQ page</a>",
-    "translation": "<a href=\"#\">よくある質問</a>\n\n</translation>",
+    "translation": "<a href=\"#\">よくある質問</a>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.title",
@@ -229,7 +229,7 @@
     "translation": "ネイルをデザインする",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.backToHome",
@@ -237,7 +237,7 @@
     "translation": "ホームに戻る\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.shape.title",
@@ -245,7 +245,7 @@
     "translation": "形状",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.shape.oval",
@@ -253,7 +253,7 @@
     "translation": "楕円形",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.shape.coffin",
@@ -261,7 +261,7 @@
     "translation": "棺",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.shape.stiletto",
@@ -269,15 +269,15 @@
     "translation": "スティレット",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.shape.almond",
     "source": "Almond",
-    "translation": "[TRANSLATION_ERROR]",
+    "translation": "アーモンド",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.color.title",
@@ -285,7 +285,7 @@
     "translation": "カラー",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.color.mutedPink",
@@ -293,7 +293,7 @@
     "translation": "くすみピンク",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.color.nude",
@@ -301,15 +301,15 @@
     "translation": "ヌード\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.color.seafoam",
     "source": "Seafoam",
-    "translation": "シーフォーム\n\n</translation>",
+    "translation": "シーフォーム",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.color.milkyWhite",
@@ -317,7 +317,7 @@
     "translation": "ミルキーホワイト\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.finish.title",
@@ -325,7 +325,7 @@
     "translation": "完了",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.finish.blush",
@@ -333,7 +333,7 @@
     "translation": "ブラッシュ",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.finish.french",
@@ -341,7 +341,7 @@
     "translation": "フランス語",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.finish.catEye",
@@ -349,7 +349,7 @@
     "translation": "キャットアイ\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.finish.glitter",
@@ -357,15 +357,15 @@
     "translation": "グリッター",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.size.title",
     "source": "Size",
-    "translation": "[TRANSLATION_ERROR]",
+    "translation": "サイズ",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.size.short",
@@ -373,7 +373,7 @@
     "translation": "短い\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.size.medium",
@@ -381,31 +381,31 @@
     "translation": "中",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.size.long",
     "source": "Long",
-    "translation": "長い",
+    "translation": "長さ",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.preview",
     "source": "Preview",
-    "translation": "プレビュー\n\n</translation>",
+    "translation": "プレビュー",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.saveDesign",
     "source": "Save Design",
-    "translation": "[TRANSLATION_ERROR]",
+    "translation": "デザインを保存",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "design.downloadDesign",
@@ -413,7 +413,7 @@
     "translation": "デザインをダウンロード",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.orders.title",
@@ -421,23 +421,23 @@
     "translation": "注文",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.orders.placeOrder.question",
     "source": "<strong>How do I place an order?</strong>",
-    "translation": "[TRANSLATION_ERROR]",
+    "translation": "<strong>注文する方法を教えてください</strong>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.orders.placeOrder.answer",
     "source": "Simply use our <strong>Nail Dress-Up system</strong> to design your set, add it to cart, and check out. Once your order is placed, our <em>expert nail techs</em> will start handcrafting your press-ons.",
-    "translation": "<strong>ネイルドレスアップシステム</strong>を使ってデザインを作成し、カートに追加して注文するだけです。ご注文確定後、<em>熟練ネイリスト</em>がプレスオンネイルを丁寧に制作いたします。\n\n</translation>",
+    "translation": "<strong>ネイルドレスアップシステム</strong>を使ってデザインを作成し、カートに追加して注文するだけです。ご注文いただきましたら、<em>熟練のネイルテクニシャン</em>がプレスオンネイルを丁寧に制作いたします。\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.orders.processTime.question",
@@ -445,15 +445,15 @@
     "translation": "<strong>注文の処理にはどのくらい時間がかかりますか？</strong>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.orders.processTime.answer",
     "source": "Because each set is <em>custom-made</em>, please allow <strong>5–7 business days</strong> for production before shipping.",
-    "translation": "<em>オーダーメイド</em>のため、発送までに<strong>営業日5～7日</strong>の製作期間をいただいております。\n\n</translation>",
+    "translation": "<em>オーダーメイド</em>で制作するため、発送までに<strong>営業日5～7日</strong>ほどお時間をいただいております。\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.shipping.title",
@@ -461,7 +461,7 @@
     "translation": "配送",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.shipping.whereShip.question",
@@ -469,15 +469,15 @@
     "translation": "<strong>配送先について</strong>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.shipping.whereShip.answer",
     "source": "We currently ship domestically within the <strong>United States</strong> and internationally to <strong>Italy, France, Canada, and Japan</strong>.",
-    "translation": "現在、<strong>アメリカ国内</strong>への配送、および<strong>イタリア、フランス、カナダ、日本</strong>への国際配送を承っております。",
+    "translation": "現在、<strong>アメリカ国内</strong>への配送と、<strong>イタリア、フランス、カナダ、日本</strong>への国際配送を行っております。",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.shipping.cost.question",
@@ -485,7 +485,7 @@
     "translation": "<strong>配送料はいくらですか？</strong>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.shipping.cost.answer",
@@ -493,7 +493,7 @@
     "translation": "国内配送料は<strong>一律X米ドル</strong>です。国際配送料は配送先によって異なり、チェックアウト時に計算されます。",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.shipping.duration.question",
@@ -501,7 +501,7 @@
     "translation": "<strong>配送にはどのくらいの時間がかかりますか？</strong>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.shipping.duration.intro",
@@ -509,7 +509,7 @@
     "translation": "配送時間は配送先によって異なります：",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.shipping.duration.us",
@@ -517,7 +517,7 @@
     "translation": "<strong>アメリカ合衆国：</strong>処理後3～5営業日\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.shipping.duration.canada",
@@ -525,7 +525,7 @@
     "translation": "<strong>カナダ:</strong> 処理後5～10営業日\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.shipping.duration.europe",
@@ -533,15 +533,15 @@
     "translation": "<strong>イタリア・フランス：</strong>処理後7～14営業日\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.shipping.duration.japan",
     "source": "<strong>Japan:</strong> 7–14 business days after processing",
-    "translation": "[TRANSLATION_ERROR]",
+    "translation": "<strong>日本:</strong> 処理後7～14営業日\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.returns.title",
@@ -549,7 +549,7 @@
     "translation": "返品・交換について",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.returns.acceptReturns.question",
@@ -557,15 +557,15 @@
     "translation": "<strong>返品は受け付けていますか？</strong>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.returns.acceptReturns.answer",
     "source": "Because each set is <em>handcrafted and customized</em>, we unfortunately <strong>cannot accept returns</strong>. If there is an issue with your order, please contact us and we will make it right.",
-    "translation": "各セットは<em>手作りでカスタマイズされている</em>ため、誠に申し訳ございませんが<strong>返品をお受けすることができません</strong>。ご注文に問題がございましたら、お問い合わせください。適切に対応させていただきます。",
+    "translation": "<em>手作りでカスタマイズされた</em>商品のため、誠に申し訳ございませんが<strong>返品はお受けできません</strong>。ご注文に問題がございましたら、お問い合わせください。早急に対応させていただきます。\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.other.title",
@@ -573,15 +573,15 @@
     "translation": "その他のご質問",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.other.contactText",
     "source": "If you have a question not covered here, please reach out to us through our",
-    "translation": "ここに記載されていない質問がございましたら、以下の方法でお問い合わせください：",
+    "translation": "ここで取り上げていない質問がございましたら、以下の方法でお問い合わせください：",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.other.contactLink",
@@ -589,7 +589,7 @@
     "translation": "<a href=\"#\">お問い合わせページ</a>\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "faq.other.helpText",
@@ -597,7 +597,7 @@
     "translation": "<strong>いつでもお手伝いさせていただきます</strong>。\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   },
   {
     "path": "footer.copyright",
@@ -605,6 +605,6 @@
     "translation": "© 2025 <strong>NaiLit</strong>.\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 23:45:16"
+    "timestamp": "2025-09-27 10:27:12"
   }
 ]

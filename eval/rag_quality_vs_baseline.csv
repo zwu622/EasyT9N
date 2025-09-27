@@ -1,4 +1,4 @@
-language,rag_model,rag_duration_sec,rag_segments_per_sec,rag_estimated_cost_usd,baseline_duration_sec,baseline_segments_per_sec,baseline_estimated_cost_usd,rag_bleu_vs_baseline,rag_chrf_vs_baseline,rag_tag_preservation
-fr,gpt-4o-mini,20.6,3.6830117371026,,30.46,2.495,21.72,87.35,89.55,0.987
-ja,gpt-4o-mini,41.6,1.828222984895215,,80.24,0.9467,13.41,72.36,78.74,0.947
-it,gpt-4o-mini,26.9,2.8301573051536586,,79.28,0.9583,19.485,85.43,89.16,0.974
+language,rag_model,rag_duration_sec,rag_segments_per_sec,baseline_duration_sec,baseline_segments_per_sec,rag_tag_preservation
+fr,gpt-4o-mini,24.9,3.0474400391581007,263.57,0.2883,0.987
+ja,gpt-4o-mini,38.3,1.9834605995446641,181.96,0.4183,0.961
+it,gpt-4o-mini,38.3,1.9867855280098012,188.27,0.4033,0.974

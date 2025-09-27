@@ -16,14 +16,13 @@ For demo purposes, the externalized strings of a press-on nail ecommerce web app
 - **Evaluations & Reports:**
   - DNT preservation, **HTML tag fidelity**, glossary adherence.
   - Retrieval precision (relevance of retrieved terms).
-  - **BLEU/chrF** (via sacrebleu when available) and semantic similarity.
   - **Runtime, token usage, estimated cost** (from metered API usage).
 
 ---
 
 ## Security
 
-- All API keys are kept in **`.env`** and **`.gitignore`** so secrets never leave your machine.
+- All API keys are kept in **`.env`** so secrets never leave your machine.
 - The notebooks avoid printing secrets and degrade gracefully if a provider key is missing.
 
 ---
@@ -163,7 +162,6 @@ The RAG notebook writes:
 
 ## Known Limitations
 
-- BLEU/chrF compares to **baseline outputs** (not gold references). It’s a relative quality gauge. For ground truth, use human references or LQA.
 - Very short strings can be tricky for retrieval; tune `top_k`/`min_score`.
 - `sentence-transformers` will bring in a compatible `torch`; GPU acceleration depends on your environment.
 
@@ -184,4 +182,3 @@ The RAG notebook writes:
 - `intfloat/multilingual-e5-base` (Hugging Face) for multilingual retrieval.
 - **Chroma** for simple, persistent vector search.
 - **OpenAI / Anthropic / Google** SDKs for generation.
-- **sacrebleu** for standardized BLEU/chrF metrics.

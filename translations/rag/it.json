@@ -2,7 +2,7 @@
   {
     "path": "nav.design",
     "source": "Design",
-    "translation": "Design\n\nExplanation: In this case, the word \"Design\" is commonly used in Italian as-is, especially in fashion and beauty contexts. It's a widely accepted loanword in Italian that maintains the same meaning as in English. No translation is needed, and it's perfectly natural in Italian usage.",
+    "translation": "Design",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -13,7 +13,8 @@
       "finish → finitura",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-26 15:28:21"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "nav.about",
@@ -29,12 +30,13 @@
       "press-on nails → press-on nails",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-26 15:28:23"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "nav.faq",
     "source": "FAQ",
-    "translation": "FAQ\n\nNote: I kept \"FAQ\" as-is since it's a widely recognized acronym in Italian as well, though \"Domande frequenti\" would also be acceptable if a more localized version is preferred.",
+    "translation": "FAQ",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -45,12 +47,13 @@
       "seafoam → verde acqua",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:28:26"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "hero.title",
     "source": "Design Your",
-    "translation": "Target (it):\nPersonalizza il Tuo\n\nNote: I've translated \"Design Your\" to \"Personalizza il Tuo\" in Italian, which naturally conveys the meaning of designing/customizing something personal. The capitalization is maintained as in the source to preserve the title-case style.",
+    "translation": "Progetta il tuo",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -61,12 +64,13 @@
       "finish → finitura",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-26 15:28:29"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "hero.titleHighlight",
-    "source": "{span}Perfect Nails{/span}",
-    "translation": "{span}Unghie Perfette{/span}\n\nNote: I preserved the {span} tags exactly as in the source and translated \"Perfect Nails\" naturally into Italian while maintaining the same meaning. Since none of the glossary terms appeared in this segment, no specific mappings were needed.",
+    "source": "<span>Perfect Nails</span>",
+    "translation": "<span>Unghie Perfette</span>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -75,30 +79,32 @@
     "constraints_list": [
       "press-on nails → press-on nails",
       "nail tech → onicotecnica",
-      "finish → finitura"
+      "NaiLit → NaiLit"
     ],
-    "timestamp": "2025-09-26 15:28:32"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "hero.subtitle",
-    "source": "No more salon stress. No more flimsy press-ons. With {strong}NaiLit{/strong}, you get {strong}fully custom{/strong}, {strong}hand-painted{/strong}, {strong}durable{/strong}, {strong}reusable{/strong} Gel-X press-on nails for every occasion.",
-    "translation": "Here's the Italian translation, maintaining all requirements:\n\nBasta stress da salone. Basta press-on nails fragili. Con {strong}NaiLit{/strong}, ottieni press-on nails Gel-X {strong}completamente personalizzate{/strong}, {strong}dipinte a mano{/strong}, {strong}resistenti{/strong} e {strong}riutilizzabili{/strong} per ogni occasione.\n\nThis translation:\n- Preserves all HTML-style tags exactly\n- Keeps brand names (NaiLit, Gel-X) unchanged\n- Uses the glossary mapping for \"press-on nails\"\n- Maintains natural Italian flow while being faithful to the source\n- Captures the marketing tone of the original\n- Maintains the structure and emphasis of the original text",
+    "source": "No more salon stress. No more flimsy press-ons. With <strong>NaiLit</strong>, you get <strong>fully custom</strong>, <strong>hand-painted</strong>, high-quality <strong>Gel-X</strong> press-on nails for every occasion.",
+    "translation": "Con <strong>NaiLit</strong>, ogni dettaglio parla di te. Press-on nails <strong>personalizzate</strong>, <strong>dipinte a mano</strong>, <strong>riutilizzabili</strong> e <strong>resistenti</strong>, in Gel-X, per sentirti unica oggi, domani e sempre.",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
-    "tm_hit": false,
+    "tm_hit": true,
     "constraints_found": 3,
     "constraints_list": [
       "press-on nails → press-on nails",
       "Gel-X → Gel-X",
       "NaiLit → NaiLit"
     ],
-    "timestamp": "2025-09-26 15:28:37"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "hero.startDesigning",
     "source": "Start Designing",
-    "translation": "Inizia a Progettare\n\nNote: I kept this translation natural and straightforward while maintaining the same call-to-action tone as the source. While none of the glossary terms were used in this particular segment, I preserved the capitalization style appropriate for an Italian button or heading text.",
+    "translation": "Inizia a progettare",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -109,12 +115,13 @@
       "finish → finitura",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-26 15:28:40"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.designer.title",
     "source": "Custom Designer",
-    "translation": "Designer Personalizzato\n\nExplanation: I translated \"Custom Designer\" to \"Designer Personalizzato\" in Italian, which maintains the meaning while being natural in the target language. While there were glossary terms provided (nail tech, muted pink, stiletto), none of them were relevant for this specific source text. The translation preserves the professional context while being clear and concise in Italian.",
+    "translation": "Designer personalizzati",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -125,26 +132,30 @@
       "muted pink → rosa antico",
       "stiletto → stiletto"
     ],
-    "timestamp": "2025-09-26 15:28:44"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.designer.description",
-    "source": "Mix and match {strong}colors, patterns, and finishes{/strong} to create your unique style",
-    "translation": "I'll translate this while preserving the tags, keeping consistent terminology, and using the provided glossary mapping for \"finish\" → \"finitura\".\n\nTarget (it):\nCombina {strong}colori, motivi e finiture{/strong} per creare il tuo stile unico\n\nNote: I maintained the exact tag structure, translated \"Mix and match\" idiomatically as \"Combina\", and used the glossary term \"finiture\" for \"finishes\". The translation is natural and fluent in Italian while preserving the original meaning.",
+    "source": "Mix and match <strong>colors, patterns, and finishes</strong> to create your unique style",
+    "translation": "Mescola e abbina <strong>colori, motivi e finiture</strong> per creare il tuo stile unico",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
-    "constraints_found": 1,
+    "constraints_found": 3,
     "constraints_list": [
-      "finish → finitura"
+      "finish → finitura",
+      "blush → blush nails",
+      "glitter → glitterate"
     ],
-    "timestamp": "2025-09-26 15:28:48"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.share.title",
     "source": "Share & Save",
-    "translation": "Condividi e Salva\n\nNote: I kept the translation natural and simple while maintaining the same meaning and function as the source text. Since there were no glossary terms used in this segment, no specific mappings needed to be applied.",
+    "translation": "Condividi e Risparmia",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -155,24 +166,30 @@
       "nude → nude",
       "Removal → rimozione"
     ],
-    "timestamp": "2025-09-26 15:28:50"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.share.description",
-    "source": "{strong}Download your designs{/strong} or share them with friends via social links",
-    "translation": "{strong}Scarica i tuoi design{/strong} o condividili con gli amici tramite i social\n\nNote: I preserved the {strong} tags exactly as in the source, maintained a natural Italian flow, and used common Italian social media terminology (\"i social\" is the colloquial but widely accepted term in Italian for social media/social links).",
+    "source": "<strong>Download your designs</strong> or share them with friends via social links",
+    "translation": "<strong>Scarica i tuoi design</strong> o condividili con gli amici tramite i link social",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
-    "constraints_found": 0,
-    "constraints_list": [],
-    "timestamp": "2025-09-26 15:28:54"
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "nude → nude",
+      "nail tech → onicotecnica"
+    ],
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.premium.title",
     "source": "Premium Sets",
-    "translation": "Target (it):\nSet Premium\n\nNote: I kept \"Set\" in its singular form as it's more commonly used in Italian fashion/beauty contexts when referring to collections or sets, and \"Premium\" remains unchanged as it's widely used and understood in Italian. The translation maintains the same meaning while being natural in Italian.",
+    "translation": "Set Premium",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -183,21 +200,25 @@
       "glitter → glitterate",
       "muted pink → rosa antico"
     ],
-    "timestamp": "2025-09-26 15:28:57"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.premium.description",
-    "source": "Order {strong}custom designs{/strong} or choose from our curated nail art collections",
-    "translation": "Ordina {strong}design personalizzati{/strong} o scegli dalle nostre collezioni curate di nail art",
+    "source": "Order <strong>custom designs</strong> or choose from our curated nail art collections",
+    "translation": "Ordina <strong>design personalizzati</strong> o scegli dalle nostre collezioni curate di nail art",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
-    "constraints_found": 1,
+    "constraints_found": 3,
     "constraints_list": [
-      "nail tech → onicotecnica"
+      "nail tech → onicotecnica",
+      "press-on nails → press-on nails",
+      "nude → nude"
     ],
-    "timestamp": "2025-09-26 15:28:59"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.title",
@@ -213,12 +234,13 @@
       "press-on nails → press-on nails",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-26 15:29:00"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.backToHome",
     "source": "← Back to Home",
-    "translation": "← Torna alla Home\n\nExplanation:\n- \"Back to Home\" is a common navigation element that in Italian is typically translated as \"Torna alla Home\"\n- The arrow symbol (←) is kept as-is since it's a universal symbol\n- \"Home\" is commonly left untranslated in Italian web interfaces\n- The translation maintains the same functionality and meaning while being natural in Italian",
+    "translation": "← Torna alla Home",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -229,28 +251,30 @@
       "milky white → bianco lattiginoso",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:29:04"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.tagline",
-    "source": "{strong}NaiLit{/strong} is here to make your nails {em}lit{/em} and help you {em}nail it{/em}! ✨",
-    "translation": "{strong}NaiLit{/strong} è qui per far brillare le tue unghie e farti essere {em}perfetta{/em} in ogni occasione! ✨\n\nNote: I preserved the wordplay where possible while maintaining natural Italian flow. Since the English \"lit\" and \"nail it\" are idiomatic expressions that don't translate directly, I adapted the meaning to convey the same spirit of being fabulous/perfect in Italian. The sparkle emoji and HTML tags are kept exactly as in the source.",
+    "source": "<strong>NaiLit</strong> is here to make your nails <em>lit</em> and help you <em>nail it</em>! ✨",
+    "translation": "<strong>NaiLit</strong> è pensato per illuminare <em>le tue unghie</em> e <em>la tua vita</em>!✨",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
-    "tm_hit": false,
+    "tm_hit": true,
     "constraints_found": 3,
     "constraints_list": [
       "NaiLit → NaiLit",
-      "press-on nails → press-on nails",
-      "nail tech → onicotecnica"
+      "nail tech → onicotecnica",
+      "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-26 15:29:08"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.intro",
-    "source": "We believe that nails should be as {strong}unique as you are{/strong}. That is why {strong}NaiLit{/strong} offers fully customizable press-on nails designed with you in mind. Using our {em}Nail Dress-Up system{/em}, you can choose your shape, length, color, and finish to create a set that is {strong}100% your style{/strong}.",
-    "translation": "I'll translate this while maintaining all HTML tags, brand names, and following the glossary:\n\nCrediamo che le unghie debbano essere {strong}uniche come te{/strong}. Per questo {strong}NaiLit{/strong} offre press-on nails completamente personalizzabili pensati appositamente per te. Utilizzando il nostro {em}sistema Nail Dress-Up{/em}, puoi scegliere la forma, la lunghezza, il colore e la finitura per creare un set che sia {strong}al 100% il tuo stile{/strong}.\n\nNotes on the translation:\n- Preserved all HTML tags exactly as in the source\n- Kept \"NaiLit\" as-is per glossary\n- Used \"press-on nails\" as specified in the glossary\n- Used \"finitura\" for \"finish\" per glossary\n- Maintained the emphasis and meaning while making it sound natural in Italian\n- Kept \"Nail Dress-Up\" as-is since it's a system name",
+    "source": "We believe that nails should be as <strong>unique as you are</strong>. That is why <strong>NaiLit</strong> offers fully customizable press-on nails designed with you in mind. Using our <em>Nail Dress-Up system</em>, you can choose your shape, length, color, and finish to create a set that is <strong>100% your style</strong>.",
+    "translation": "Crediamo che le unghie debbano essere <strong>uniche come te</strong>. Ecco perché <strong>NaiLit</strong> offre press-on nails completamente personalizzabili progettate pensando a te. Utilizzando il nostro <em>sistema Nail Dress-Up</em>, puoi scegliere la tua forma, lunghezza, colore e finitura per creare un set che è <strong>100% il tuo stile</strong>.",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -261,28 +285,30 @@
       "NaiLit → NaiLit",
       "finish → finitura"
     ],
-    "timestamp": "2025-09-26 15:29:14"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.craftmanship",
-    "source": "Once you have submitted your design, our {strong}expert nail techs{/strong} handcraft each set on {em}authentic Gel-X bases{/em}. {strong}No 3D printing. No bulky plastic.{/strong} Just the perfect balance of thinness, flexibility, and {strong}salon-quality feel{/strong} combined with the convenience of press-ons.",
-    "translation": "Here's the Italian translation, maintaining all formatting and following the glossary constraints:\n\nUna volta inviato il tuo design, le nostre {strong}onicotecniche esperte{/strong} realizzano a mano ogni set su {em}autentiche basi Gel-X{/em}. {strong}Niente stampa 3D. Niente plastica ingombrante.{/strong} Solo il perfetto equilibrio tra sottigliezza, flessibilità e {strong}qualità professionale{/strong} unito alla praticità dei press-on nails.\n\nNotes on translation choices:\n- \"nail techs\" → \"onicotecniche\" (using glossary term, feminine form as it's common in the industry)\n- Kept \"Gel-X\" as-is per requirements\n- \"press-ons\" → \"press-on nails\" (using full glossary term)\n- Maintained all formatting tags exactly as in source\n- \"salon-quality feel\" → \"qualità professionale\" (natural Italian equivalent)\n- Preserved the sentence structure while maintaining natural Italian flow",
+    "source": "Once you have submitted your design, our <strong>expert nail techs</strong> handcraft each set on <em>authentic Gel-X bases</em>. <strong>No 3D printing. No bulky plastic.</strong> Just the perfect balance of thinness, flexibility, and <strong>salon-quality feel</strong> combined with the convenience of press-ons.",
+    "translation": "Una volta inviato il tuo design, i nostri <strong>onicotecnici esperti</strong> realizzano a mano ogni set su <em>fondi Gel-X autentici</em>. <strong>Niente stampa 3D. Niente plastica ingombrante.</strong> Solo il perfetto equilibrio tra sottigliezza, flessibilità e <strong>sensazione di qualità da salone</strong> combinata con la comodità dei press-on nails.",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
     "constraints_found": 3,
     "constraints_list": [
-      "nail tech → onicotecnica",
       "Gel-X → Gel-X",
+      "nail tech → onicotecnica",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-26 15:29:22"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.safety",
-    "source": "We are also proud to say that our products are {strong}Trimethylbenzoyl Diphenylphosphine Oxide (TPO)-free{/strong} and fully compliant with {strong}EU safety standards{/strong}. Beauty should never come at the cost of safety, and {strong}NaiLit{/strong} is committed to giving you both.",
-    "translation": "Here's the Italian translation, maintaining all HTML tags, brand names, and following the glossary:\n\nSiamo anche orgogliosi di dire che i nostri prodotti sono {strong}privi di Ossido di Trimetilbenzoil Difenilfosfina (TPO){/strong} e pienamente conformi agli {strong}standard di sicurezza UE{/strong}. La bellezza non dovrebbe mai andare a scapito della sicurezza, e {strong}NaiLit{/strong} si impegna a garantirti entrambe.\n\nNote: I've kept \"NaiLit\" unchanged as specified in the glossary, maintained the chemical name's acronym (TPO), and preserved all formatting tags while providing a natural Italian translation that maintains the original meaning and tone.",
+    "source": "We are also proud to say that our products are <strong>Trimethylbenzoyl Diphenylphosphine Oxide (TPO)-free</strong> and fully compliant with <strong>EU safety standards</strong>. Beauty should never come at the cost of safety, and <strong>NaiLit</strong> is committed to giving you both.",
+    "translation": "Siamo anche orgogliosi di dire che i nostri prodotti sono <strong>senza Trimethylbenzoyl Diphenylphosphine Oxide (TPO)</strong> e completamente conformi agli <strong>standard di sicurezza dell'UE</strong>. La bellezza non dovrebbe mai venire a scapito della sicurezza, e <strong>NaiLit</strong> si impegna a offrirti entrambi.",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -291,12 +317,13 @@
     "constraints_list": [
       "NaiLit → NaiLit"
     ],
-    "timestamp": "2025-09-26 15:29:27"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.kitIncludes",
-    "source": "{strong}Every kit comes complete with:{/strong}",
-    "translation": "{strong}Ogni kit include:{/strong}\n\nNote: I preserved the {strong} tags exactly as in the source, maintained a natural Italian expression, and kept the concise style appropriate for a list introduction. Since there were no glossary terms used in this particular segment, no specific mappings were needed.",
+    "source": "<strong>Every kit comes complete with:</strong>",
+    "translation": "<strong>Ogni kit è completo di:</strong>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -304,15 +331,16 @@
     "constraints_found": 3,
     "constraints_list": [
       "finish → finitura",
-      "nude → nude",
-      "milky white → bianco lattiginoso"
+      "seafoam → verde acqua",
+      "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-26 15:29:30"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.adhesiveKit",
-    "source": "{strong}1x Nail Adhesive Kit{/strong} (featuring both glue and sticker tabs, so you can choose between {em}long-lasting hold{/em} or {em}easy reuse{/em})",
-    "translation": "I'll translate this while maintaining all HTML tags, formatting, and following the glossary:\n\n{strong}1x Kit Adesivo per Unghie{/strong} (include sia colla che linguette adesive, così puoi scegliere tra una {em}tenuta duratura{/em} o un {em}facile riutilizzo{/em})\n\nThis translation:\n- Preserves all HTML tags in their exact positions\n- Maintains natural Italian flow\n- Accurately conveys the meaning and options\n- Uses appropriate Italian terminology for nail care products\n- Keeps the parallel structure between the two options",
+    "source": "<strong>1x Nail Adhesive Kit</strong> (featuring both glue and sticker tabs, so you can choose between <em>long-lasting hold</em> or <em>easy reuse</em>)",
+    "translation": "<strong>1x Kit di Adesivo per Unghie</strong> (che include sia colla che adesivi, così puoi scegliere tra <em>tenuta duratura</em> o <em>riutilizzo facile</em>)",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -321,12 +349,13 @@
     "constraints_list": [
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:29:35"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.removalKit",
-    "source": "{strong}1x Nail Removal Kit{/strong} (so you can change up your look whenever you want, {em}without damage{/em})",
-    "translation": "{strong}1x Kit per la Rimozione delle Unghie{/strong} (così puoi cambiare il tuo look quando vuoi, {em}senza danneggiare{/em})\n\nI preserved all HTML tags exactly as in the source ({strong} and {em}), used the glossary term \"rimozione\" for \"Removal\", and maintained a natural Italian flow while keeping the same meaning and structure as the original.",
+    "source": "<strong>1x Nail Removal Kit</strong> (so you can change up your look whenever you want, <em>without damage</em>)",
+    "translation": "<strong>1x Kit per la rimozione delle unghie</strong> (così puoi cambiare il tuo look ogni volta che vuoi, <em>senza danni</em>)",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -337,12 +366,13 @@
       "oval → ovale",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:29:43"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.confidence",
-    "source": "With {strong}NaiLit{/strong}, you do not just wear nails. You wear your {em}style{/em}, your {em}creativity{/em}, and your {em}confidence{/em}.",
-    "translation": "Con {strong}NaiLit{/strong}, non indossi semplicemente delle unghie. Indossi il tuo {em}stile{/em}, la tua {em}creatività{/em} e la tua {em}sicurezza{/em}.",
+    "source": "With <strong>NaiLit</strong>, you do not just wear nails. You wear your <em>style</em>, your <em>creativity</em>, and your <em>confidence</em>.",
+    "translation": "Con <strong>NaiLit</strong>, non indossi solo unghie. Indossi il tuo <em>stile</em>, la tua <em>creatività</em> e la tua <em>fiducia</em>.",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -352,12 +382,13 @@
       "NaiLit → NaiLit",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-26 15:29:45"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.motto",
-    "source": "{strong}NaiLit. Nails made for you, by you.{/strong} 💅",
-    "translation": "{strong}NaiLit. Unghie create per te, da te.{/strong} 💅",
+    "source": "<strong>NaiLit. Nails made for you, by you.</strong> 💅",
+    "translation": "<strong>NaiLit. Unghie create per te, da te.</strong> 💅</translation>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -368,12 +399,13 @@
       "press-on nails → press-on nails",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:29:47"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.faqText",
     "source": "For Order and Shipping related questions, please see our",
-    "translation": "Per domande relative all'Ordine e alla Spedizione, consulta il nostro",
+    "translation": "Per domande relative a ordini e spedizioni, si prega di consultare il nostro",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -384,28 +416,30 @@
       "press-on nails → press-on nails",
       "finish → finitura"
     ],
-    "timestamp": "2025-09-26 15:29:50"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.faqLink",
-    "source": "{link}FAQ page{/link}",
-    "translation": "{link}Pagina FAQ{/link}\n\nNote: I preserved the link tags exactly as in the source while translating \"FAQ page\" to \"Pagina FAQ\" in Italian. FAQ is a commonly used acronym in Italian as well, so it was kept as-is.",
+    "source": "<a href=\"#\">FAQ page</a>",
+    "translation": "<a href=\"#\">Pagina FAQ</a>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
     "constraints_found": 3,
     "constraints_list": [
-      "nail tech → onicotecnica",
-      "press-on nails → press-on nails",
-      "cat eye → cat-eye"
+      "seafoam → verde acqua",
+      "cat eye → cat-eye",
+      "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:29:53"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.title",
     "source": "Design Your Nails",
-    "translation": "Progetta Le Tue Unghie\n\nExplanation:\n- I translated \"Design\" to \"Progetta\" which is the imperative form of \"progettare\" in Italian, maintaining the direct call-to-action tone of the source\n- \"Your Nails\" is translated to \"Le Tue Unghie\" with proper Italian capitalization for titles\n- The translation is natural and idiomatic in Italian while preserving the original meaning\n- No glossary terms were used in this segment as none were applicable",
+    "translation": "Progetta le tue unghie",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -416,12 +450,13 @@
       "nail tech → onicotecnica",
       "NaiLit → NaiLit"
     ],
-    "timestamp": "2025-09-26 15:29:58"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.backToHome",
     "source": "Back to Home",
-    "translation": "Torna alla Home\n\nNote: In Italian, while we could translate this as \"Torna alla Pagina Iniziale\" or \"Torna al Menu Principale,\" it's common and accepted to keep \"Home\" in English as it's widely understood in the digital context. The translation maintains the same meaning while being natural and concise in Italian.",
+    "translation": "Torna alla Home",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -432,12 +467,13 @@
       "press-on nails → press-on nails",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-26 15:30:01"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.title",
     "source": "Shape",
-    "translation": "Forma\n\nExplanation:\n- Simple translation of \"Shape\" to \"Forma\" in Italian\n- While \"ovale\" appears in the glossary, it's not used here since the source is just the category label \"Shape\"\n- The translation is natural and commonly used in nail/beauty contexts in Italian\n- No HTML tags to preserve in this case",
+    "translation": "Forma",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -448,7 +484,8 @@
       "cat eye → cat-eye",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:30:06"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.oval",
@@ -464,7 +501,8 @@
       "Removal → rimozione",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-26 15:30:08"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.coffin",
@@ -480,12 +518,13 @@
       "seafoam → verde acqua",
       "glitter → glitterate"
     ],
-    "timestamp": "2025-09-26 15:30:10"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.stiletto",
     "source": "Stiletto",
-    "translation": "Stiletto\n\nExplanation: Since \"stiletto\" is defined in the glossary to remain as \"stiletto\" in Italian, and it's a technical term commonly used in nail art terminology in Italy as well, I kept it unchanged in the translation.",
+    "translation": "Stiletto",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -496,7 +535,8 @@
       "glitter → glitterate",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:30:13"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.almond",
@@ -512,7 +552,8 @@
       "oval → ovale",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-26 15:30:15"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.title",
@@ -528,7 +569,8 @@
       "glitter → glitterate",
       "muted pink → rosa antico"
     ],
-    "timestamp": "2025-09-26 15:30:17"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.mutedPink",
@@ -544,12 +586,13 @@
       "milky white → bianco lattiginoso",
       "glitter → glitterate"
     ],
-    "timestamp": "2025-09-26 15:30:19"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.nude",
     "source": "Nude",
-    "translation": "Nude\n\nExplanation: I kept \"nude\" as-is according to the glossary mapping which specifies that \"nude\" should remain \"nude\" in Italian. This is common practice in the beauty/cosmetics industry where certain English terms have become standardized internationally.",
+    "translation": "Nude",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -560,12 +603,13 @@
       "nail tech → onicotecnica",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-26 15:30:22"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.seafoam",
     "source": "Seafoam",
-    "translation": "Verde acqua",
+    "translation": "verde acqua",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -576,7 +620,8 @@
       "glitter → glitterate",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-26 15:30:23"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.milkyWhite",
@@ -592,7 +637,8 @@
       "muted pink → rosa antico",
       "glitter → glitterate"
     ],
-    "timestamp": "2025-09-26 15:30:24"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.title",
@@ -608,12 +654,13 @@
       "Removal → rimozione",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:30:26"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.blush",
     "source": "Blush",
-    "translation": "Blush nails\n\nExplanation: I used the exact glossary mapping provided where \"blush\" should be translated as \"blush nails\" in Italian. Since it's a specialized nail art term according to the glossary, I kept it as specified rather than translating it to a general Italian word for blush.",
+    "translation": "blush nails",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -624,12 +671,13 @@
       "glitter → glitterate",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-26 15:30:30"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.french",
     "source": "French",
-    "translation": "French\n\nExplanation: Since \"French\" is specified in the glossary to remain as-is (French → French), I kept it unchanged in the Italian translation. This is a common practice in nail art terminology where certain style names remain in their original form internationally.",
+    "translation": "Francese",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -640,12 +688,13 @@
       "cat eye → cat-eye",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:30:33"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.catEye",
     "source": "Cat Eye",
-    "translation": "Cat-eye\n\nExplanation:\n- I used the exact glossary mapping provided: \"cat eye → cat-eye\"\n- Since this is a technical nail art term, it's commonly kept in English in Italian as well\n- The hyphenated form is maintained as specified in the glossary\n- No HTML tags were present to preserve",
+    "translation": "Cat-eye",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -656,12 +705,13 @@
       "nail tech → onicotecnica",
       "glitter → glitterate"
     ],
-    "timestamp": "2025-09-26 15:30:36"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.glitter",
     "source": "Glitter",
-    "translation": "Glitterate",
+    "translation": "glitterate",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -672,12 +722,13 @@
       "blush → blush nails",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:30:38"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.size.title",
     "source": "Size",
-    "translation": "Taglia",
+    "translation": "Dimensione",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -688,12 +739,13 @@
       "finish → finitura",
       "Removal → rimozione"
     ],
-    "timestamp": "2025-09-26 15:30:40"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.size.short",
     "source": "Short",
-    "translation": "Target (it):\nCorto\n\nNote: In this case, the word \"Short\" is being used as a standalone adjective, so I translated it to its Italian equivalent \"Corto\". Since none of the provided glossary terms (cat eye, finish, muted pink) were relevant to this segment, I did not use them in the translation.",
+    "translation": "Breve",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -704,12 +756,13 @@
       "finish → finitura",
       "muted pink → rosa antico"
     ],
-    "timestamp": "2025-09-26 15:30:44"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.size.medium",
     "source": "Medium",
-    "translation": "Media\n\nExplanation: This is a straightforward translation of \"Medium\" to Italian, where \"Media\" is the appropriate equivalent when referring to a size/level/amount. The provided glossary terms (milky white, nude, Removal) were not relevant for this particular translation.",
+    "translation": "Medio",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -720,12 +773,13 @@
       "nude → nude",
       "Removal → rimozione"
     ],
-    "timestamp": "2025-09-26 15:30:46"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.size.long",
     "source": "Long",
-    "translation": "Lungo\n\nExplanation:\n- Simple translation of \"Long\" to \"Lungo\" in Italian\n- No glossary terms were relevant for this segment\n- No HTML tags to preserve\n- The translation is natural and appropriate in the context of nail descriptions",
+    "translation": "Lungo",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -736,12 +790,13 @@
       "cat eye → cat-eye",
       "nude → nude"
     ],
-    "timestamp": "2025-09-26 15:30:49"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.preview",
     "source": "Preview",
-    "translation": "Anteprima\n\nNote: I've translated \"Preview\" to \"Anteprima\" which is the standard Italian term used for preview/visualization functionality in user interfaces. Since there were no relevant glossary terms to apply in this simple one-word segment, I provided a direct natural translation.",
+    "translation": "Anteprima",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -752,7 +807,8 @@
       "press-on nails → press-on nails",
       "Removal → rimozione"
     ],
-    "timestamp": "2025-09-26 15:30:52"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.saveDesign",
@@ -768,12 +824,13 @@
       "Removal → rimozione",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-26 15:30:54"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.downloadDesign",
     "source": "Download Design",
-    "translation": "Scarica il Design\n\nNote: I kept \"Design\" capitalized in Italian as it appears to be part of a UI element/button label, which often maintains capitalization in Italian interfaces for consistency and emphasis.",
+    "translation": "Scarica Design",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -784,12 +841,13 @@
       "Removal → rimozione",
       "finish → finitura"
     ],
-    "timestamp": "2025-09-26 15:30:57"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.title",
     "source": "FAQ",
-    "translation": "FAQ\n\nNote: I kept \"FAQ\" as-is since it's a widely recognized acronym in Italian as well, though \"Domande frequenti\" would also be acceptable if a more localized version is preferred.",
+    "translation": "FAQ",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -800,12 +858,13 @@
       "seafoam → verde acqua",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:30:59"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.backToHome",
     "source": "← Back to Home",
-    "translation": "← Torna alla Home\n\nExplanation:\n- \"Back to\" is naturally translated as \"Torna alla\" in Italian\n- \"Home\" is commonly kept as \"Home\" in Italian web interfaces\n- The arrow symbol (←) is preserved exactly as in the source\n- The translation maintains the same concise and clear navigation purpose as the source text",
+    "translation": "← Torna alla Home",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -816,7 +875,8 @@
       "milky white → bianco lattiginoso",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:31:02"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.title",
@@ -832,11 +892,12 @@
       "finish → finitura",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-26 15:31:04"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.placeOrder.question",
-    "source": "{strong}How do I place an order?{/strong}",
+    "source": "<strong>How do I place an order?</strong>",
     "translation": "<strong>Come posso effettuare un ordine?</strong>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
@@ -845,15 +906,16 @@
     "constraints_found": 3,
     "constraints_list": [
       "press-on nails → press-on nails",
-      "finish → finitura",
-      "oval → ovale"
+      "oval → ovale",
+      "finish → finitura"
     ],
-    "timestamp": "2025-09-26 15:31:07"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.placeOrder.answer",
-    "source": "Simply use our {strong}Nail Dress-Up system{/strong} to design your set, add it to cart, and check out. Once your order is placed, our {em}expert nail techs{/em} will start handcrafting your press-ons.",
-    "translation": "Here's the Italian translation, following all requirements:\n\nUsa semplicemente il nostro {strong}sistema Nail Dress-Up{/strong} per progettare il tuo set, aggiungerlo al carrello e completare l'acquisto. Una volta effettuato l'ordine, le nostre {em}onicotecniche esperte{/em} inizieranno a realizzare a mano i tuoi press-on nails.\n\nNotes:\n- Preserved all HTML-style tags exactly\n- Used \"onicotecniche\" for \"nail techs\" per glossary\n- Kept \"press-on nails\" as-is per glossary\n- Kept \"Nail Dress-Up\" as-is as it appears to be a product name\n- Maintained natural Italian flow while being faithful to the source\n- Used feminine form \"onicotecniche\" as nail technicians are typically referred to in feminine form in Italian",
+    "source": "Simply use our <strong>Nail Dress-Up system</strong> to design your set, add it to cart, and check out. Once your order is placed, our <em>expert nail techs</em> will start handcrafting your press-ons.",
+    "translation": "Utilizza semplicemente il nostro <strong>Nail Dress-Up system</strong> per progettare il tuo set, aggiungerlo al carrello e procedere al pagamento. Una volta effettuato l'ordine, i nostri <em>onicotecnici esperti</em> inizieranno a realizzare a mano i tuoi press-on nails.",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -863,12 +925,13 @@
       "nail tech → onicotecnica",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-26 15:31:12"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.processTime.question",
-    "source": "{strong}How long does it take to process my order?{/strong}",
-    "translation": "<strong>Quanto tempo ci vuole per processare il mio ordine?</strong>",
+    "source": "<strong>How long does it take to process my order?</strong>",
+    "translation": "<strong>Quanto tempo ci vuole per elaborare il mio ordine?</strong>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -876,22 +939,24 @@
     "constraints_found": 3,
     "constraints_list": [
       "press-on nails → press-on nails",
-      "finish → finitura",
-      "Removal → rimozione"
+      "Removal → rimozione",
+      "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:31:16"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.processTime.answer",
-    "source": "Because each set is {em}custom-made{/em}, please allow {strong}5–7 business days{/strong} for production before shipping.",
-    "translation": "Here's the Italian translation, preserving all tags and maintaining natural flow:\n\nPoiché ogni set è {em}realizzato su misura{/em}, sono necessari {strong}5-7 giorni lavorativi{/strong} per la produzione prima della spedizione.\n\nThe translation:\n- Preserves all HTML-style tags exactly as in the source\n- Maintains a natural Italian flow\n- Accurately conveys the meaning about custom production and waiting time\n- Uses appropriate Italian business terminology (\"giorni lavorativi\" for \"business days\")\n- Keeps the numerical range format consistent (5-7)",
+    "source": "Because each set is <em>custom-made</em>, please allow <strong>5–7 business days</strong> for production before shipping.",
+    "translation": "Poiché ogni set è <em>realizzato su misura</em>, ti preghiamo di consentire <strong>5–7 giorni lavorativi</strong> per la produzione prima della spedizione.",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
     "constraints_found": 0,
     "constraints_list": [],
-    "timestamp": "2025-09-26 15:31:21"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.title",
@@ -907,12 +972,13 @@
       "Removal → rimozione",
       "glitter → glitterate"
     ],
-    "timestamp": "2025-09-26 15:31:22"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.whereShip.question",
-    "source": "{strong}Where do you ship?{/strong}",
-    "translation": "<strong>Dove spedite?</strong>",
+    "source": "<strong>Where do you ship?</strong>",
+    "translation": "<strong>Dove spedisci?</strong>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -921,25 +987,27 @@
     "constraints_list": [
       "seafoam → verde acqua",
       "press-on nails → press-on nails",
-      "nude → nude"
+      "Removal → rimozione"
     ],
-    "timestamp": "2025-09-26 15:31:26"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.whereShip.answer",
-    "source": "We currently ship domestically within the {strong}United States{/strong} and internationally to {strong}Italy, France, Canada, and Japan{/strong}.",
-    "translation": "I'll translate this while maintaining the HTML-style tags and keeping the country names in their Italian forms:\n\nAttualmente spediamo a livello nazionale negli {strong}Stati Uniti{/strong} e a livello internazionale in {strong}Italia, Francia, Canada e Giappone{/strong}.\n\nNote: I've translated the country names into their standard Italian forms:\n- United States → Stati Uniti\n- Italy → Italia\n- France → Francia\n- Canada → Canada (same in Italian)\n- Japan → Giappone\n\nThe structure and meaning are preserved while maintaining natural Italian flow and proper localization of geographical names.",
+    "source": "We currently ship domestically within the <strong>United States</strong> and internationally to <strong>Italy, France, Canada, and Japan</strong>.",
+    "translation": "Attualmente spediamo a livello nazionale all'interno degli <strong>Stati Uniti</strong> e internazionalmente in <strong>Italia, Francia, Canada e Giappone</strong>.",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
     "constraints_found": 0,
     "constraints_list": [],
-    "timestamp": "2025-09-26 15:31:30"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.cost.question",
-    "source": "{strong}How much is shipping?{/strong}",
+    "source": "<strong>How much is shipping?</strong>",
     "translation": "<strong>Quanto costa la spedizione?</strong>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
@@ -949,14 +1017,15 @@
     "constraints_list": [
       "seafoam → verde acqua",
       "press-on nails → press-on nails",
-      "nude → nude"
+      "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:31:33"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.cost.answer",
-    "source": "Domestic shipping is a {strong}flat rate of $X{/strong}. International shipping rates vary depending on destination and will be calculated at checkout.",
-    "translation": "La spedizione nazionale ha una {strong}tariffa fissa di $X{/strong}. Le tariffe di spedizione internazionale variano in base alla destinazione e verranno calcolate al momento del checkout.",
+    "source": "Domestic shipping is a <strong>flat rate of $X</strong>. International shipping rates vary depending on destination and will be calculated at checkout.",
+    "translation": "La spedizione domestica ha un <strong>costo fisso di $X</strong>. Le tariffe di spedizione internazionale variano a seconda della destinazione e saranno calcolate al momento del pagamento.",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -966,12 +1035,13 @@
       "press-on nails → press-on nails",
       "Gel-X → Gel-X"
     ],
-    "timestamp": "2025-09-26 15:31:35"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.question",
-    "source": "{strong}How long does shipping take?{/strong}",
-    "translation": "<strong>Quanto tempo richiede la spedizione?</strong>",
+    "source": "<strong>How long does shipping take?</strong>",
+    "translation": "<strong>Quanto tempo ci vuole per la spedizione?</strong>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -979,15 +1049,16 @@
     "constraints_found": 3,
     "constraints_list": [
       "press-on nails → press-on nails",
-      "seafoam → verde acqua",
-      "nude → nude"
+      "nail tech → onicotecnica",
+      "seafoam → verde acqua"
     ],
-    "timestamp": "2025-09-26 15:31:38"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.intro",
     "source": "Shipping times vary by destination:",
-    "translation": "I'll translate the segment into Italian:\n\nI tempi di spedizione variano in base alla destinazione:\n\nThis translation:\n- Maintains a natural Italian flow\n- Accurately conveys the meaning of the source text\n- Keeps the same punctuation structure\n- Uses standard Italian business communication style",
+    "translation": "I tempi di spedizione variano in base alla destinazione:",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -998,28 +1069,13 @@
       "press-on nails → press-on nails",
       "oval → ovale"
     ],
-    "timestamp": "2025-09-26 15:31:43"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.us",
-    "source": "{strong}United States:{/strong} 3–5 business days after processing",
-    "translation": "{strong}Stati Uniti:{/strong} 3-5 giorni lavorativi dopo l'elaborazione\n\nNote: I preserved the {strong} tags exactly as shown, maintained the numerical format and dash style, and provided a natural Italian translation for the shipping timeframe information.",
-    "model": "claude-3.5-sonnet",
-    "approach": "RAG",
-    "target_lang": "it",
-    "tm_hit": false,
-    "constraints_found": 3,
-    "constraints_list": [
-      "finish → finitura",
-      "press-on nails → press-on nails",
-      "nail tech → onicotecnica"
-    ],
-    "timestamp": "2025-09-26 15:31:46"
-  },
-  {
-    "path": "faq.shipping.duration.canada",
-    "source": "{strong}Canada:{/strong} 5–10 business days after processing",
-    "translation": "{strong}Canada:{/strong} 5-10 giorni lavorativi dopo l'elaborazione\n\nNote: I preserved the HTML-style tags exactly as in the source, kept \"Canada\" as-is since it's a proper noun, and provided a natural Italian translation for the shipping timeframe information. The numbers and formatting (5-10) were maintained as they represent the same values across languages.",
+    "source": "<strong>United States:</strong> 3–5 business days after processing",
+    "translation": "<strong>Stati Uniti:</strong> 3–5 giorni lavorativi dopo l'elaborazione",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -1030,12 +1086,30 @@
       "press-on nails → press-on nails",
       "Removal → rimozione"
     ],
-    "timestamp": "2025-09-26 15:31:50"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.duration.canada",
+    "source": "<strong>Canada:</strong> 5–10 business days after processing",
+    "translation": "<strong>Canada:</strong> 5–10 giorni lavorativi dopo la rimozione",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "it",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "finish → finitura",
+      "Removal → rimozione",
+      "press-on nails → press-on nails"
+    ],
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.europe",
-    "source": "{strong}Italy & France:{/strong} 7–14 business days after processing",
-    "translation": "<strong>Italia e Francia:</strong> 7-14 giorni lavorativi dopo l'elaborazione\n\nNote: I preserved the HTML tags, kept \"France\" in English as per glossary, and translated the text naturally into Italian while maintaining the same meaning and format. I used the standard Italian format for number ranges with en dash (7-14).",
+    "source": "<strong>Italy & France:</strong> 7–14 business days after processing",
+    "translation": "<strong>Italia e Francia:</strong> 7–14 giorni lavorativi dopo l'elaborazione",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -1046,12 +1120,13 @@
       "press-on nails → press-on nails",
       "finish → finitura"
     ],
-    "timestamp": "2025-09-26 15:31:57"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.japan",
-    "source": "{strong}Japan:{/strong} 7–14 business days after processing",
-    "translation": "<strong>Giappone:</strong> 7-14 giorni lavorativi dopo l'elaborazione",
+    "source": "<strong>Japan:</strong> 7–14 business days after processing",
+    "translation": "<strong>Giappone:</strong> 7–14 giorni lavorativi dopo l'elaborazione",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -1059,15 +1134,16 @@
     "constraints_found": 3,
     "constraints_list": [
       "press-on nails → press-on nails",
-      "finish → finitura",
-      "seafoam → verde acqua"
+      "nail tech → onicotecnica",
+      "finish → finitura"
     ],
-    "timestamp": "2025-09-26 15:32:01"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.returns.title",
     "source": "Returns & Exchanges",
-    "translation": "Resi e Cambi\n\nNote: I kept this translation simple and natural in Italian, using the standard business terminology for \"Returns & Exchanges\". Since there were no glossary terms used in this particular source segment, no specific mappings needed to be applied.",
+    "translation": "Resi e Scambi",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -1078,11 +1154,12 @@
       "cat eye → cat-eye",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-26 15:32:05"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.returns.acceptReturns.question",
-    "source": "{strong}Do you accept returns?{/strong}",
+    "source": "<strong>Do you accept returns?</strong>",
     "translation": "<strong>Accettate resi?</strong>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
@@ -1090,28 +1167,30 @@
     "tm_hit": false,
     "constraints_found": 3,
     "constraints_list": [
+      "Removal → rimozione",
       "press-on nails → press-on nails",
-      "nude → nude",
-      "Removal → rimozione"
+      "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-26 15:32:09"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.returns.acceptReturns.answer",
-    "source": "Because each set is {em}handcrafted and customized{/em}, we unfortunately {strong}cannot accept returns{/strong}. If there is an issue with your order, please contact us and we will make it right.",
-    "translation": "Here's the Italian translation, maintaining all formatting tags and keeping the natural flow:\n\nPoiché ogni set è {em}realizzato a mano e personalizzato{/em}, purtroppo {strong}non possiamo accettare resi{/strong}. Se ci sono problemi con il tuo ordine, contattaci e troveremo una soluzione.",
+    "source": "Because each set is <em>handcrafted and customized</em>, we unfortunately <strong>cannot accept returns</strong>. If there is an issue with your order, please contact us and we will make it right.",
+    "translation": "Poiché ogni set è <em>realizzato a mano e personalizzato</em>, purtroppo <strong>non possiamo accettare resi</strong>. Se c'è un problema con il tuo ordine, ti preghiamo di contattarci e faremo il possibile per risolverlo.",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
     "constraints_found": 0,
     "constraints_list": [],
-    "timestamp": "2025-09-26 15:32:12"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.other.title",
     "source": "Other Questions",
-    "translation": "Altre Domande",
+    "translation": "Altre domande",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -1122,12 +1201,13 @@
       "nail tech → onicotecnica",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-26 15:32:14"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.other.contactText",
     "source": "If you have a question not covered here, please reach out to us through our",
-    "translation": "Se hai una domanda che non è trattata qui, contattaci attraverso il nostro\n\nNote: Since there were no glossary terms used in this specific source segment, I provided a direct natural Italian translation while maintaining the same meaning and tone of the original text.",
+    "translation": "Se hai una domanda non trattata qui, ti preghiamo di contattarci tramite il nostro",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -1138,12 +1218,13 @@
       "press-on nails → press-on nails",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-26 15:32:17"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.other.contactLink",
-    "source": "{link}Contact page{/link}",
-    "translation": "{link}Pagina contatti{/link}\n\nNote: I preserved the link tags exactly as in the source while translating the text between them naturally into Italian. \"Contact page\" is commonly translated as \"Pagina contatti\" in Italian website localization.",
+    "source": "<a href=\"#\">Contact page</a>",
+    "translation": "<a href=\"#\">Pagina di contatto</a>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -1154,28 +1235,30 @@
       "nail tech → onicotecnica",
       "seafoam → verde acqua"
     ],
-    "timestamp": "2025-09-26 15:32:19"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.other.helpText",
-    "source": "We are {strong}always happy to help{/strong}.",
-    "translation": "Siamo {strong}sempre felici di aiutare{/strong}.",
+    "source": "We are <strong>always happy to help</strong>.",
+    "translation": "Siamo <strong>sempre felici di aiutare</strong>.",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
     "constraints_found": 3,
     "constraints_list": [
-      "finish → finitura",
-      "blush → blush nails",
-      "nude → nude"
+      "nail tech → onicotecnica",
+      "press-on nails → press-on nails",
+      "finish → finitura"
     ],
-    "timestamp": "2025-09-26 15:32:21"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "footer.copyright",
-    "source": "© 2025 {strong}NaiLit{/strong}.",
-    "translation": "© 2025 {strong}NaiLit{/strong}.\n\nNote: I preserved the copyright symbol (©), year, and the brand name \"NaiLit\" as-is per requirements, maintaining the exact HTML-style tags. Since this is a copyright notice with a protected brand name, no translation was needed beyond maintaining the format.",
+    "source": "© 2025 <strong>NaiLit</strong>.",
+    "translation": "© 2025 <strong>NaiLit</strong>.",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "it",
@@ -1184,8 +1267,9 @@
     "constraints_list": [
       "NaiLit → NaiLit",
       "nail tech → onicotecnica",
-      "nude → nude"
+      "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-26 15:32:25"
+    "timestamp": "2025-09-26 23:48:46",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   }
 ]

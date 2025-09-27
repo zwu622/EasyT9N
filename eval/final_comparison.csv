@@ -1,0 +1,4 @@
+language,dnt_preservation_rate,glossary_adherence_avg,tag_preservation_rate,bleu_score,chrf_score,semantic_similarity_avg,rag_duration_sec,rag_segments_per_sec,rag_est_cost_usd,baseline_model,baseline_duration_sec,baseline_segments_per_sec,baseline_avg_latency_sec,baseline_est_cost_usd,delta_segments_per_sec,delta_cost_usd
+fr,1.0,0.974,0.987,87.35,89.55,0.972,20.6,3.6830117371026,,claude-3-5-sonnet,30.46,2.4949999999999997,0.401,21.72,1.1880117371026002,
+it,1.0,0.943,0.974,85.43,89.16,0.976,26.9,2.8301573051536586,,claude-3-5-sonnet,79.28,0.9583333333333334,1.043,19.485,1.8718239718203251,
+ja,1.0,0.993,0.947,72.36,78.74,0.961,41.6,1.828222984895215,,claude-3-5-sonnet,80.24,0.9466666666666667,1.056,13.41,0.8815563182285483,

@@ -5,7 +5,7 @@
     "translation": "デザイン",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:45:34"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "nav.about",
@@ -13,7 +13,15 @@
     "translation": "私たちについて",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:45:36"
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "about.title",
+    "source": "About Us",
+    "translation": "私たちについて",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "nav.faq",
@@ -21,383 +29,7 @@
     "translation": "よくある質問",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:45:36"
-  },
-  {
-    "path": "hero.title",
-    "source": "Design Your",
-    "translation": "あなたのデザイン",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:45:56"
-  },
-  {
-    "path": "hero.titleHighlight",
-    "source": "{span}Perfect Nails{/span}",
-    "translation": "{span}完璧なネイル{/span}",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:45:59"
-  },
-  {
-    "path": "hero.subtitle",
-    "source": "No more salon stress. No more flimsy press-ons. With {strong}NaiLit{/strong}, you get {strong}fully custom{/strong}, {strong}hand-painted{/strong}, {strong}durable{/strong}, {strong}reusable{/strong} Gel-X press-on nails for every occasion.",
-    "translation": "もうサロンでのストレスも、頼りないプレスオンもありません。<strong>NaiLit</strong>なら、どんな場面にも合う、<strong>フルオーダーメイド</strong>、<strong>手描き</strong>、<strong>丈夫</strong>で<strong>再利用可能</strong>なGel-Xプレスオンネイルを手に入れることができます。",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:46:15"
-  },
-  {
-    "path": "hero.startDesigning",
-    "source": "Start Designing",
-    "translation": "デザインを開始",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:46:16"
-  },
-  {
-    "path": "features.designer.title",
-    "source": "Custom Designer",
-    "translation": "カスタムデザイナー",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:46:20"
-  },
-  {
-    "path": "features.designer.description",
-    "source": "Mix and match {strong}colors, patterns, and finishes{/strong} to create your unique style",
-    "translation": "{strong}色、柄、仕上げ{/strong}を自由に組み合わせて、あなただけのスタイルを作りましょう",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:46:26"
-  },
-  {
-    "path": "features.share.title",
-    "source": "Share & Save",
-    "translation": "共有と保存",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:46:31"
-  },
-  {
-    "path": "features.share.description",
-    "source": "{strong}Download your designs{/strong} or share them with friends via social links",
-    "translation": "{strong}デザインをダウンロード{/strong} またはソーシャルリンクで友達と共有する",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:46:38"
-  },
-  {
-    "path": "features.premium.title",
-    "source": "Premium Sets",
-    "translation": "プレミアムセット",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:46:40"
-  },
-  {
-    "path": "features.premium.description",
-    "source": "Order {strong}custom designs{/strong} or choose from our curated nail art collections",
-    "translation": "{strong}カスタムデザイン{/strong}を注文、または厳選されたネイルアートコレクションからお選びください",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:46:49"
-  },
-  {
-    "path": "about.title",
-    "source": "About Us",
-    "translation": "会社概要",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:46:50"
-  },
-  {
-    "path": "about.backToHome",
-    "source": "← Back to Home",
-    "translation": "← ホームへ戻る",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:46:51"
-  },
-  {
-    "path": "about.tagline",
-    "source": "{strong}NaiLit{/strong} is here to make your nails {em}lit{/em} and help you {em}nail it{/em}! ✨",
-    "translation": "{strong}NaiLit{/strong}は、あなたのネイルを{em}きらめかせ{/em}、あなたが{em}ばっちり決める{/em}お手伝いをします！ ✨",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:47:07"
-  },
-  {
-    "path": "about.intro",
-    "source": "We believe that nails should be as {strong}unique as you are{/strong}. That is why {strong}NaiLit{/strong} offers fully customizable press-on nails designed with you in mind. Using our {em}Nail Dress-Up system{/em}, you can choose your shape, length, color, and finish to create a set that is {strong}100% your style{/strong}.",
-    "translation": "爪は、あなたと同じくらい{strong}ユニークであるべき{/strong}だと信じています。だからこそ、{strong}NaiLit{/strong}は、あなたを念頭に置いてデザインされた、完全にカスタマイズ可能なプレスオンネイルを提供しています。私たちの{em}Nail Dress-Up system{/em}を使用すれば、形状、長さ、色、仕上げを選んで、{strong}100%あなたらしいスタイル{/strong}のセットを作成できます。",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:47:12"
-  },
-  {
-    "path": "about.craftmanship",
-    "source": "Once you have submitted your design, our {strong}expert nail techs{/strong} handcraft each set on {em}authentic Gel-X bases{/em}. {strong}No 3D printing. No bulky plastic.{/strong} Just the perfect balance of thinness, flexibility, and {strong}salon-quality feel{/strong} combined with the convenience of press-ons.",
-    "translation": "デザインを送信いただくと、弊社の{strong}熟練ネイリスト{/strong}が、{em}本物のGel-Xベース{/em}を使って各セットを手作りします。{strong}3Dプリントは一切なし。かさばるプラスチックもなし。{/strong}薄さ、柔軟性、そして{strong}サロンクオリティのつけ心地{/strong}の完璧なバランスに、プレスオンの利便性を兼ね備えています。",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:47:19"
-  },
-  {
-    "path": "about.safety",
-    "source": "We are also proud to say that our products are {strong}Trimethylbenzoyl Diphenylphosphine Oxide (TPO)-free{/strong} and fully compliant with {strong}EU safety standards{/strong}. Beauty should never come at the cost of safety, and {strong}NaiLit{/strong} is committed to giving you both.",
-    "translation": "また、当社の製品が{strong}Trimethylbenzoyl Diphenylphosphine Oxide (TPO)フリー{/strong}であり、{strong}EU安全基準{/strong}に完全に準拠していることも、当社の誇りです。美しさは安全を犠牲にして得るものではなく、{strong}NaiLit{/strong}はお客様にその両方を提供することをお約束します。",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:47:31"
-  },
-  {
-    "path": "about.kitIncludes",
-    "source": "{strong}Every kit comes complete with:{/strong}",
-    "translation": "{strong}すべてのキットに以下がすべて含まれています：{/strong}",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:47:37"
-  },
-  {
-    "path": "about.adhesiveKit",
-    "source": "{strong}1x Nail Adhesive Kit{/strong} (featuring both glue and sticker tabs, so you can choose between {em}long-lasting hold{/em} or {em}easy reuse{/em})",
-    "translation": "<strong>1x ネイル接着キット</strong>（接着剤と粘着タブの両方を備え、<em>長持ちする接着</em>または<em>簡単な再利用</em>のどちらかをお選びいただけます）",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:47:41"
-  },
-  {
-    "path": "about.removalKit",
-    "source": "{strong}1x Nail Removal Kit{/strong} (so you can change up your look whenever you want, {em}without damage{/em})",
-    "translation": "{strong}ネイルリムーバルキット1個{/strong}（好きな時にいつでもルックを変えられるように、{em}爪を傷つけることなく{/em}）",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:47:51"
-  },
-  {
-    "path": "about.confidence",
-    "source": "With {strong}NaiLit{/strong}, you do not just wear nails. You wear your {em}style{/em}, your {em}creativity{/em}, and your {em}confidence{/em}.",
-    "translation": "{strong}NaiLit{/strong}なら、単にネイルを身につけるだけではありません。あなたの{em}スタイル{/em}、{em}創造性{/em}、そして{em}自信{/em}を身につけるのです。",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:47:58"
-  },
-  {
-    "path": "about.motto",
-    "source": "{strong}NaiLit. Nails made for you, by you.{/strong} 💅",
-    "translation": "{strong}NaiLit。あなた専用のネイル、あなたがつくる。{/strong} 💅",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:08"
-  },
-  {
-    "path": "about.faqText",
-    "source": "For Order and Shipping related questions, please see our",
-    "translation": "注文と配送に関するご質問は、弊社の",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:11"
-  },
-  {
-    "path": "about.faqLink",
-    "source": "{link}FAQ page{/link}",
-    "translation": "{link}FAQページ{/link}",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:12"
-  },
-  {
-    "path": "design.title",
-    "source": "Design Your Nails",
-    "translation": "ネイルをデザイン",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:17"
-  },
-  {
-    "path": "design.backToHome",
-    "source": "Back to Home",
-    "translation": "ホームへ戻る",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:18"
-  },
-  {
-    "path": "design.shape.title",
-    "source": "Shape",
-    "translation": "形",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:19"
-  },
-  {
-    "path": "design.shape.oval",
-    "source": "Oval",
-    "translation": "オーバル",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:21"
-  },
-  {
-    "path": "design.shape.coffin",
-    "source": "Coffin",
-    "translation": "棺",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:22"
-  },
-  {
-    "path": "design.shape.stiletto",
-    "source": "Stiletto",
-    "translation": "スティレット",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:24"
-  },
-  {
-    "path": "design.shape.almond",
-    "source": "Almond",
-    "translation": "アーモンド",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:25"
-  },
-  {
-    "path": "design.color.title",
-    "source": "Color",
-    "translation": "色",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:25"
-  },
-  {
-    "path": "design.color.mutedPink",
-    "source": "Muted Pink",
-    "translation": "くすんだピンク",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:28"
-  },
-  {
-    "path": "design.color.nude",
-    "source": "Nude",
-    "translation": "ヌード",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:29"
-  },
-  {
-    "path": "design.color.seafoam",
-    "source": "Seafoam",
-    "translation": "シーフォーム",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:32"
-  },
-  {
-    "path": "design.color.milkyWhite",
-    "source": "Milky White",
-    "translation": "乳白色",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:35"
-  },
-  {
-    "path": "design.finish.title",
-    "source": "Finish",
-    "translation": "完了",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:38"
-  },
-  {
-    "path": "design.finish.blush",
-    "source": "Blush",
-    "translation": "チーク",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:39"
-  },
-  {
-    "path": "design.finish.french",
-    "source": "French",
-    "translation": "フランス語",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:41"
-  },
-  {
-    "path": "design.finish.catEye",
-    "source": "Cat Eye",
-    "translation": "キャットアイ",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:42"
-  },
-  {
-    "path": "design.finish.glitter",
-    "source": "Glitter",
-    "translation": "グリッター",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:43"
-  },
-  {
-    "path": "design.size.title",
-    "source": "Size",
-    "translation": "サイズ",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:45"
-  },
-  {
-    "path": "design.size.short",
-    "source": "Short",
-    "translation": "ショート",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:50"
-  },
-  {
-    "path": "design.size.medium",
-    "source": "Medium",
-    "translation": "Medium",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:51"
-  },
-  {
-    "path": "design.size.long",
-    "source": "Long",
-    "translation": "長い",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:54"
-  },
-  {
-    "path": "design.preview",
-    "source": "Preview",
-    "translation": "プレビュー",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:55"
-  },
-  {
-    "path": "design.saveDesign",
-    "source": "Save Design",
-    "translation": "デザインを保存",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:56"
-  },
-  {
-    "path": "design.downloadDesign",
-    "source": "Download Design",
-    "translation": "デザインをダウンロード",
-    "model": "gemini-2.5-flash",
-    "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:58"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.title",
@@ -405,55 +37,423 @@
     "translation": "よくある質問",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:48:59"
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "hero.title",
+    "source": "Design Your",
+    "translation": "デザインする",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "hero.titleHighlight",
+    "source": "<span>Perfect Nails</span>",
+    "translation": "<span>パーフェクトネイル</span>",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "hero.subtitle",
+    "source": "No more salon stress. No more flimsy press-ons. With <strong>NaiLit</strong>, you get <strong>fully custom</strong>, <strong>hand-painted</strong>, high-quality <strong>Gel-X</strong> press-on nails for every occasion.",
+    "translation": "もうサロンでのストレスも、頼りないプレスオンネイルも必要ありません。<strong>NaiLit</strong>なら、あらゆる場面にぴったりの、<strong>完全にカスタムされた</strong>、<strong>手描き</strong>の高品質<strong>Gel-X</strong>プレスオンネイルをお届けします。",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "hero.startDesigning",
+    "source": "Start Designing",
+    "translation": "デザインを開始",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "features.designer.title",
+    "source": "Custom Designer",
+    "translation": "カスタムデザイナー",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "features.designer.description",
+    "source": "Mix and match <strong>colors, patterns, and finishes</strong> to create your unique style",
+    "translation": "<strong>色、模様、仕上げ</strong>を自由に組み合わせて、あなただけのユニークなスタイルを作りましょう",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "features.share.title",
+    "source": "Share & Save",
+    "translation": "シェア＆保存",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "features.share.description",
+    "source": "<strong>Download your designs</strong> or share them with friends via social links",
+    "translation": "<strong>デザインをダウンロード</strong>するか、ソーシャルリンク経由で友達とシェア",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "features.premium.title",
+    "source": "Premium Sets",
+    "translation": "プレミアムセット",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "features.premium.description",
+    "source": "Order <strong>custom designs</strong> or choose from our curated nail art collections",
+    "translation": "<strong>カスタムデザイン</strong>をオーダーするか、私たちの厳選されたネイルアートコレクションからお選びください",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "about.backToHome",
+    "source": "← Back to Home",
+    "translation": "← ホームに戻る",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.backToHome",
     "source": "← Back to Home",
-    "translation": "← ホームへ戻る",
+    "translation": "← ホームに戻る",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:49:00"
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "about.tagline",
+    "source": "<strong>NaiLit</strong> is here to make your nails <em>lit</em> and help you <em>nail it</em>! ✨",
+    "translation": "<strong>NaiLit</strong>は、あなたのネイルを<em>輝かせ</em>、あなたが<em>バッチリ決める</em>お手伝いをします！ ✨",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "about.intro",
+    "source": "We believe that nails should be as <strong>unique as you are</strong>. That is why <strong>NaiLit</strong> offers fully customizable press-on nails designed with you in mind. Using our <em>Nail Dress-Up system</em>, you can choose your shape, length, color, and finish to create a set that is <strong>100% your style</strong>.",
+    "translation": "私たちは、ネイルはあなたと同じくらい<strong>個性的であるべきだと</strong>考えています。だからこそ、<strong>NaiLit</strong>は、あなたを念頭に置いてデザインされた、完全にカスタマイズ可能なプレスオンネイルを提供しています。私たちの<em>Nail Dress-Up system</em>を使えば、形、長さ、色、仕上げを選び、<strong>100%あなたのスタイル</strong>のセットを作ることができます。",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "about.craftmanship",
+    "source": "Once you have submitted your design, our <strong>expert nail techs</strong> handcraft each set on <em>authentic Gel-X bases</em>. <strong>No 3D printing. No bulky plastic.</strong> Just the perfect balance of thinness, flexibility, and <strong>salon-quality feel</strong> combined with the convenience of press-ons.",
+    "translation": "デザインをご提出いただくと、弊社の<strong>熟練ネイリスト</strong>が、<em>本物のGel-Xベース</em>の上に各セットを手作りします。<strong>3Dプリントは一切なし。かさばるプラスチックもなし。</strong>薄さ、しなやかさ、そして<strong>サロン品質のつけ心地</strong>の完璧なバランスが、プレスオンの利便性と融合しています。",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "about.safety",
+    "source": "We are also proud to say that our products are <strong>Trimethylbenzoyl Diphenylphosphine Oxide (TPO)-free</strong> and fully compliant with <strong>EU safety standards</strong>. Beauty should never come at the cost of safety, and <strong>NaiLit</strong> is committed to giving you both.",
+    "translation": "当社の製品が<strong>Trimethylbenzoyl Diphenylphosphine Oxide (TPO)不使用</strong>であり、<strong>EU安全基準</strong>に完全に準拠していることも、誇りを持って申し上げます。美しさが安全性を犠牲にして実現されるべきではなく、<strong>NaiLit</strong>はお客様にその両方を提供することをお約束します。",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "about.kitIncludes",
+    "source": "<strong>Every kit comes complete with:</strong>",
+    "translation": "<strong>各キットには、以下のものがすべて含まれています：</strong>",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "about.adhesiveKit",
+    "source": "<strong>1x Nail Adhesive Kit</strong> (featuring both glue and sticker tabs, so you can choose between <em>long-lasting hold</em> or <em>easy reuse</em>)",
+    "translation": "<strong>ネイル用接着キット 1セット</strong>（グルーと粘着タブの両方が付属しているため、<em>長持ちする固定力</em>と<em>簡単な再利用</em>のどちらかをお選びいただけます）",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "about.removalKit",
+    "source": "<strong>1x Nail Removal Kit</strong> (so you can change up your look whenever you want, <em>without damage</em>)",
+    "translation": "<strong>1x ネイルリムーバルキット</strong> (いつでも気分に合わせてルックを変えられるよう、<em>爪を傷つけることなく</em>)",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "about.confidence",
+    "source": "With <strong>NaiLit</strong>, you do not just wear nails. You wear your <em>style</em>, your <em>creativity</em>, and your <em>confidence</em>.",
+    "translation": "<strong>NaiLit</strong>なら、ただネイルを身につけるだけではありません。あなたの<em>スタイル</em>、あなたの<em>創造性</em>、そしてあなたの<em>自信</em>をまとうのです。",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "about.motto",
+    "source": "<strong>NaiLit. Nails made for you, by you.</strong> 💅",
+    "translation": "<strong>NaiLit。あなたのために、あなたが作るネイル。</strong> 💅",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "about.faqText",
+    "source": "For Order and Shipping related questions, please see our",
+    "translation": "ご注文および配送に関するご質問は、当社の",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "about.faqLink",
+    "source": "<a href=\"#\">FAQ page</a>",
+    "translation": "<a href=\"#\">FAQページ</a>",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.title",
+    "source": "Design Your Nails",
+    "translation": "ネイルをデザイン",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.backToHome",
+    "source": "Back to Home",
+    "translation": "ホームに戻る",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.shape.title",
+    "source": "Shape",
+    "translation": "シェイプ",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.shape.oval",
+    "source": "Oval",
+    "translation": "オーバル",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.shape.coffin",
+    "source": "Coffin",
+    "translation": "棺</translation>",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.shape.stiletto",
+    "source": "Stiletto",
+    "translation": "スティレット",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.shape.almond",
+    "source": "Almond",
+    "translation": "アーモンド",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.color.title",
+    "source": "Color",
+    "translation": "色",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.color.mutedPink",
+    "source": "Muted Pink",
+    "translation": "くすんだピンク",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.color.nude",
+    "source": "Nude",
+    "translation": "ヌード",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.color.seafoam",
+    "source": "Seafoam",
+    "translation": "シーフォーム</translation>",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.color.milkyWhite",
+    "source": "Milky White",
+    "translation": "ミルキーホワイト",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.finish.title",
+    "source": "Finish",
+    "translation": "完了",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.finish.blush",
+    "source": "Blush",
+    "translation": "ブラッシュ",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.finish.french",
+    "source": "French",
+    "translation": "フランス語",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.finish.catEye",
+    "source": "Cat Eye",
+    "translation": "キャッツアイ",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.finish.glitter",
+    "source": "Glitter",
+    "translation": "グリッター",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.size.title",
+    "source": "Size",
+    "translation": "サイズ",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.size.short",
+    "source": "Short",
+    "translation": "短い",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.size.medium",
+    "source": "Medium",
+    "translation": "ミディアム",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.size.long",
+    "source": "Long",
+    "translation": "長い",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.preview",
+    "source": "Preview",
+    "translation": "プレビュー",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.saveDesign",
+    "source": "Save Design",
+    "translation": "デザインを保存",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
+  },
+  {
+    "path": "design.downloadDesign",
+    "source": "Download Design",
+    "translation": "デザインダウンロード",
+    "model": "gemini-2.5-flash",
+    "target_lang": "ja",
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.orders.title",
     "source": "Orders",
-    "translation": "注文",
+    "translation": "ご注文",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:49:02"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.orders.placeOrder.question",
-    "source": "{strong}How do I place an order?{/strong}",
-    "translation": "{strong}注文するにはどうすればよいですか？{/strong}",
+    "source": "<strong>How do I place an order?</strong>",
+    "translation": "<strong>どうやって注文しますか？</strong>",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:49:05"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.orders.placeOrder.answer",
-    "source": "Simply use our {strong}Nail Dress-Up system{/strong} to design your set, add it to cart, and check out. Once your order is placed, our {em}expert nail techs{/em} will start handcrafting your press-ons.",
-    "translation": "当社の<strong>Nail Dress-Up system</strong>を使ってセットをデザインし、カートに追加して精算するだけです。ご注文が完了すると、当社の<em>熟練のネイリスト</em>がお客様のプレスオンのハンドクラフトを開始いたします。",
+    "source": "Simply use our <strong>Nail Dress-Up system</strong> to design your set, add it to cart, and check out. Once your order is placed, our <em>expert nail techs</em> will start handcrafting your press-ons.",
+    "translation": "当社の<strong>Nail Dress-Up system</strong>を使い、セットをデザインし、カートに追加し、チェックアウトするだけです。ご注文が確定すると、当社の<em>熟練ネイリスト</em>がお客様のプレスオンネイルの手作りを開始します。",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:49:16"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.orders.processTime.question",
-    "source": "{strong}How long does it take to process my order?{/strong}",
-    "translation": "{strong}ご注文の処理にどのくらいかかりますか？{/strong}",
+    "source": "<strong>How long does it take to process my order?</strong>",
+    "translation": "<strong>注文の処理にはどのくらいかかりますか？</strong>",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:49:19"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.orders.processTime.answer",
-    "source": "Because each set is {em}custom-made{/em}, please allow {strong}5–7 business days{/strong} for production before shipping.",
-    "translation": "各セットが{em}カスタムメイド{/em}であるため、発送前の製作に{strong}5～7営業日{/strong}を頂戴しております。",
+    "source": "Because each set is <em>custom-made</em>, please allow <strong>5–7 business days</strong> for production before shipping.",
+    "translation": "各セットは<em>受注生産</em>であるため、発送までに製造に<strong>5～7営業日</strong>お時間をいただきます。",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:49:28"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.shipping.title",
@@ -461,87 +461,87 @@
     "translation": "配送",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:49:29"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.shipping.whereShip.question",
-    "source": "{strong}Where do you ship?{/strong}",
-    "translation": "{strong}どこへ配送しますか？{/strong}",
+    "source": "<strong>Where do you ship?</strong>",
+    "translation": "<strong>どこへ発送しますか？</strong>",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:49:32"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.shipping.whereShip.answer",
-    "source": "We currently ship domestically within the {strong}United States{/strong} and internationally to {strong}Italy, France, Canada, and Japan{/strong}.",
-    "translation": "現在、{strong}米国{/strong}国内へは配送しており、海外へは{strong}イタリア、フランス、カナダ、および日本{/strong}へ配送しております。",
+    "source": "We currently ship domestically within the <strong>United States</strong> and internationally to <strong>Italy, France, Canada, and Japan</strong>.",
+    "translation": "現在、発送は<strong>米国</strong>国内、および海外では<strong>イタリア、フランス、カナダ、日本</strong>へ行っております。",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:49:39"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.shipping.cost.question",
-    "source": "{strong}How much is shipping?{/strong}",
-    "translation": "{strong}送料はいくらですか？{/strong}",
+    "source": "<strong>How much is shipping?</strong>",
+    "translation": "<strong>送料はいくらですか？</strong>",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:49:42"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.shipping.cost.answer",
-    "source": "Domestic shipping is a {strong}flat rate of $X{/strong}. International shipping rates vary depending on destination and will be calculated at checkout.",
-    "translation": "国内送料は{strong}$Xの定額料金{/strong}です。国際送料は配送先によって異なり、チェックアウト時に計算されます。",
+    "source": "Domestic shipping is a <strong>flat rate of $X</strong>. International shipping rates vary depending on destination and will be calculated at checkout.",
+    "translation": "国内送料は<strong>一律Xドル</strong>です。国際送料は配送先によって異なり、チェックアウト時に計算されます。",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:49:47"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.shipping.duration.question",
-    "source": "{strong}How long does shipping take?{/strong}",
-    "translation": "{strong}配送にはどのくらいかかりますか？{/strong}",
+    "source": "<strong>How long does shipping take?</strong>",
+    "translation": "<strong>配送にはどのくらい時間がかかりますか？</strong>",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:49:50"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.shipping.duration.intro",
     "source": "Shipping times vary by destination:",
-    "translation": "お届け先によって配送時間が異なります：",
+    "translation": "配送時間は配送先によって異なります：",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:49:52"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.shipping.duration.us",
-    "source": "{strong}United States:{/strong} 3–5 business days after processing",
-    "translation": "{strong}米国：{/strong} 処理後3～5営業日",
+    "source": "<strong>United States:</strong> 3–5 business days after processing",
+    "translation": "<strong>米国：</strong>処理後3～5営業日",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:49:58"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.shipping.duration.canada",
-    "source": "{strong}Canada:{/strong} 5–10 business days after processing",
-    "translation": "{strong}カナダ：{/strong}処理後5～10営業日",
+    "source": "<strong>Canada:</strong> 5–10 business days after processing",
+    "translation": "<strong>カナダ：</strong>処理後5～10営業日",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:50:01"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.shipping.duration.europe",
-    "source": "{strong}Italy & France:{/strong} 7–14 business days after processing",
-    "translation": "{strong}イタリアとフランス:{/strong} 処理後7〜14営業日",
+    "source": "<strong>Italy & France:</strong> 7–14 business days after processing",
+    "translation": "<strong>イタリア＆フランス：</strong> 発送処理後7～14営業日",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:50:04"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.shipping.duration.japan",
-    "source": "{strong}Japan:{/strong} 7–14 business days after processing",
-    "translation": "{strong}日本:{/strong} 処理後7～14営業日",
+    "source": "<strong>Japan:</strong> 7–14 business days after processing",
+    "translation": "<strong>日本：</strong>処理後7～14営業日",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:50:08"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.returns.title",
@@ -549,23 +549,23 @@
     "translation": "返品・交換",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:50:09"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.returns.acceptReturns.question",
-    "source": "{strong}Do you accept returns?{/strong}",
-    "translation": "{strong}返品を受け付けていますか？{/strong}",
+    "source": "<strong>Do you accept returns?</strong>",
+    "translation": "<strong>返品は受け付けていますか？</strong>",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:50:11"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.returns.acceptReturns.answer",
-    "source": "Because each set is {em}handcrafted and customized{/em}, we unfortunately {strong}cannot accept returns{/strong}. If there is an issue with your order, please contact us and we will make it right.",
-    "translation": "各セットは{em}手作りでカスタマイズされている{/em}ため、誠に申し訳ございませんが、{strong}返品はお受けできません{/strong}。ご注文に問題がございましたら、当社までご連絡ください。適切に対応させていただきます。",
+    "source": "Because each set is <em>handcrafted and customized</em>, we unfortunately <strong>cannot accept returns</strong>. If there is an issue with your order, please contact us and we will make it right.",
+    "translation": "各セットは<em>手作りでカスタマイズ</em>されているため、誠に申し訳ございませんが、<strong>返品は承りかねます</strong>。ご注文に問題がございましたら、当社にご連絡ください。誠実に対応させていただきます。",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:50:16"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.other.title",
@@ -573,7 +573,7 @@
     "translation": "その他の質問",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:50:17"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.other.contactText",
@@ -581,30 +581,30 @@
     "translation": "ここに記載されていないご質問がある場合は、当社の",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:50:26"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.other.contactLink",
-    "source": "{link}Contact page{/link}",
-    "translation": "{link}お問い合わせページ{/link}",
+    "source": "<a href=\"#\">Contact page</a>",
+    "translation": "<a href=\"#\">お問い合わせページ</a>",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:50:28"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "faq.other.helpText",
-    "source": "We are {strong}always happy to help{/strong}.",
-    "translation": "{strong}いつでも喜んでお手伝いさせていただきます{/strong}",
+    "source": "We are <strong>always happy to help</strong>.",
+    "translation": "私たちは<strong>いつでも喜んでお手伝いいたします</strong>。",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:50:34"
+    "timestamp": "2025-09-26 23:41:43"
   },
   {
     "path": "footer.copyright",
-    "source": "© 2025 {strong}NaiLit{/strong}.",
-    "translation": "© 2025 {strong}NaiLit{/strong}.",
+    "source": "© 2025 <strong>NaiLit</strong>.",
+    "translation": "© 2025 <strong>NaiLit</strong>.",
     "model": "gemini-2.5-flash",
     "target_lang": "ja",
-    "timestamp": "2025-09-26 13:50:36"
+    "timestamp": "2025-09-26 23:41:43"
   }
 ]

@@ -13,12 +13,13 @@
       "finish → 仕上げ",
       "cat eye → マグネット"
     ],
-    "timestamp": "2025-09-26 15:24:06"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "nav.about",
     "source": "About Us",
-    "translation": "About Us\n\n会社概要\n\nNote: I translated \"About Us\" to \"会社概要\" which is a natural and commonly used Japanese equivalent for company/business \"About Us\" sections. It literally means \"company outline/profile\" and is the standard way to label this type of content in Japanese business contexts.",
+    "translation": "私たちについて",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -29,7 +30,8 @@
       "press-on nails → ネイルチップ",
       "cat eye → マグネット"
     ],
-    "timestamp": "2025-09-26 15:24:09"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "nav.faq",
@@ -45,12 +47,13 @@
       "seafoam → ミント",
       "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:24:11"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "hero.title",
     "source": "Design Your",
-    "translation": "デザインする\n\nNote: I kept this translation simple and natural in Japanese while maintaining the imperative tone of the source \"Design Your\". Since this appears to be a heading or button text, I used the verb form デザインする which is commonly used in Japanese UI elements and maintains the active voice of the original.",
+    "translation": "デザインを作成する",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -61,12 +64,13 @@
       "finish → 仕上げ",
       "press-on nails → ネイルチップ"
     ],
-    "timestamp": "2025-09-26 15:24:14"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "hero.titleHighlight",
-    "source": "{span}Perfect Nails{/span}",
-    "translation": "{span}パーフェクトネイル{/span}",
+    "source": "<span>Perfect Nails</span>",
+    "translation": "<span>パーフェクトネイル</span>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -75,25 +79,27 @@
     "constraints_list": [
       "press-on nails → ネイルチップ",
       "nail tech → ネイリスト",
-      "finish → 仕上げ"
+      "NaiLit → NaiLit"
     ],
-    "timestamp": "2025-09-26 15:24:16"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "hero.subtitle",
-    "source": "No more salon stress. No more flimsy press-ons. With {strong}NaiLit{/strong}, you get {strong}fully custom{/strong}, {strong}hand-painted{/strong}, {strong}durable{/strong}, {strong}reusable{/strong} Gel-X press-on nails for every occasion.",
-    "translation": "Here's the Japanese translation, maintaining all formatting and glossary requirements:\n\nもうサロンでストレスを感じる必要はありません。もろいネイルチップともおさらばです。{strong}NaiLit{/strong}なら、あらゆるシーンで使える{strong}フルカスタム{/strong}、{strong}手描き{/strong}、{strong}丈夫{/strong}で{strong}繰り返し使える{/strong} Gel-X ネイルチップをご提供します。\n\nNotes:\n- Preserved all {strong} tags exactly\n- Kept \"NaiLit\" and \"Gel-X\" as-is\n- Used ネイルチップ for \"press-on nails\" per glossary\n- Maintained natural Japanese flow while capturing all key attributes\n- Split the first two short sentences but combined the third for better Japanese flow\n- Kept the emphasis on benefits and features",
+    "source": "No more salon stress. No more flimsy press-ons. With <strong>NaiLit</strong>, you get <strong>fully custom</strong>, <strong>hand-painted</strong>, high-quality <strong>Gel-X</strong> press-on nails for every occasion.",
+    "translation": "<strong>NaiLit</strong>で、大人の余裕を指先に。<strong>フルオーダー</strong>、<strong>手描き仕上げ</strong>、<strong>繰り返し使えて</strong><strong>長持ちする</strong>Gel-Xネイルチップ。自分らしさで、毎日を心地よく彩る。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
-    "tm_hit": false,
+    "tm_hit": true,
     "constraints_found": 3,
     "constraints_list": [
       "press-on nails → ネイルチップ",
       "Gel-X → Gel-X",
       "NaiLit → NaiLit"
     ],
-    "timestamp": "2025-09-26 15:24:22"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "hero.startDesigning",
@@ -109,12 +115,13 @@
       "finish → 仕上げ",
       "press-on nails → ネイルチップ"
     ],
-    "timestamp": "2025-09-26 15:24:23"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.designer.title",
     "source": "Custom Designer",
-    "translation": "カスタムデザイナー\n\nNote: I kept this as a direct translation since it appears to be a title/heading and there's no specific glossary mapping for this term. The translation maintains the professional context while being natural in Japanese.",
+    "translation": "カスタムデザイナー",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -125,26 +132,30 @@
       "muted pink → くすみピンク",
       "stiletto → ポイント"
     ],
-    "timestamp": "2025-09-26 15:24:26"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.designer.description",
-    "source": "Mix and match {strong}colors, patterns, and finishes{/strong} to create your unique style",
-    "translation": "I'll translate this while preserving the tags, maintaining natural Japanese flow, and using the specified glossary term for \"finish\" (仕上げ).\n\nTarget (ja):\n{strong}カラー、パターン、仕上げ{/strong}を組み合わせて、あなただけのスタイルを作り出しましょう\n\nNote: I've maintained the exact tag structure and used the glossary term 仕上げ for \"finish\". The translation is natural and flows well in Japanese while accurately conveying the original meaning of mixing and matching elements to create a unique style.",
+    "source": "Mix and match <strong>colors, patterns, and finishes</strong> to create your unique style",
+    "translation": "独自のスタイルを作るために<strong>色、パターン、仕上げ</strong>を組み合わせてください",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
     "tm_hit": false,
-    "constraints_found": 1,
+    "constraints_found": 3,
     "constraints_list": [
-      "finish → 仕上げ"
+      "finish → 仕上げ",
+      "blush → チーク",
+      "glitter → ラメ"
     ],
-    "timestamp": "2025-09-26 15:24:31"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.share.title",
     "source": "Share & Save",
-    "translation": "シェア＆保存",
+    "translation": "共有 & 保存",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -155,19 +166,25 @@
       "nude → ヌーディー",
       "Removal → オフ"
     ],
-    "timestamp": "2025-09-26 15:24:32"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.share.description",
-    "source": "{strong}Download your designs{/strong} or share them with friends via social links",
-    "translation": "{strong}デザインをダウンロード{/strong}するか、SNSリンクで友達とシェアしましょう\n\nNote: I preserved the {strong} tags exactly as in the source and translated the content naturally into Japanese while maintaining the meaning and flow of the original text.",
+    "source": "<strong>Download your designs</strong> or share them with friends via social links",
+    "translation": "<strong>デザインをダウンロード</strong>するか、ソーシャルリンクを通じて友達と共有しましょう。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
     "tm_hit": false,
-    "constraints_found": 0,
-    "constraints_list": [],
-    "timestamp": "2025-09-26 15:24:37"
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "nude → ヌーディー",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.premium.title",
@@ -183,26 +200,30 @@
       "glitter → ラメ",
       "muted pink → くすみピンク"
     ],
-    "timestamp": "2025-09-26 15:24:39"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.premium.description",
-    "source": "Order {strong}custom designs{/strong} or choose from our curated nail art collections",
-    "translation": "{strong}カスタムデザイン{/strong}を注文するか、厳選されたネイルアートコレクションから選びましょう\n\nNote: I preserved the {strong} tags exactly as in the source, maintained natural Japanese flow, and created a translation that captures the original meaning while being culturally appropriate for Japanese readers.",
+    "source": "Order <strong>custom designs</strong> or choose from our curated nail art collections",
+    "translation": "<strong>カスタムデザイン</strong>を注文するか、厳選されたネイルアートコレクションから選びましょう</translation>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
     "tm_hit": false,
-    "constraints_found": 1,
+    "constraints_found": 3,
     "constraints_list": [
-      "nail tech → ネイリスト"
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ",
+      "nude → ヌーディー"
     ],
-    "timestamp": "2025-09-26 15:24:43"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.title",
     "source": "About Us",
-    "translation": "会社概要",
+    "translation": "私たちについて",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -213,7 +234,8 @@
       "press-on nails → ネイルチップ",
       "cat eye → マグネット"
     ],
-    "timestamp": "2025-09-26 15:24:45"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.backToHome",
@@ -229,28 +251,30 @@
       "milky white → ミルキー",
       "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:24:46"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.tagline",
-    "source": "{strong}NaiLit{/strong} is here to make your nails {em}lit{/em} and help you {em}nail it{/em}! ✨",
-    "translation": "{strong}NaiLit{/strong}で、あなたのネイルを{em}輝かせ{/em}、{em}完璧に決める{/em}お手伝いをします！✨\n\nNote: I preserved all HTML tags exactly as in the source, kept \"NaiLit\" as-is per the glossary, and translated the wordplay around \"lit\" and \"nail it\" into natural Japanese expressions that maintain the positive, energetic tone while conveying similar meaning. The sparkle emoji (✨) was also preserved.",
+    "source": "<strong>NaiLit</strong> is here to make your nails <em>lit</em> and help you <em>nail it</em>! ✨",
+    "translation": "<strong>NaiLit</strong>、指先から、あなたらしく<em>輝く</em> ✨",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
-    "tm_hit": false,
+    "tm_hit": true,
     "constraints_found": 3,
     "constraints_list": [
       "NaiLit → NaiLit",
-      "press-on nails → ネイルチップ",
-      "nail tech → ネイリスト"
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ"
     ],
-    "timestamp": "2025-09-26 15:24:53"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.intro",
-    "source": "We believe that nails should be as {strong}unique as you are{/strong}. That is why {strong}NaiLit{/strong} offers fully customizable press-on nails designed with you in mind. Using our {em}Nail Dress-Up system{/em}, you can choose your shape, length, color, and finish to create a set that is {strong}100% your style{/strong}.",
-    "translation": "I'll translate this while preserving all formatting and following the glossary requirements.\n\nTarget (ja):\n{strong}あなたらしい個性{/strong}をネイルで表現できるはず。だからこそ{strong}NaiLit{/strong}は、お客様一人一人のことを考えて、完全カスタマイズ可能なネイルチップをご用意しています。{em}ネイルドレスアップシステム{/em}を使えば、形、長さ、カラー、仕上げを自由に選んで、{strong}あなたらしさ100%{/strong}のネイルセットを作ることができます。\n\nNotes:\n- Preserved all formatting tags ({strong}, {em})\n- Kept \"NaiLit\" as-is\n- Used ネイルチップ for \"press-on nails\"\n- Used 仕上げ for \"finish\"\n- Maintained natural Japanese flow while conveying the same message\n- Adapted the sentence structure to sound natural in Japanese while keeping the core meaning",
+    "source": "We believe that nails should be as <strong>unique as you are</strong>. That is why <strong>NaiLit</strong> offers fully customizable press-on nails designed with you in mind. Using our <em>Nail Dress-Up system</em>, you can choose your shape, length, color, and finish to create a set that is <strong>100% your style</strong>.",
+    "translation": "<strong>あなたらしい</strong>ネイルを持つべきだと私たちは信じています。だからこそ、<strong>NaiLit</strong>はあなたを考慮してデザインされた完全にカスタマイズ可能なネイルチップを提供しています。<em>Nail Dress-Up system</em>を使用することで、形、長さ、色、仕上げを選び、<strong>100%あなたのスタイル</strong>のセットを作成できます。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -261,28 +285,30 @@
       "NaiLit → NaiLit",
       "finish → 仕上げ"
     ],
-    "timestamp": "2025-09-26 15:25:00"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.craftmanship",
-    "source": "Once you have submitted your design, our {strong}expert nail techs{/strong} handcraft each set on {em}authentic Gel-X bases{/em}. {strong}No 3D printing. No bulky plastic.{/strong} Just the perfect balance of thinness, flexibility, and {strong}salon-quality feel{/strong} combined with the convenience of press-ons.",
-    "translation": "Here's my translation, preserving all formatting and following the glossary:\n\nデザインをご提出いただくと、{strong}熟練のネイリスト{/strong}が{em}本物のGel-Xベース{/em}で一つ一つ丁寧に制作いたします。{strong}3Dプリントは使用せず、厚ぼったいプラスチックも使いません。{/strong}薄さ、柔軟性、そして{strong}サロンクオリティの仕上がり{/strong}と、ネイルチップならではの手軽さを完璧なバランスで実現しています。\n\nNotes:\n- Maintained all HTML-style tags exactly as in source\n- Kept \"Gel-X\" as-is per glossary\n- Used ネイリスト for \"nail tech\" per glossary\n- Used ネイルチップ for \"press-ons\" per glossary\n- Maintained natural Japanese flow while preserving the key selling points\n- Adapted the structure to sound natural in Japanese while keeping the same meaning",
+    "source": "Once you have submitted your design, our <strong>expert nail techs</strong> handcraft each set on <em>authentic Gel-X bases</em>. <strong>No 3D printing. No bulky plastic.</strong> Just the perfect balance of thinness, flexibility, and <strong>salon-quality feel</strong> combined with the convenience of press-ons.",
+    "translation": "デザインを提出すると、私たちの<strong>専門のネイリスト</strong>が各セットを<em>本物のGel-Xベース</em>で手作りします。<strong>3Dプリントなし。かさばるプラスチックなし。</strong> 薄さ、柔軟性、そして<strong>サロン品質の感触</strong>の完璧なバランスを、ネイルチップの便利さと組み合わせています。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
     "tm_hit": false,
     "constraints_found": 3,
     "constraints_list": [
-      "nail tech → ネイリスト",
       "Gel-X → Gel-X",
+      "nail tech → ネイリスト",
       "press-on nails → ネイルチップ"
     ],
-    "timestamp": "2025-09-26 15:25:07"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.safety",
-    "source": "We are also proud to say that our products are {strong}Trimethylbenzoyl Diphenylphosphine Oxide (TPO)-free{/strong} and fully compliant with {strong}EU safety standards{/strong}. Beauty should never come at the cost of safety, and {strong}NaiLit{/strong} is committed to giving you both.",
-    "translation": "Here's the translation, maintaining HTML tags, brand names, and following the glossary:\n\nまた、当社の製品は{strong}トリメチルベンゾイルジフェニルホスフィンオキシド（TPO）フリー{/strong}で、{strong}EU安全基準{/strong}に完全に準拠していることを誇りにしています。美しさは決して安全性を犠牲にすべきではありません。{strong}NaiLit{/strong}は、その両方をお届けすることをお約束します。",
+    "source": "We are also proud to say that our products are <strong>Trimethylbenzoyl Diphenylphosphine Oxide (TPO)-free</strong> and fully compliant with <strong>EU safety standards</strong>. Beauty should never come at the cost of safety, and <strong>NaiLit</strong> is committed to giving you both.",
+    "translation": "<strong>トリメチルベンゾイルジフェニルホスフィンオキシド (TPO) フリー</strong>であり、<strong>EUの安全基準</strong>に完全に準拠していることを誇りに思います。美しさは決して安全性の犠牲になってはならず、<strong>NaiLit</strong> はその両方を提供することにコミットしています。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -291,12 +317,13 @@
     "constraints_list": [
       "NaiLit → NaiLit"
     ],
-    "timestamp": "2025-09-26 15:25:12"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.kitIncludes",
-    "source": "{strong}Every kit comes complete with:{/strong}",
-    "translation": "<strong>キットには以下のものが含まれます：</strong>\n\nNote: I preserved the HTML tags exactly as in the source and translated the text naturally into Japanese. The translation conveys that \"every kit includes the following items\" in a clear and professional way that's commonly used in Japanese product descriptions.",
+    "source": "<strong>Every kit comes complete with:</strong>",
+    "translation": "<strong>すべてのキットには以下が含まれています：</strong>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -304,15 +331,16 @@
     "constraints_found": 3,
     "constraints_list": [
       "finish → 仕上げ",
-      "nude → ヌーディー",
-      "milky white → ミルキー"
+      "seafoam → ミント",
+      "cat eye → マグネット"
     ],
-    "timestamp": "2025-09-26 15:25:17"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.adhesiveKit",
-    "source": "{strong}1x Nail Adhesive Kit{/strong} (featuring both glue and sticker tabs, so you can choose between {em}long-lasting hold{/em} or {em}easy reuse{/em})",
-    "translation": "I'll translate this while preserving all HTML tags and following the natural Japanese flow:\n\n<strong>1x ネイル接着キット</strong>（グルーとシール両方が付属し、<em>長持ちする接着力</em>か<em>簡単な付け替え</em>のどちらかをお選びいただけます）\n\nThis translation:\n- Maintains all HTML tags (<strong> and <em>) in their original positions\n- Keeps the \"1x\" format as-is\n- Naturally expresses the parenthetical explanation in Japanese\n- Preserves the contrasting options while maintaining natural Japanese flow\n- Uses appropriate Japanese punctuation (）instead of ))",
+    "source": "<strong>1x Nail Adhesive Kit</strong> (featuring both glue and sticker tabs, so you can choose between <em>long-lasting hold</em> or <em>easy reuse</em>)",
+    "translation": "<strong>1x ネイル接着キット</strong>（接着剤とステッカータブの両方が含まれているため、<em>長持ちする保持</em>または<em>簡単な再利用</em>のいずれかを選択できます）",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -321,12 +349,13 @@
     "constraints_list": [
       "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:25:28"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.removalKit",
-    "source": "{strong}1x Nail Removal Kit{/strong} (so you can change up your look whenever you want, {em}without damage{/em})",
-    "translation": "I'll translate this while preserving the HTML-style tags, following the glossary, and maintaining a natural Japanese flow:\n\n{strong}ネイルオフキット1セット{/strong}（ダメージを{em}与えることなく{/em}、好きなときにネイルデザインを変更できます）\n\nNote: I've:\n- Kept the HTML-style tags exactly as provided\n- Used the glossary term \"オフ\" as part of \"ネイルオフキット\"\n- Maintained the parenthetical explanation in a natural Japanese way\n- Reordered elements slightly to follow Japanese grammar while preserving the meaning\n- Used Japanese counter \"セット\" which is appropriate for kits/sets",
+    "source": "<strong>1x Nail Removal Kit</strong> (so you can change up your look whenever you want, <em>without damage</em>)",
+    "translation": "<strong>1x ネイルオフキット</strong>（いつでもお好みのルックに変えられるため、<em>ダメージなし</em>で）",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -337,12 +366,13 @@
       "oval → オーバル",
       "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:25:34"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.confidence",
-    "source": "With {strong}NaiLit{/strong}, you do not just wear nails. You wear your {em}style{/em}, your {em}creativity{/em}, and your {em}confidence{/em}.",
-    "translation": "{strong}NaiLit{/strong}なら、単なるネイルを着けるだけではありません。あなたの{em}スタイル{/em}、{em}創造性{/em}、そして{em}自信{/em}を身につけることができます。",
+    "source": "With <strong>NaiLit</strong>, you do not just wear nails. You wear your <em>style</em>, your <em>creativity</em>, and your <em>confidence</em>.",
+    "translation": "<strong>NaiLit</strong> では、単にネイルを着けるのではありません。あなたの<em>スタイル</em>、あなたの<em>クリエイティビティ</em>、そしてあなたの<em>自信</em>を身に着けるのです。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -352,12 +382,13 @@
       "NaiLit → NaiLit",
       "press-on nails → ネイルチップ"
     ],
-    "timestamp": "2025-09-26 15:25:36"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.motto",
-    "source": "{strong}NaiLit. Nails made for you, by you.{/strong} 💅",
-    "translation": "{strong}NaiLit. あなたのために、あなたがデザインするネイル。{/strong} 💅\n\nNote: I preserved the HTML-like tags {strong} and {/strong}, kept \"NaiLit\" as-is per the glossary, and maintained the emoji. The translation is natural in Japanese while keeping the core message of personalization and customization.",
+    "source": "<strong>NaiLit. Nails made for you, by you.</strong> 💅",
+    "translation": "<strong>NaiLit</strong>。あなたのために、あなたが作ったネイル。💅</translation>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -368,12 +399,13 @@
       "press-on nails → ネイルチップ",
       "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:25:43"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.faqText",
     "source": "For Order and Shipping related questions, please see our",
-    "translation": "注文と配送に関するご質問は、こちらをご覧ください\n\nNote: I preserved the natural Japanese flow while maintaining the meaning of the source text. Since there were no glossary terms used in this particular segment, no specific mappings were needed. The translation is clear and appropriate for a Japanese audience in the context of e-commerce/customer service.",
+    "translation": "注文および配送に関する質問については、こちらをご覧ください。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -384,28 +416,30 @@
       "press-on nails → ネイルチップ",
       "finish → 仕上げ"
     ],
-    "timestamp": "2025-09-26 15:25:46"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.faqLink",
-    "source": "{link}FAQ page{/link}",
-    "translation": "{link}よくある質問{/link}",
+    "source": "<a href=\"#\">FAQ page</a>",
+    "translation": "<a href=\"#\">FAQページ</a>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
     "tm_hit": false,
     "constraints_found": 3,
     "constraints_list": [
-      "nail tech → ネイリスト",
-      "press-on nails → ネイルチップ",
-      "cat eye → マグネット"
+      "seafoam → ミント",
+      "cat eye → マグネット",
+      "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:25:48"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.title",
     "source": "Design Your Nails",
-    "translation": "ネイルをデザインする\n\nNote: I translated this as a natural action phrase in Japanese. Since there's no specific glossary term mapping for this phrase, I used the standard Japanese words ネイル (nail) and デザイン (design) in a grammatically correct form that maintains the meaning of customizing/designing one's nails.",
+    "translation": "ネイルデザインを作成する",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -416,7 +450,8 @@
       "nail tech → ネイリスト",
       "NaiLit → NaiLit"
     ],
-    "timestamp": "2025-09-26 15:25:51"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.backToHome",
@@ -432,12 +467,13 @@
       "press-on nails → ネイルチップ",
       "cat eye → マグネット"
     ],
-    "timestamp": "2025-09-26 15:25:53"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.title",
     "source": "Shape",
-    "translation": "形状\n\nNote: In this nail art context, \"Shape\" refers to the nail shape. While I translated it as \"形状\", other valid alternatives could be \"シェイプ\" or \"ネイルの形\" depending on the broader context. However, I chose \"形状\" as it's commonly used in Japanese nail art terminology and maintains a professional tone.",
+    "translation": "形状",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -448,7 +484,8 @@
       "cat eye → マグネット",
       "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:25:57"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.oval",
@@ -464,7 +501,8 @@
       "Removal → オフ",
       "cat eye → マグネット"
     ],
-    "timestamp": "2025-09-26 15:25:58"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.coffin",
@@ -480,7 +518,8 @@
       "seafoam → ミント",
       "glitter → ラメ"
     ],
-    "timestamp": "2025-09-26 15:25:59"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.stiletto",
@@ -496,7 +535,8 @@
       "glitter → ラメ",
       "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:26:01"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.almond",
@@ -512,12 +552,13 @@
       "oval → オーバル",
       "press-on nails → ネイルチップ"
     ],
-    "timestamp": "2025-09-26 15:26:02"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.title",
     "source": "Color",
-    "translation": "カラー",
+    "translation": "色",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -528,7 +569,8 @@
       "glitter → ラメ",
       "muted pink → くすみピンク"
     ],
-    "timestamp": "2025-09-26 15:26:04"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.mutedPink",
@@ -544,7 +586,8 @@
       "milky white → ミルキー",
       "glitter → ラメ"
     ],
-    "timestamp": "2025-09-26 15:26:05"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.nude",
@@ -560,7 +603,8 @@
       "nail tech → ネイリスト",
       "press-on nails → ネイルチップ"
     ],
-    "timestamp": "2025-09-26 15:26:07"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.seafoam",
@@ -576,7 +620,8 @@
       "glitter → ラメ",
       "press-on nails → ネイルチップ"
     ],
-    "timestamp": "2025-09-26 15:26:09"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.milkyWhite",
@@ -592,7 +637,8 @@
       "muted pink → くすみピンク",
       "glitter → ラメ"
     ],
-    "timestamp": "2025-09-26 15:26:10"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.title",
@@ -608,7 +654,8 @@
       "Removal → オフ",
       "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:26:12"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.blush",
@@ -624,7 +671,8 @@
       "glitter → ラメ",
       "cat eye → マグネット"
     ],
-    "timestamp": "2025-09-26 15:26:13"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.french",
@@ -640,12 +688,13 @@
       "cat eye → マグネット",
       "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:26:15"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.catEye",
     "source": "Cat Eye",
-    "translation": "マグネット\n\nExplanation:\n- Used the specified glossary mapping \"cat eye → マグネット\"\n- This is a simple one-word translation that follows the glossary requirement\n- The term refers to a specific nail art effect created using magnetic particles in nail polish",
+    "translation": "マグネット",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -656,7 +705,8 @@
       "nail tech → ネイリスト",
       "glitter → ラメ"
     ],
-    "timestamp": "2025-09-26 15:26:18"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.glitter",
@@ -672,7 +722,8 @@
       "blush → チーク",
       "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:26:20"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.size.title",
@@ -688,12 +739,13 @@
       "finish → 仕上げ",
       "Removal → オフ"
     ],
-    "timestamp": "2025-09-26 15:26:21"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.size.short",
     "source": "Short",
-    "translation": "ショート\n\nNote: I translated \"Short\" as \"ショート\" which is the standard Japanese term used in nail art/fashion contexts to describe short length. Since there were no relevant glossary terms to apply in this case, I provided a direct and natural Japanese equivalent.",
+    "translation": "ショート",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -704,12 +756,13 @@
       "finish → 仕上げ",
       "muted pink → くすみピンク"
     ],
-    "timestamp": "2025-09-26 15:26:24"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.size.medium",
     "source": "Medium",
-    "translation": "ミディアム\n\nNote: I translated \"Medium\" as \"ミディアム\" which is the standard Japanese term used in nail and beauty contexts for medium length/size. I kept it simple and direct since it appears to be a standalone term, likely from a selection menu or option list.",
+    "translation": "ミディアム",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -720,12 +773,13 @@
       "nude → ヌーディー",
       "Removal → オフ"
     ],
-    "timestamp": "2025-09-26 15:26:28"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.size.long",
     "source": "Long",
-    "translation": "ロング\n\nNote: I translated \"Long\" as \"ロング\" which is the standard Japanese term used in nail art contexts to describe long-length nails. This maintains consistency with nail industry terminology in Japanese while being natural and clear.",
+    "translation": "ロング",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -736,12 +790,13 @@
       "cat eye → マグネット",
       "nude → ヌーディー"
     ],
-    "timestamp": "2025-09-26 15:26:30"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.preview",
     "source": "Preview",
-    "translation": "プレビュー\n\nNote: I preserved the simple translation of \"Preview\" as プレビュー, which is a commonly used and well-understood Japanese term for preview/preview function. Since there were no HTML tags in the source text, no tag preservation was required. While the glossary provided some mappings, none were relevant to this specific source term.",
+    "translation": "プレビュー",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -752,7 +807,8 @@
       "press-on nails → ネイルチップ",
       "Removal → オフ"
     ],
-    "timestamp": "2025-09-26 15:26:34"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.saveDesign",
@@ -768,7 +824,8 @@
       "Removal → オフ",
       "cat eye → マグネット"
     ],
-    "timestamp": "2025-09-26 15:26:35"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.downloadDesign",
@@ -784,7 +841,8 @@
       "Removal → オフ",
       "finish → 仕上げ"
     ],
-    "timestamp": "2025-09-26 15:26:37"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.title",
@@ -800,7 +858,8 @@
       "seafoam → ミント",
       "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:26:39"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.backToHome",
@@ -816,7 +875,8 @@
       "milky white → ミルキー",
       "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:26:41"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.title",
@@ -832,12 +892,13 @@
       "finish → 仕上げ",
       "cat eye → マグネット"
     ],
-    "timestamp": "2025-09-26 15:26:43"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.placeOrder.question",
-    "source": "{strong}How do I place an order?{/strong}",
-    "translation": "<strong>注文方法を教えてください。</strong>\n\nNote: I preserved the exact HTML tags and translated the question naturally into Japanese, following the example provided. The translation is a polite and common way to ask \"How do I place an order?\" in Japanese.",
+    "source": "<strong>How do I place an order?</strong>",
+    "translation": "<strong>注文方法を教えてください。</strong>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -845,15 +906,16 @@
     "constraints_found": 3,
     "constraints_list": [
       "press-on nails → ネイルチップ",
-      "finish → 仕上げ",
-      "oval → オーバル"
+      "oval → オーバル",
+      "finish → 仕上げ"
     ],
-    "timestamp": "2025-09-26 15:26:48"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.placeOrder.answer",
-    "source": "Simply use our {strong}Nail Dress-Up system{/strong} to design your set, add it to cart, and check out. Once your order is placed, our {em}expert nail techs{/em} will start handcrafting your press-ons.",
-    "translation": "Here's the translation preserving all formatting and following the glossary:\n\n{strong}ネイルドレスアップシステム{/strong}でデザインを選び、カートに追加して注文するだけです。ご注文いただくと、{em}熟練のネイリスト{/em}があなたのネイルチップを手作業で制作いたします。\n\nNotes:\n- Preserved all formatting tags ({strong} and {em})\n- Used glossary mapping \"nail tech → ネイリスト\"\n- Used glossary mapping \"press-on nails → ネイルチップ\"\n- Maintained natural Japanese flow while keeping the key information\n- \"Nail Dress-Up system\" was translated as \"ネイルドレスアップシステム\" to maintain the system name in Japanese context\n- \"handcrafting\" was translated as \"手作業で制作\" to convey the careful manual work involved",
+    "source": "Simply use our <strong>Nail Dress-Up system</strong> to design your set, add it to cart, and check out. Once your order is placed, our <em>expert nail techs</em> will start handcrafting your press-ons.",
+    "translation": "<strong>Nail Dress-Upシステム</strong>を使ってセットをデザインし、カートに追加してチェックアウトしてください。注文が完了すると、私たちの<em>専門のネイリスト</em>があなたのネイルチップを手作りし始めます。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -863,12 +925,13 @@
       "nail tech → ネイリスト",
       "press-on nails → ネイルチップ"
     ],
-    "timestamp": "2025-09-26 15:26:54"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.processTime.question",
-    "source": "{strong}How long does it take to process my order?{/strong}",
-    "translation": "<strong>注文の処理にはどのくらい時間がかかりますか？</strong>",
+    "source": "<strong>How long does it take to process my order?</strong>",
+    "translation": "<strong>注文の処理にはどれくらい時間がかかりますか？</strong>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -876,27 +939,29 @@
     "constraints_found": 3,
     "constraints_list": [
       "press-on nails → ネイルチップ",
-      "finish → 仕上げ",
-      "Removal → オフ"
+      "Removal → オフ",
+      "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:26:58"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.processTime.answer",
-    "source": "Because each set is {em}custom-made{/em}, please allow {strong}5–7 business days{/strong} for production before shipping.",
-    "translation": "I'll translate this while preserving the tags and maintaining a natural Japanese flow:\n\n各セットは{em}オーダーメイド{/em}のため、発送前の制作に{strong}営業日5～7日{/strong}ほどお時間をいただいております。\n\nNotes:\n- Preserved all tags: {em} and {strong}\n- \"custom-made\" is translated as \"オーダーメイド\" which is commonly used in Japanese\n- \"business days\" is translated as \"営業日\" which is the standard business term\n- Restructured the sentence to follow natural Japanese word order\n- Used polite form (いただいております) as it appears to be customer-facing content",
+    "source": "Because each set is <em>custom-made</em>, please allow <strong>5–7 business days</strong> for production before shipping.",
+    "translation": "各セットは<em>オーダーメイド</em>のため、発送前に<strong>5～7営業日</strong>の製作期間をいただきます。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
     "tm_hit": false,
     "constraints_found": 0,
     "constraints_list": [],
-    "timestamp": "2025-09-26 15:27:03"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.title",
     "source": "Shipping",
-    "translation": "配送について",
+    "translation": "配送",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -907,12 +972,13 @@
       "Removal → オフ",
       "glitter → ラメ"
     ],
-    "timestamp": "2025-09-26 15:27:05"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.whereShip.question",
-    "source": "{strong}Where do you ship?{/strong}",
-    "translation": "<strong>配送先について教えてください。</strong>",
+    "source": "<strong>Where do you ship?</strong>",
+    "translation": "<strong>どこに発送しますか？</strong>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -921,26 +987,28 @@
     "constraints_list": [
       "seafoam → ミント",
       "press-on nails → ネイルチップ",
-      "nude → ヌーディー"
+      "Removal → オフ"
     ],
-    "timestamp": "2025-09-26 15:27:10"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.whereShip.answer",
-    "source": "We currently ship domestically within the {strong}United States{/strong} and internationally to {strong}Italy, France, Canada, and Japan{/strong}.",
-    "translation": "Here's the Japanese translation, preserving the HTML-style tags and maintaining a natural flow:\n\n現在、{strong}アメリカ国内{/strong}および{strong}イタリア、フランス、カナダ、日本{/strong}への国際発送を承っております。\n\nThe translation:\n- Preserves all tags in their exact format\n- Maintains proper Japanese business tone (～ております)\n- Keeps country names in Japanese standard format\n- Structures the sentence naturally in Japanese while conveying the same meaning as the source",
+    "source": "We currently ship domestically within the <strong>United States</strong> and internationally to <strong>Italy, France, Canada, and Japan</strong>.",
+    "translation": "現在、私たちは<strong>アメリカ合衆国</strong>国内および<strong>イタリア、フランス、カナダ、日本</strong>への国際配送を行っています。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
     "tm_hit": false,
     "constraints_found": 0,
     "constraints_list": [],
-    "timestamp": "2025-09-26 15:27:15"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.cost.question",
-    "source": "{strong}How much is shipping?{/strong}",
-    "translation": "<strong>配送料はいくらですか？</strong>",
+    "source": "<strong>How much is shipping?</strong>",
+    "translation": "<strong>送料はいくらですか？</strong>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -949,14 +1017,15 @@
     "constraints_list": [
       "seafoam → ミント",
       "press-on nails → ネイルチップ",
-      "nude → ヌーディー"
+      "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:27:19"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.cost.answer",
-    "source": "Domestic shipping is a {strong}flat rate of $X{/strong}. International shipping rates vary depending on destination and will be calculated at checkout.",
-    "translation": "Here's the translation, maintaining HTML-like tags and following the natural Japanese flow:\n\n国内配送料は{strong}一律X ドル{/strong}です。国際配送料は配送先によって異なり、ご注文手続き時に計算されます。\n\nThe translation preserves the meaning while adapting to Japanese conventions:\n- Maintains the tag structure\n- Uses natural Japanese sentence patterns\n- Keeps the currency symbol ($) with the English format\n- Uses appropriate Japanese business tone (です/ます体)\n- Translates \"flat rate\" as 一律 which is the standard term in Japanese for fixed-rate services\n- Maintains logical flow between the two sentences",
+    "source": "Domestic shipping is a <strong>flat rate of $X</strong>. International shipping rates vary depending on destination and will be calculated at checkout.",
+    "translation": "国内配送は<strong>$Xの定額</strong>です。国際配送の料金は目的地によって異なり、チェックアウト時に計算されます。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -966,12 +1035,13 @@
       "press-on nails → ネイルチップ",
       "Gel-X → Gel-X"
     ],
-    "timestamp": "2025-09-26 15:27:24"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.question",
-    "source": "{strong}How long does shipping take?{/strong}",
-    "translation": "<strong>配送にはどのくらい時間がかかりますか？</strong>",
+    "source": "<strong>How long does shipping take?</strong>",
+    "translation": "<strong>配送にはどのくらいの時間がかかりますか？</strong>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -979,15 +1049,16 @@
     "constraints_found": 3,
     "constraints_list": [
       "press-on nails → ネイルチップ",
-      "seafoam → ミント",
-      "nude → ヌーディー"
+      "nail tech → ネイリスト",
+      "seafoam → ミント"
     ],
-    "timestamp": "2025-09-26 15:27:28"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.intro",
     "source": "Shipping times vary by destination:",
-    "translation": "配送時間は配送先によって異なります：",
+    "translation": "配送時間は目的地によって異なります：",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -998,28 +1069,13 @@
       "press-on nails → ネイルチップ",
       "oval → オーバル"
     ],
-    "timestamp": "2025-09-26 15:27:30"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.us",
-    "source": "{strong}United States:{/strong} 3–5 business days after processing",
-    "translation": "<strong>アメリカ国内：</strong>発送手続き後、3～5営業日",
-    "model": "claude-3.5-sonnet",
-    "approach": "RAG",
-    "target_lang": "ja",
-    "tm_hit": false,
-    "constraints_found": 3,
-    "constraints_list": [
-      "finish → 仕上げ",
-      "press-on nails → ネイルチップ",
-      "nail tech → ネイリスト"
-    ],
-    "timestamp": "2025-09-26 15:27:35"
-  },
-  {
-    "path": "faq.shipping.duration.canada",
-    "source": "{strong}Canada:{/strong} 5–10 business days after processing",
-    "translation": "<strong>カナダ：</strong>処理後5～10営業日",
+    "source": "<strong>United States:</strong> 3–5 business days after processing",
+    "translation": "<strong>アメリカ合衆国:</strong> 処理後3～5営業日",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -1030,12 +1086,30 @@
       "press-on nails → ネイルチップ",
       "Removal → オフ"
     ],
-    "timestamp": "2025-09-26 15:27:41"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.duration.canada",
+    "source": "<strong>Canada:</strong> 5–10 business days after processing",
+    "translation": "<strong>カナダ：</strong> 処理後5～10営業日",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "finish → 仕上げ",
+      "Removal → オフ",
+      "press-on nails → ネイルチップ"
+    ],
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.europe",
-    "source": "{strong}Italy & France:{/strong} 7–14 business days after processing",
-    "translation": "<strong>イタリア・フランス：</strong>処理完了後7～14営業日\n\nExplanation:\n- Preserved HTML tags exactly\n- Used natural Japanese formatting for ranges (～)\n- Used Japanese full-width punctuation (：)\n- Translated \"business days\" as 営業日, which is the standard term\n- Note: Country names are translated naturally to イタリア and フランス (though フランス is in the glossary, here it's used as a country name rather than referring to French nails)\n- \"after processing\" is naturally translated as 処理完了後",
+    "source": "<strong>Italy & France:</strong> 7–14 business days after processing",
+    "translation": "<strong>イタリアとフランス：</strong> 処理後7～14営業日",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -1046,12 +1120,13 @@
       "press-on nails → ネイルチップ",
       "finish → 仕上げ"
     ],
-    "timestamp": "2025-09-26 15:27:50"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.japan",
-    "source": "{strong}Japan:{/strong} 7–14 business days after processing",
-    "translation": "{strong}日本:{/strong} 処理後7～14営業日\n\nNote: I preserved the {strong} tags exactly as shown in the source, maintained the formatting of the numbers and dash, and naturally translated the business context while keeping the same meaning and structure.",
+    "source": "<strong>Japan:</strong> 7–14 business days after processing",
+    "translation": "<strong>日本：</strong> 処理後7～14営業日",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -1059,15 +1134,16 @@
     "constraints_found": 3,
     "constraints_list": [
       "press-on nails → ネイルチップ",
-      "finish → 仕上げ",
-      "seafoam → ミント"
+      "nail tech → ネイリスト",
+      "finish → 仕上げ"
     ],
-    "timestamp": "2025-09-26 15:27:53"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.returns.title",
     "source": "Returns & Exchanges",
-    "translation": "返品・交換について",
+    "translation": "返品と交換",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -1078,40 +1154,43 @@
       "cat eye → マグネット",
       "press-on nails → ネイルチップ"
     ],
-    "timestamp": "2025-09-26 15:27:55"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.returns.acceptReturns.question",
-    "source": "{strong}Do you accept returns?{/strong}",
-    "translation": "<strong>返品は可能ですか？</strong>",
+    "source": "<strong>Do you accept returns?</strong>",
+    "translation": "<strong>返品は受け付けていますか？</strong>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
     "tm_hit": false,
     "constraints_found": 3,
     "constraints_list": [
+      "Removal → オフ",
       "press-on nails → ネイルチップ",
-      "nude → ヌーディー",
-      "Removal → オフ"
+      "nail tech → ネイリスト"
     ],
-    "timestamp": "2025-09-26 15:27:57"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.returns.acceptReturns.answer",
-    "source": "Because each set is {em}handcrafted and customized{/em}, we unfortunately {strong}cannot accept returns{/strong}. If there is an issue with your order, please contact us and we will make it right.",
-    "translation": "Here's the Japanese translation, preserving all tags and maintaining a natural, professional tone:\n\n各セットは{em}手作業でカスタマイズ{/em}して制作しているため、誠に申し訳ございませんが{strong}返品はお受けできません{/strong}。ご注文に関して問題がございましたら、お手数ですがご連絡ください。早急に対応させていただきます。\n\nThe translation maintains the meaning and nuance of the original while adapting it to Japanese business courtesy conventions. The tags are preserved exactly as in the source, and the message about no returns is conveyed clearly but politely, followed by reassurance about problem resolution.",
+    "source": "Because each set is <em>handcrafted and customized</em>, we unfortunately <strong>cannot accept returns</strong>. If there is an issue with your order, please contact us and we will make it right.",
+    "translation": "各セットは<em>手作りでカスタマイズ</em>されているため、残念ながら<strong>返品を受け付けることができません</strong>。ご注文に問題がある場合は、お問い合わせいただければ、適切に対応いたします。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
     "tm_hit": false,
     "constraints_found": 0,
     "constraints_list": [],
-    "timestamp": "2025-09-26 15:28:03"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.other.title",
     "source": "Other Questions",
-    "translation": "その他のご質問",
+    "translation": "その他の質問",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -1122,12 +1201,13 @@
       "nail tech → ネイリスト",
       "press-on nails → ネイルチップ"
     ],
-    "timestamp": "2025-09-26 15:28:05"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.other.contactText",
     "source": "If you have a question not covered here, please reach out to us through our",
-    "translation": "ここに記載されていない質問がございましたら、お問い合わせフォームからご連絡ください。",
+    "translation": "ここに記載されていない質問がある場合は、私たちにご連絡ください。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -1138,12 +1218,13 @@
       "press-on nails → ネイルチップ",
       "cat eye → マグネット"
     ],
-    "timestamp": "2025-09-26 15:28:07"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.other.contactLink",
-    "source": "{link}Contact page{/link}",
-    "translation": "{link}お問い合わせページ{/link}",
+    "source": "<a href=\"#\">Contact page</a>",
+    "translation": "<a href=\"#\">お問い合わせページ</a>",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -1154,28 +1235,30 @@
       "nail tech → ネイリスト",
       "seafoam → ミント"
     ],
-    "timestamp": "2025-09-26 15:28:09"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.other.helpText",
-    "source": "We are {strong}always happy to help{/strong}.",
-    "translation": "{strong}いつでもお手伝いさせていただきます{/strong}。\n\nNote: I preserved the {strong} tags exactly as in the source and translated the content naturally into Japanese, maintaining a polite and professional tone that's appropriate for customer service context.",
+    "source": "We are <strong>always happy to help</strong>.",
+    "translation": "<strong>いつでもお手伝いできることを嬉しく思います</strong>。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
     "tm_hit": false,
     "constraints_found": 3,
     "constraints_list": [
-      "finish → 仕上げ",
-      "blush → チーク",
-      "nude → ヌーディー"
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ",
+      "finish → 仕上げ"
     ],
-    "timestamp": "2025-09-26 15:28:15"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "footer.copyright",
-    "source": "© 2025 {strong}NaiLit{/strong}.",
-    "translation": "© 2025 {strong}NaiLit{/strong}.\n\nNote: I preserved the copyright symbol (©), year, and the brand name \"NaiLit\" exactly as shown in the source, along with the markup tags. Since this is a copyright notice, no translation was needed for the non-brand elements.",
+    "source": "© 2025 <strong>NaiLit</strong>.",
+    "translation": "© 2025 <strong>NaiLit</strong>。",
     "model": "claude-3.5-sonnet",
     "approach": "RAG",
     "target_lang": "ja",
@@ -1184,8 +1267,9 @@
     "constraints_list": [
       "NaiLit → NaiLit",
       "nail tech → ネイリスト",
-      "nude → ヌーディー"
+      "press-on nails → ネイルチップ"
     ],
-    "timestamp": "2025-09-26 15:28:18"
+    "timestamp": "2025-09-26 23:48:19",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   }
 ]

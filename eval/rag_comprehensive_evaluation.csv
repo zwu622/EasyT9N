@@ -1,4 +1,4 @@
-language,total_segments,dnt_preservation_rate,glossary_adherence_avg,tag_preservation_rate,retrieval_precision_avg,semantic_similarity_avg,bleu_score,chrf_score,tm_hits_found,tm_entries_available,avg_constraints_per_segment,error_rate,baseline_available,evaluation_timestamp
-fr,76,1.0,0.974,0.947,0.206,0.938,28.16,63.64,0,2,2.7,0.0,True,2025-09-26 16:16:34
-ja,76,1.0,0.993,0.855,0.206,0.925,12.35,43.4,0,2,2.7,0.0,True,2025-09-26 16:17:18
-it,76,1.0,0.974,0.895,0.206,0.913,22.09,56.49,0,2,2.7,0.0,True,2025-09-26 16:17:57
+language,total_segments,dnt_preservation_rate,glossary_adherence_avg,tag_preservation_rate,retrieval_precision_avg,semantic_similarity_avg,bleu_score,chrf_score,tm_hits_found,tm_entries_available,avg_constraints_per_segment,error_rate,evaluation_timestamp
+fr,76,1.0,0.974,0.987,0.184,0.972,87.35,89.55,2,2,2.79,0.0,2025-09-26 23:49:04
+ja,76,1.0,0.993,0.947,0.184,0.961,72.36,78.74,2,2,2.79,0.0,2025-09-26 23:49:21
+it,76,1.0,0.943,0.974,0.184,0.976,85.43,89.16,2,2,2.79,0.0,2025-09-26 23:49:42

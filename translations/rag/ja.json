@@ -1,0 +1,1275 @@
+[
+  {
+    "path": "nav.design",
+    "source": "Design",
+    "translation": "デザイン",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → ネイリスト",
+      "finish → 仕上げ",
+      "cat eye → マグネット"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "nav.about",
+    "source": "About Us",
+    "translation": "私たちについて",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ",
+      "cat eye → マグネット"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "nav.faq",
+    "source": "FAQ",
+    "translation": "FAQ",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → マグネット",
+      "seafoam → ミント",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "hero.title",
+    "source": "Design Your",
+    "translation": "デザインを作成する",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → ネイリスト",
+      "finish → 仕上げ",
+      "press-on nails → ネイルチップ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "hero.titleHighlight",
+    "source": "<span>Perfect Nails</span>",
+    "translation": "<span>パーフェクトネイル</span>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "nail tech → ネイリスト",
+      "NaiLit → NaiLit"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "hero.subtitle",
+    "source": "No more salon stress. No more flimsy press-ons. With <strong>NaiLit</strong>, you get <strong>fully custom</strong>, <strong>hand-painted</strong>, high-quality <strong>Gel-X</strong> press-on nails for every occasion.",
+    "translation": "<strong>NaiLit</strong>で、大人の余裕を指先に。<strong>フルオーダー</strong>、<strong>手描き仕上げ</strong>、<strong>繰り返し使えて</strong><strong>長持ちする</strong>Gel-Xネイルチップ。自分らしさで、毎日を心地よく彩る。",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": true,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "Gel-X → Gel-X",
+      "NaiLit → NaiLit"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "hero.startDesigning",
+    "source": "Start Designing",
+    "translation": "デザインを始める",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → ネイリスト",
+      "finish → 仕上げ",
+      "press-on nails → ネイルチップ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "features.designer.title",
+    "source": "Custom Designer",
+    "translation": "カスタムデザイナー",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → ネイリスト",
+      "muted pink → くすみピンク",
+      "stiletto → ポイント"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "features.designer.description",
+    "source": "Mix and match <strong>colors, patterns, and finishes</strong> to create your unique style",
+    "translation": "独自のスタイルを作るために<strong>色、パターン、仕上げ</strong>を組み合わせてください",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "finish → 仕上げ",
+      "blush → チーク",
+      "glitter → ラメ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "features.share.title",
+    "source": "Share & Save",
+    "translation": "共有 & 保存",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "nude → ヌーディー",
+      "Removal → オフ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "features.share.description",
+    "source": "<strong>Download your designs</strong> or share them with friends via social links",
+    "translation": "<strong>デザインをダウンロード</strong>するか、ソーシャルリンクを通じて友達と共有しましょう。",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "nude → ヌーディー",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "features.premium.title",
+    "source": "Premium Sets",
+    "translation": "プレミアムセット",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "glitter → ラメ",
+      "muted pink → くすみピンク"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "features.premium.description",
+    "source": "Order <strong>custom designs</strong> or choose from our curated nail art collections",
+    "translation": "<strong>カスタムデザイン</strong>を注文するか、厳選されたネイルアートコレクションから選びましょう",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ",
+      "nude → ヌーディー"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.title",
+    "source": "About Us",
+    "translation": "私たちについて",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ",
+      "cat eye → マグネット"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.backToHome",
+    "source": "← Back to Home",
+    "translation": "← ホームに戻る",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "milky white → ミルキー",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.tagline",
+    "source": "<strong>NaiLit</strong> is here to make your nails <em>lit</em> and help you <em>nail it</em>! ✨",
+    "translation": "<strong>NaiLit</strong>、指先から、あなたらしく<em>輝く</em> ✨",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": true,
+    "constraints_found": 3,
+    "constraints_list": [
+      "NaiLit → NaiLit",
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.intro",
+    "source": "We believe that nails should be as <strong>unique as you are</strong>. That is why <strong>NaiLit</strong> offers fully customizable press-on nails designed with you in mind. Using our <em>Nail Dress-Up system</em>, you can choose your shape, length, color, and finish to create a set that is <strong>100% your style</strong>.",
+    "translation": "<strong>あなた自身と同じくらい</strong>ユニークなネイルであるべきだと私たちは信じています。だからこそ<strong>NaiLit</strong>は、あなたを考慮してデザインされた完全にカスタマイズ可能なネイルチップを提供しています。<em>Nail Dress-Up system</em>を使用することで、形、長さ、色、仕上げを選んで<strong>100%あなたのスタイル</strong>のセットを作成できます。",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "NaiLit → NaiLit",
+      "finish → 仕上げ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.craftmanship",
+    "source": "Once you have submitted your design, our <strong>expert nail techs</strong> handcraft each set on <em>authentic Gel-X bases</em>. <strong>No 3D printing. No bulky plastic.</strong> Just the perfect balance of thinness, flexibility, and <strong>salon-quality feel</strong> combined with the convenience of press-ons.",
+    "translation": "デザインを提出すると、私たちの<strong>専門のネイリスト</strong>が各セットを<em>本物のGel-Xベース</em>で手作りします。<strong>3Dプリントなし。かさばるプラスチックなし。</strong> 薄さ、柔軟性、そして<strong>サロン品質の感触</strong>の完璧なバランスとネイルチップの便利さを兼ね備えています。",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "Gel-X → Gel-X",
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.safety",
+    "source": "We are also proud to say that our products are <strong>Trimethylbenzoyl Diphenylphosphine Oxide (TPO)-free</strong> and fully compliant with <strong>EU safety standards</strong>. Beauty should never come at the cost of safety, and <strong>NaiLit</strong> is committed to giving you both.",
+    "translation": "<strong>トリメチルベンゾイルジフェニルホスフィンオキシド（TPO）フリー</strong>であり、<strong>EUの安全基準</strong>に完全に準拠していることを誇りに思います。美しさは決して安全性の犠牲になってはならず、<strong>NaiLit</strong>はその両方を提供することを約束します。",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 1,
+    "constraints_list": [
+      "NaiLit → NaiLit"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.kitIncludes",
+    "source": "<strong>Every kit comes complete with:</strong>",
+    "translation": "<strong>すべてのキットには以下が含まれています：</strong>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "finish → 仕上げ",
+      "seafoam → ミント",
+      "cat eye → マグネット"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.adhesiveKit",
+    "source": "<strong>1x Nail Adhesive Kit</strong> (featuring both glue and sticker tabs, so you can choose between <em>long-lasting hold</em> or <em>easy reuse</em>)",
+    "translation": "<strong>1x ネイル接着剤キット</strong>（接着剤とステッカータブの両方が含まれているので、<em>長持ちするホールド</em>または<em>簡単な再利用</em>のいずれかを選べます）",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 1,
+    "constraints_list": [
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.removalKit",
+    "source": "<strong>1x Nail Removal Kit</strong> (so you can change up your look whenever you want, <em>without damage</em>)",
+    "translation": "<strong>1x ネイルオフキット</strong>（いつでも好きな時にルックを変えられるための、<em>ダメージなし</em>で）",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "Removal → オフ",
+      "oval → オーバル",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.confidence",
+    "source": "With <strong>NaiLit</strong>, you do not just wear nails. You wear your <em>style</em>, your <em>creativity</em>, and your <em>confidence</em>.",
+    "translation": "<strong>NaiLit</strong>を使えば、ただネイルを着けるだけではありません。あなたの<em>スタイル</em>、あなたの<em>クリエイティビティ</em>、そしてあなたの<em>自信</em>を身に着けるのです。",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 2,
+    "constraints_list": [
+      "NaiLit → NaiLit",
+      "press-on nails → ネイルチップ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.motto",
+    "source": "<strong>NaiLit. Nails made for you, by you.</strong> 💅",
+    "translation": "<strong>NaiLit</strong>。あなたのために、あなたが作ったネイル。💅</translation>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "NaiLit → NaiLit",
+      "press-on nails → ネイルチップ",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.faqText",
+    "source": "For Order and Shipping related questions, please see our",
+    "translation": "注文および配送に関する質問については、私たちの",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → マグネット",
+      "press-on nails → ネイルチップ",
+      "finish → 仕上げ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.faqLink",
+    "source": "<a href=\"#\">FAQ page</a>",
+    "translation": "<a href=\"#\">FAQページ</a>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "seafoam → ミント",
+      "cat eye → マグネット",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.title",
+    "source": "Design Your Nails",
+    "translation": "ネイルをデザインする",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "nail tech → ネイリスト",
+      "NaiLit → NaiLit"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.backToHome",
+    "source": "Back to Home",
+    "translation": "ホームに戻る",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ",
+      "cat eye → マグネット"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.shape.title",
+    "source": "Shape",
+    "translation": "形状",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "oval → オーバル",
+      "cat eye → マグネット",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.shape.oval",
+    "source": "Oval",
+    "translation": "オーバル",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "oval → オーバル",
+      "Removal → オフ",
+      "cat eye → マグネット"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.shape.coffin",
+    "source": "Coffin",
+    "translation": "バレリーナ",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "coffin → バレリーナ",
+      "seafoam → ミント",
+      "glitter → ラメ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.shape.stiletto",
+    "source": "Stiletto",
+    "translation": "ポイント",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "stiletto → ポイント",
+      "glitter → ラメ",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.shape.almond",
+    "source": "Almond",
+    "translation": "アーモンド",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "almond → アーモンド",
+      "oval → オーバル",
+      "press-on nails → ネイルチップ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.color.title",
+    "source": "Color",
+    "translation": "色",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → マグネット",
+      "glitter → ラメ",
+      "muted pink → くすみピンク"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.color.mutedPink",
+    "source": "Muted Pink",
+    "translation": "くすみピンク",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "muted pink → くすみピンク",
+      "milky white → ミルキー",
+      "glitter → ラメ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.color.nude",
+    "source": "Nude",
+    "translation": "ヌーディー",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nude → ヌーディー",
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.color.seafoam",
+    "source": "Seafoam",
+    "translation": "ミント",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "seafoam → ミント",
+      "glitter → ラメ",
+      "press-on nails → ネイルチップ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.color.milkyWhite",
+    "source": "Milky White",
+    "translation": "ミルキー",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "milky white → ミルキー",
+      "muted pink → くすみピンク",
+      "glitter → ラメ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.finish.title",
+    "source": "Finish",
+    "translation": "仕上げ",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "finish → 仕上げ",
+      "Removal → オフ",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.finish.blush",
+    "source": "Blush",
+    "translation": "チーク",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "blush → チーク",
+      "glitter → ラメ",
+      "cat eye → マグネット"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.finish.french",
+    "source": "French",
+    "translation": "フレンチ",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "French → フレンチ",
+      "cat eye → マグネット",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.finish.catEye",
+    "source": "Cat Eye",
+    "translation": "マグネット",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → マグネット",
+      "nail tech → ネイリスト",
+      "glitter → ラメ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.finish.glitter",
+    "source": "Glitter",
+    "translation": "ラメ",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "glitter → ラメ",
+      "blush → チーク",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.size.title",
+    "source": "Size",
+    "translation": "サイズ",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → マグネット",
+      "finish → 仕上げ",
+      "Removal → オフ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.size.short",
+    "source": "Short",
+    "translation": "ショート",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → マグネット",
+      "finish → 仕上げ",
+      "muted pink → くすみピンク"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.size.medium",
+    "source": "Medium",
+    "translation": "ミディアム",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "milky white → ミルキー",
+      "nude → ヌーディー",
+      "Removal → オフ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.size.long",
+    "source": "Long",
+    "translation": "ロング",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "oval → オーバル",
+      "cat eye → マグネット",
+      "nude → ヌーディー"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.preview",
+    "source": "Preview",
+    "translation": "プレビュー",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → マグネット",
+      "press-on nails → ネイルチップ",
+      "Removal → オフ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.saveDesign",
+    "source": "Save Design",
+    "translation": "デザインを保存",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → ネイリスト",
+      "Removal → オフ",
+      "cat eye → マグネット"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.downloadDesign",
+    "source": "Download Design",
+    "translation": "デザインをダウンロード",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → ネイリスト",
+      "Removal → オフ",
+      "finish → 仕上げ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.title",
+    "source": "FAQ",
+    "translation": "FAQ",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → マグネット",
+      "seafoam → ミント",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.backToHome",
+    "source": "← Back to Home",
+    "translation": "← ホームに戻る",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "milky white → ミルキー",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.orders.title",
+    "source": "Orders",
+    "translation": "注文",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "oval → オーバル",
+      "finish → 仕上げ",
+      "cat eye → マグネット"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.orders.placeOrder.question",
+    "source": "<strong>How do I place an order?</strong>",
+    "translation": "<strong>注文方法を教えてください。</strong>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "oval → オーバル",
+      "finish → 仕上げ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.orders.placeOrder.answer",
+    "source": "Simply use our <strong>Nail Dress-Up system</strong> to design your set, add it to cart, and check out. Once your order is placed, our <em>expert nail techs</em> will start handcrafting your press-ons.",
+    "translation": "<strong>Nail Dress-Upシステム</strong>を使ってセットをデザインし、カートに追加してチェックアウトしてください。注文が完了すると、私たちの<em>専門のネイリスト</em>があなたのネイルチップを手作りし始めます。",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 2,
+    "constraints_list": [
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.orders.processTime.question",
+    "source": "<strong>How long does it take to process my order?</strong>",
+    "translation": "<strong>注文の処理にはどれくらい時間がかかりますか？</strong>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "Removal → オフ",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.orders.processTime.answer",
+    "source": "Because each set is <em>custom-made</em>, please allow <strong>5–7 business days</strong> for production before shipping.",
+    "translation": "各セットは<em>カスタムメイド</em>のため、発送前に<strong>5～7営業日</strong>の製作期間をいただきます。",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 0,
+    "constraints_list": [],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.title",
+    "source": "Shipping",
+    "translation": "配送",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "seafoam → ミント",
+      "Removal → オフ",
+      "glitter → ラメ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.whereShip.question",
+    "source": "<strong>Where do you ship?</strong>",
+    "translation": "<strong>どこに発送しますか？</strong>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "seafoam → ミント",
+      "press-on nails → ネイルチップ",
+      "Removal → オフ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.whereShip.answer",
+    "source": "We currently ship domestically within the <strong>United States</strong> and internationally to <strong>Italy, France, Canada, and Japan</strong>.",
+    "translation": "現在、<strong>アメリカ合衆国</strong>国内および<strong>イタリア、フランス、カナダ、日本</strong>への国際配送を行っています。",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 0,
+    "constraints_list": [],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.cost.question",
+    "source": "<strong>How much is shipping?</strong>",
+    "translation": "<strong>送料はいくらですか？</strong>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "seafoam → ミント",
+      "press-on nails → ネイルチップ",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.cost.answer",
+    "source": "Domestic shipping is a <strong>flat rate of $X</strong>. International shipping rates vary depending on destination and will be calculated at checkout.",
+    "translation": "国内配送は<strong>$Xの定額料金</strong>です。国際配送の料金は目的地によって異なり、チェックアウト時に計算されます。",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 2,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "Gel-X → Gel-X"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.duration.question",
+    "source": "<strong>How long does shipping take?</strong>",
+    "translation": "<strong>配送にはどのくらいの時間がかかりますか？</strong>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "nail tech → ネイリスト",
+      "seafoam → ミント"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.duration.intro",
+    "source": "Shipping times vary by destination:",
+    "translation": "配送時間は目的地によって異なります：",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "seafoam → ミント",
+      "press-on nails → ネイルチップ",
+      "oval → オーバル"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.duration.us",
+    "source": "<strong>United States:</strong> 3–5 business days after processing",
+    "translation": "<strong>アメリカ合衆国:</strong> 処理後3～5営業日",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "finish → 仕上げ",
+      "press-on nails → ネイルチップ",
+      "Removal → オフ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.duration.canada",
+    "source": "<strong>Canada:</strong> 5–10 business days after processing",
+    "translation": "<strong>カナダ:</strong> 処理後5～10営業日",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "finish → 仕上げ",
+      "Removal → オフ",
+      "press-on nails → ネイルチップ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.duration.europe",
+    "source": "<strong>Italy & France:</strong> 7–14 business days after processing",
+    "translation": "<strong>イタリアとフランス：</strong> 処理後7～14営業日",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "French → フレンチ",
+      "press-on nails → ネイルチップ",
+      "finish → 仕上げ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.duration.japan",
+    "source": "<strong>Japan:</strong> 7–14 business days after processing",
+    "translation": "<strong>日本：</strong> 処理後7～14営業日",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "nail tech → ネイリスト",
+      "finish → 仕上げ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.returns.title",
+    "source": "Returns & Exchanges",
+    "translation": "返品と交換",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "Removal → オフ",
+      "cat eye → マグネット",
+      "press-on nails → ネイルチップ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.returns.acceptReturns.question",
+    "source": "<strong>Do you accept returns?</strong>",
+    "translation": "<strong>返品は受け付けていますか？</strong>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "Removal → オフ",
+      "press-on nails → ネイルチップ",
+      "nail tech → ネイリスト"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.returns.acceptReturns.answer",
+    "source": "Because each set is <em>handcrafted and customized</em>, we unfortunately <strong>cannot accept returns</strong>. If there is an issue with your order, please contact us and we will make it right.",
+    "translation": "各セットは<em>手作りでカスタマイズ</em>されているため、残念ながら<strong>返品を受け付けることができません</strong>。ご注文に問題がある場合は、お問い合わせいただければ、適切に対応いたします。",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 0,
+    "constraints_list": [],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.other.title",
+    "source": "Other Questions",
+    "translation": "その他の質問",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → マグネット",
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.other.contactText",
+    "source": "If you have a question not covered here, please reach out to us through our",
+    "translation": "ここに記載されていない質問がある場合は、私たちにご連絡ください。",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ",
+      "cat eye → マグネット"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.other.contactLink",
+    "source": "<a href=\"#\">Contact page</a>",
+    "translation": "<a href=\"#\">お問い合わせページ</a>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → ネイルチップ",
+      "nail tech → ネイリスト",
+      "seafoam → ミント"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.other.helpText",
+    "source": "We are <strong>always happy to help</strong>.",
+    "translation": "<strong>いつでもお手伝いできて嬉しいです</strong>。",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ",
+      "finish → 仕上げ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "footer.copyright",
+    "source": "© 2025 <strong>NaiLit</strong>.",
+    "translation": "<strong>NaiLit</strong> © 2025.",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "ja",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "NaiLit → NaiLit",
+      "nail tech → ネイリスト",
+      "press-on nails → ネイルチップ"
+    ],
+    "timestamp": "2025-09-27 11:04:54",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  }
+]

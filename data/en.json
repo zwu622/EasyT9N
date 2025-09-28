@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "design": "Design",
+    "about": "About Us",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Design Your",
+    "titleHighlight": "<span>Perfect Nails</span>",
+    "subtitle": "No more salon stress. No more flimsy press-ons. With <strong>NaiLit</strong>, you get <strong>fully custom</strong>, <strong>hand-painted</strong>, high-quality <strong>Gel-X</strong> press-on nails for every occasion.",
+    "startDesigning": "Start Designing"
+  },
+  "features": {
+    "designer": {
+      "title": "Custom Designer",
+      "description": "Mix and match <strong>colors, patterns, and finishes</strong> to create your unique style"
+    },
+    "share": {
+      "title": "Share & Save",
+      "description": "<strong>Download your designs</strong> or share them with friends via social links"
+    },
+    "premium": {
+      "title": "Premium Sets",
+      "description": "Order <strong>custom designs</strong> or choose from our curated nail art collections"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "backToHome": "← Back to Home",
+    "tagline": "<strong>NaiLit</strong> is here to make your nails <em>lit</em> and help you <em>nail it</em>! ✨",
+    "intro": "We believe that nails should be as <strong>unique as you are</strong>. That is why <strong>NaiLit</strong> offers fully customizable press-on nails designed with you in mind. Using our <em>Nail Dress-Up system</em>, you can choose your shape, length, color, and finish to create a set that is <strong>100% your style</strong>.",
+    "craftmanship": "Once you have submitted your design, our <strong>expert nail techs</strong> handcraft each set on <em>authentic Gel-X bases</em>. <strong>No 3D printing. No bulky plastic.</strong> Just the perfect balance of thinness, flexibility, and <strong>salon-quality feel</strong> combined with the convenience of press-ons.",
+    "safety": "We are also proud to say that our products are <strong>Trimethylbenzoyl Diphenylphosphine Oxide (TPO)-free</strong> and fully compliant with <strong>EU safety standards</strong>. Beauty should never come at the cost of safety, and <strong>NaiLit</strong> is committed to giving you both.",
+    "kitIncludes": "<strong>Every kit comes complete with:</strong>",
+    "adhesiveKit": "<strong>1x Nail Adhesive Kit</strong> (featuring both glue and sticker tabs, so you can choose between <em>long-lasting hold</em> or <em>easy reuse</em>)",
+    "removalKit": "<strong>1x Nail Removal Kit</strong> (so you can change up your look whenever you want, <em>without damage</em>)",
+    "confidence": "With <strong>NaiLit</strong>, you do not just wear nails. You wear your <em>style</em>, your <em>creativity</em>, and your <em>confidence</em>.",
+    "motto": "<strong>NaiLit. Nails made for you, by you.</strong> 💅",
+    "faqText": "For Order and Shipping related questions, please see our",
+    "faqLink": "<a href=\"#\">FAQ page</a>"
+  },
+  "design": {
+    "title": "Design Your Nails",
+    "backToHome": "Back to Home",
+    "shape": {
+      "title": "Shape",
+      "oval": "Oval",
+      "coffin": "Coffin",
+      "stiletto": "Stiletto",
+      "almond": "Almond"
+    },
+    "color": {
+      "title": "Color",
+      "mutedPink": "Muted Pink",
+      "nude": "Nude",
+      "seafoam": "Seafoam",
+      "milkyWhite": "Milky White"
+    },
+    "finish": {
+      "title": "Finish",
+      "blush": "Blush",
+      "french": "French",
+      "catEye": "Cat Eye",
+      "glitter": "Glitter"
+    },
+    "size": {
+      "title": "Size",
+      "short": "Short",
+      "medium": "Medium",
+      "long": "Long"
+    },
+    "preview": "Preview",
+    "saveDesign": "Save Design",
+    "downloadDesign": "Download Design"
+  },
+  "faq": {
+    "title": "FAQ",
+    "backToHome": "← Back to Home",
+    "orders": {
+      "title": "Orders",
+      "placeOrder": {
+        "question": "<strong>How do I place an order?</strong>",
+        "answer": "Simply use our <strong>Nail Dress-Up system</strong> to design your set, add it to cart, and check out. Once your order is placed, our <em>expert nail techs</em> will start handcrafting your press-ons."
+      },
+      "processTime": {
+        "question": "<strong>How long does it take to process my order?</strong>",
+        "answer": "Because each set is <em>custom-made</em>, please allow <strong>5–7 business days</strong> for production before shipping."
+      }
+    },
+    "shipping": {
+      "title": "Shipping",
+      "whereShip": {
+        "question": "<strong>Where do you ship?</strong>",
+        "answer": "We currently ship domestically within the <strong>United States</strong> and internationally to <strong>Italy, France, Canada, and Japan</strong>."
+      },
+      "cost": {
+        "question": "<strong>How much is shipping?</strong>",
+        "answer": "Domestic shipping is a <strong>flat rate of $X</strong>. International shipping rates vary depending on destination and will be calculated at checkout."
+      },
+      "duration": {
+        "question": "<strong>How long does shipping take?</strong>",
+        "intro": "Shipping times vary by destination:",
+        "us": "<strong>United States:</strong> 3–5 business days after processing",
+        "canada": "<strong>Canada:</strong> 5–10 business days after processing",
+        "europe": "<strong>Italy & France:</strong> 7–14 business days after processing",
+        "japan": "<strong>Japan:</strong> 7–14 business days after processing"
+      }
+    },
+    "returns": {
+      "title": "Returns & Exchanges",
+      "acceptReturns": {
+        "question": "<strong>Do you accept returns?</strong>",
+        "answer": "Because each set is <em>handcrafted and customized</em>, we unfortunately <strong>cannot accept returns</strong>. If there is an issue with your order, please contact us and we will make it right."
+      }
+    },
+    "other": {
+      "title": "Other Questions",
+      "contactText": "If you have a question not covered here, please reach out to us through our",
+      "contactLink": "<a href=\"#\">Contact page</a>",
+      "helpText": "We are <strong>always happy to help</strong>."
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 <strong>NaiLit</strong>."
+  }
+}

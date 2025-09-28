@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "target_language": "fr",
+  "n_segments": 76,
+  "error_count": 0,
+  "error_rate": 0.0,
+  "tag_preservation_rate": 0.711,
+  "length_ratio_avg": 1.569,
+  "length_ratio_std": 0.743,
+  "total_duration_sec": 113.16,
+  "avg_latency_sec": 1.489,
+  "segments_per_minute": 40.3,
+  "estimated_cost_usd": 0.0005,
+  "few_shot_prompting": true,
+  "evaluation_timestamp": "2025-09-27 10:14:32"
+}

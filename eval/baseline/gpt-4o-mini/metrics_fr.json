@@ -1,0 +1,16 @@
+{
+  "model": "gpt-4o-mini",
+  "target_language": "fr",
+  "n_segments": 76,
+  "error_count": 0,
+  "error_rate": 0.0,
+  "tag_preservation_rate": 0.987,
+  "length_ratio_avg": 1.276,
+  "length_ratio_std": 0.308,
+  "total_duration_sec": 17.28,
+  "avg_latency_sec": 0.227,
+  "segments_per_minute": 263.9,
+  "estimated_cost_usd": 0.0009,
+  "few_shot_prompting": true,
+  "evaluation_timestamp": "2025-09-27 10:19:12"
+}

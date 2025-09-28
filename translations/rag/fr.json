@@ -1,0 +1,1275 @@
+[
+  {
+    "path": "nav.design",
+    "source": "Design",
+    "translation": "Design",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → styliste ongulaire",
+      "finish → effet",
+      "cat eye → Cat Eye"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "nav.about",
+    "source": "About Us",
+    "translation": "À propos de nous",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → styliste ongulaire",
+      "press-on nails → press-on nails",
+      "cat eye → Cat Eye"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "nav.faq",
+    "source": "FAQ",
+    "translation": "FAQ",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → Cat Eye",
+      "seafoam → vert d’eau",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "hero.title",
+    "source": "Design Your",
+    "translation": "Concevez votre",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → styliste ongulaire",
+      "finish → effet",
+      "press-on nails → press-on nails"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "hero.titleHighlight",
+    "source": "<span>Perfect Nails</span>",
+    "translation": "<span>Ongles Parfaits</span>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "nail tech → styliste ongulaire",
+      "NaiLit → NaiLit"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "hero.subtitle",
+    "source": "No more salon stress. No more flimsy press-ons. With <strong>NaiLit</strong>, you get <strong>fully custom</strong>, <strong>hand-painted</strong>, high-quality <strong>Gel-X</strong> press-on nails for every occasion.",
+    "translation": "Avec <strong>NaiLit</strong>, l’élégance devient simple. Des press-on nails <strong>sur mesure</strong>, <strong>peints à la main</strong>, <strong>réutilisables</strong> et <strong>durables</strong>, en Gel-X, pour briller jour après jour sans contraintes de salon.",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": true,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "Gel-X → Gel-X",
+      "NaiLit → NaiLit"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "hero.startDesigning",
+    "source": "Start Designing",
+    "translation": "Commencez à concevoir",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → styliste ongulaire",
+      "finish → effet",
+      "press-on nails → press-on nails"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "features.designer.title",
+    "source": "Custom Designer",
+    "translation": "Designer personnalisé",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → styliste ongulaire",
+      "muted pink → rose poudré",
+      "stiletto → pointu"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "features.designer.description",
+    "source": "Mix and match <strong>colors, patterns, and finishes</strong> to create your unique style",
+    "translation": "Associez et mélangez les <strong>couleurs, motifs et effets</strong> pour créer votre style unique",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "finish → effet",
+      "blush → blush nails",
+      "glitter → pailletées"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "features.share.title",
+    "source": "Share & Save",
+    "translation": "Partager & Enregistrer",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "nude → nude",
+      "Removal → dépose"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "features.share.description",
+    "source": "<strong>Download your designs</strong> or share them with friends via social links",
+    "translation": "<strong>Téléchargez vos designs</strong> ou partagez-les avec des amis via des liens sociaux",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "nude → nude",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "features.premium.title",
+    "source": "Premium Sets",
+    "translation": "Ensembles Premium",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "glitter → pailletées",
+      "muted pink → rose poudré"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "features.premium.description",
+    "source": "Order <strong>custom designs</strong> or choose from our curated nail art collections",
+    "translation": "Commandez des <strong>designs personnalisés</strong> ou choisissez parmi nos collections de nail art sélectionnées",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → styliste ongulaire",
+      "press-on nails → press-on nails",
+      "nude → nude"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.title",
+    "source": "About Us",
+    "translation": "À propos de nous",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → styliste ongulaire",
+      "press-on nails → press-on nails",
+      "cat eye → Cat Eye"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.backToHome",
+    "source": "← Back to Home",
+    "translation": "← Retour à l'accueil",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "milky white → blanc doux",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.tagline",
+    "source": "<strong>NaiLit</strong> is here to make your nails <em>lit</em> and help you <em>nail it</em>! ✨",
+    "translation": "<strong>NaiLit</strong> est là pour rendre vos ongles <em>éclatants</em> et <em>illuminer</em> votre vie ! ✨",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": true,
+    "constraints_found": 3,
+    "constraints_list": [
+      "NaiLit → NaiLit",
+      "nail tech → styliste ongulaire",
+      "press-on nails → press-on nails"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.intro",
+    "source": "We believe that nails should be as <strong>unique as you are</strong>. That is why <strong>NaiLit</strong> offers fully customizable press-on nails designed with you in mind. Using our <em>Nail Dress-Up system</em>, you can choose your shape, length, color, and finish to create a set that is <strong>100% your style</strong>.",
+    "translation": "Nous croyons que les ongles devraient être aussi <strong>uniques que vous</strong>. C'est pourquoi <strong>NaiLit</strong> propose des press-on nails entièrement personnalisables conçus pour vous. Grâce à notre <em>système Nail Dress-Up</em>, vous pouvez choisir votre forme, longueur, couleur et effet pour créer un ensemble qui est <strong>100 % votre style</strong>.",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "NaiLit → NaiLit",
+      "finish → effet"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.craftmanship",
+    "source": "Once you have submitted your design, our <strong>expert nail techs</strong> handcraft each set on <em>authentic Gel-X bases</em>. <strong>No 3D printing. No bulky plastic.</strong> Just the perfect balance of thinness, flexibility, and <strong>salon-quality feel</strong> combined with the convenience of press-ons.",
+    "translation": "Une fois que vous avez soumis votre design, nos <strong>experts stylistes ongulaires</strong> fabriquent chaque ensemble sur des <em>bases Gel-X authentiques</em>. <strong>Pas d'impression 3D. Pas de plastique encombrant.</strong> Juste le parfait équilibre entre finesse, flexibilité et <strong>sensations de qualité salon</strong> combinées à la commodité des press-on nails.",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "Gel-X → Gel-X",
+      "nail tech → styliste ongulaire",
+      "press-on nails → press-on nails"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.safety",
+    "source": "We are also proud to say that our products are <strong>Trimethylbenzoyl Diphenylphosphine Oxide (TPO)-free</strong> and fully compliant with <strong>EU safety standards</strong>. Beauty should never come at the cost of safety, and <strong>NaiLit</strong> is committed to giving you both.",
+    "translation": "Nous sommes également fiers de dire que nos produits sont <strong>sans Trimethylbenzoyl Diphenylphosphine Oxide (TPO)</strong> et entièrement conformes aux <strong>normes de sécurité de l'UE</strong>. La beauté ne devrait jamais se faire au détriment de la sécurité, et <strong>NaiLit</strong> s'engage à vous offrir les deux.",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 1,
+    "constraints_list": [
+      "NaiLit → NaiLit"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.kitIncludes",
+    "source": "<strong>Every kit comes complete with:</strong>",
+    "translation": "<strong>Chaque kit est complet avec :</strong>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "finish → effet",
+      "seafoam → vert d’eau",
+      "cat eye → Cat Eye"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.adhesiveKit",
+    "source": "<strong>1x Nail Adhesive Kit</strong> (featuring both glue and sticker tabs, so you can choose between <em>long-lasting hold</em> or <em>easy reuse</em>)",
+    "translation": "<strong>1x Kit d'adhésif pour ongles</strong> (comprenant à la fois de la colle et des onglets autocollants, afin que vous puissiez choisir entre <em>une tenue longue durée</em> ou <em>une réutilisation facile</em>)",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 1,
+    "constraints_list": [
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.removalKit",
+    "source": "<strong>1x Nail Removal Kit</strong> (so you can change up your look whenever you want, <em>without damage</em>)",
+    "translation": "<strong>1x Kit de dépose d'ongles</strong> (pour que vous puissiez changer de look quand vous le souhaitez, <em>sans dommage</em>)",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "Removal → dépose",
+      "oval → ovale",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.confidence",
+    "source": "With <strong>NaiLit</strong>, you do not just wear nails. You wear your <em>style</em>, your <em>creativity</em>, and your <em>confidence</em>.",
+    "translation": "Avec <strong>NaiLit</strong>, vous ne portez pas seulement des ongles. Vous portez votre <em>style</em>, votre <em>créativité</em> et votre <em>confiance</em>.",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 2,
+    "constraints_list": [
+      "NaiLit → NaiLit",
+      "press-on nails → press-on nails"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.motto",
+    "source": "<strong>NaiLit. Nails made for you, by you.</strong> 💅",
+    "translation": "<strong>NaiLit. Des ongles faits pour vous, par vous.</strong> 💅",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "NaiLit → NaiLit",
+      "press-on nails → press-on nails",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.faqText",
+    "source": "For Order and Shipping related questions, please see our",
+    "translation": "Pour des questions liées aux commandes et à l'expédition, veuillez consulter notre",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → Cat Eye",
+      "press-on nails → press-on nails",
+      "finish → effet"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "about.faqLink",
+    "source": "<a href=\"#\">FAQ page</a>",
+    "translation": "<a href=\"#\">Page FAQ</a>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "seafoam → vert d’eau",
+      "cat eye → Cat Eye",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.title",
+    "source": "Design Your Nails",
+    "translation": "Concevez vos ongles",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "nail tech → styliste ongulaire",
+      "NaiLit → NaiLit"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.backToHome",
+    "source": "Back to Home",
+    "translation": "Retour à l'accueil",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → styliste ongulaire",
+      "press-on nails → press-on nails",
+      "cat eye → Cat Eye"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.shape.title",
+    "source": "Shape",
+    "translation": "Forme",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "oval → ovale",
+      "cat eye → Cat Eye",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.shape.oval",
+    "source": "Oval",
+    "translation": "ovale",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "oval → ovale",
+      "Removal → dépose",
+      "cat eye → Cat Eye"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.shape.coffin",
+    "source": "Coffin",
+    "translation": "Ballerine",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "coffin → ballerine",
+      "seafoam → vert d’eau",
+      "glitter → pailletées"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.shape.stiletto",
+    "source": "Stiletto",
+    "translation": "pointu",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "stiletto → pointu",
+      "glitter → pailletées",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.shape.almond",
+    "source": "Almond",
+    "translation": "amande",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "almond → amande",
+      "oval → ovale",
+      "press-on nails → press-on nails"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.color.title",
+    "source": "Color",
+    "translation": "Couleur",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → Cat Eye",
+      "glitter → pailletées",
+      "muted pink → rose poudré"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.color.mutedPink",
+    "source": "Muted Pink",
+    "translation": "Rose poudré",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "muted pink → rose poudré",
+      "milky white → blanc doux",
+      "glitter → pailletées"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.color.nude",
+    "source": "Nude",
+    "translation": "Nude",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nude → nude",
+      "nail tech → styliste ongulaire",
+      "press-on nails → press-on nails"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.color.seafoam",
+    "source": "Seafoam",
+    "translation": "vert d’eau",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "seafoam → vert d’eau",
+      "glitter → pailletées",
+      "press-on nails → press-on nails"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.color.milkyWhite",
+    "source": "Milky White",
+    "translation": "blanc doux",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "milky white → blanc doux",
+      "muted pink → rose poudré",
+      "glitter → pailletées"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.finish.title",
+    "source": "Finish",
+    "translation": "effet",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "finish → effet",
+      "Removal → dépose",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.finish.blush",
+    "source": "Blush",
+    "translation": "blush nails",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "blush → blush nails",
+      "glitter → pailletées",
+      "cat eye → Cat Eye"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.finish.french",
+    "source": "French",
+    "translation": "French Manucure",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "French → French Manucure",
+      "cat eye → Cat Eye",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.finish.catEye",
+    "source": "Cat Eye",
+    "translation": "Cat Eye",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → Cat Eye",
+      "nail tech → styliste ongulaire",
+      "glitter → pailletées"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.finish.glitter",
+    "source": "Glitter",
+    "translation": "Pailletées",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "glitter → pailletées",
+      "blush → blush nails",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.size.title",
+    "source": "Size",
+    "translation": "Taille",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → Cat Eye",
+      "finish → effet",
+      "Removal → dépose"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.size.short",
+    "source": "Short",
+    "translation": "Court",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → Cat Eye",
+      "finish → effet",
+      "muted pink → rose poudré"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.size.medium",
+    "source": "Medium",
+    "translation": "Moyenne",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "milky white → blanc doux",
+      "nude → nude",
+      "Removal → dépose"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.size.long",
+    "source": "Long",
+    "translation": "Long",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "oval → ovale",
+      "cat eye → Cat Eye",
+      "nude → nude"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.preview",
+    "source": "Preview",
+    "translation": "Aperçu",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → Cat Eye",
+      "press-on nails → press-on nails",
+      "Removal → dépose"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.saveDesign",
+    "source": "Save Design",
+    "translation": "Enregistrer le design",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → styliste ongulaire",
+      "Removal → dépose",
+      "cat eye → Cat Eye"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "design.downloadDesign",
+    "source": "Download Design",
+    "translation": "Télécharger le design",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → styliste ongulaire",
+      "Removal → dépose",
+      "finish → effet"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.title",
+    "source": "FAQ",
+    "translation": "FAQ",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → Cat Eye",
+      "seafoam → vert d’eau",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.backToHome",
+    "source": "← Back to Home",
+    "translation": "← Retour à l'accueil",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "milky white → blanc doux",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.orders.title",
+    "source": "Orders",
+    "translation": "Commandes",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "oval → ovale",
+      "finish → effet",
+      "cat eye → Cat Eye"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.orders.placeOrder.question",
+    "source": "<strong>How do I place an order?</strong>",
+    "translation": "<strong>Comment passer une commande ?</strong>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "oval → ovale",
+      "finish → effet"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.orders.placeOrder.answer",
+    "source": "Simply use our <strong>Nail Dress-Up system</strong> to design your set, add it to cart, and check out. Once your order is placed, our <em>expert nail techs</em> will start handcrafting your press-ons.",
+    "translation": "Utilisez simplement notre <strong>système Nail Dress-Up</strong> pour concevoir votre ensemble, l'ajouter au panier et passer à la caisse. Une fois votre commande passée, nos <em>experts stylistes ongulaires</em> commenceront à fabriquer à la main vos press-on nails.",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 2,
+    "constraints_list": [
+      "nail tech → styliste ongulaire",
+      "press-on nails → press-on nails"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.orders.processTime.question",
+    "source": "<strong>How long does it take to process my order?</strong>",
+    "translation": "<strong>Combien de temps faut-il pour traiter ma commande ?</strong>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "Removal → dépose",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.orders.processTime.answer",
+    "source": "Because each set is <em>custom-made</em>, please allow <strong>5–7 business days</strong> for production before shipping.",
+    "translation": "Parce que chaque ensemble est <em>fait sur mesure</em>, veuillez prévoir un délai de <strong>5 à 7 jours ouvrables</strong> pour la production avant l'expédition.",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 0,
+    "constraints_list": [],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.title",
+    "source": "Shipping",
+    "translation": "Expédition",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "seafoam → vert d’eau",
+      "Removal → dépose",
+      "glitter → pailletées"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.whereShip.question",
+    "source": "<strong>Where do you ship?</strong>",
+    "translation": "<strong>Où expédiez-vous ?</strong>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "seafoam → vert d’eau",
+      "press-on nails → press-on nails",
+      "Removal → dépose"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.whereShip.answer",
+    "source": "We currently ship domestically within the <strong>United States</strong> and internationally to <strong>Italy, France, Canada, and Japan</strong>.",
+    "translation": "Nous expédions actuellement à l'intérieur des <strong>États-Unis</strong> et à l'international vers <strong>l'Italie, la France, le Canada et le Japon</strong>.",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 0,
+    "constraints_list": [],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.cost.question",
+    "source": "<strong>How much is shipping?</strong>",
+    "translation": "<strong>Combien coûte la livraison ?</strong>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "seafoam → vert d’eau",
+      "press-on nails → press-on nails",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.cost.answer",
+    "source": "Domestic shipping is a <strong>flat rate of $X</strong>. International shipping rates vary depending on destination and will be calculated at checkout.",
+    "translation": "La livraison nationale est à un <strong>tarif fixe de $X</strong>. Les tarifs de livraison internationale varient en fonction de la destination et seront calculés au moment du paiement.",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 2,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "Gel-X → Gel-X"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.duration.question",
+    "source": "<strong>How long does shipping take?</strong>",
+    "translation": "<strong>Combien de temps prend la livraison ?</strong>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "nail tech → styliste ongulaire",
+      "seafoam → vert d’eau"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.duration.intro",
+    "source": "Shipping times vary by destination:",
+    "translation": "Les délais de livraison varient selon la destination :",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "seafoam → vert d’eau",
+      "press-on nails → press-on nails",
+      "oval → ovale"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.duration.us",
+    "source": "<strong>United States:</strong> 3–5 business days after processing",
+    "translation": "<strong>États-Unis :</strong> 3 à 5 jours ouvrables après traitement",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "finish → effet",
+      "press-on nails → press-on nails",
+      "Removal → dépose"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.duration.canada",
+    "source": "<strong>Canada:</strong> 5–10 business days after processing",
+    "translation": "<strong>Canada :</strong> 5 à 10 jours ouvrables après traitement",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "finish → effet",
+      "Removal → dépose",
+      "press-on nails → press-on nails"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.duration.europe",
+    "source": "<strong>Italy & France:</strong> 7–14 business days after processing",
+    "translation": "<strong>Italie & France :</strong> 7 à 14 jours ouvrables après traitement",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "French → French Manucure",
+      "press-on nails → press-on nails",
+      "finish → effet"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.shipping.duration.japan",
+    "source": "<strong>Japan:</strong> 7–14 business days after processing",
+    "translation": "<strong>Japon :</strong> 7 à 14 jours ouvrables après traitement",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "nail tech → styliste ongulaire",
+      "finish → effet"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.returns.title",
+    "source": "Returns & Exchanges",
+    "translation": "Retours et Échanges",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "Removal → dépose",
+      "cat eye → Cat Eye",
+      "press-on nails → press-on nails"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.returns.acceptReturns.question",
+    "source": "<strong>Do you accept returns?</strong>",
+    "translation": "<strong>Acceptez-vous les retours ?</strong>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "Removal → dépose",
+      "press-on nails → press-on nails",
+      "nail tech → styliste ongulaire"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.returns.acceptReturns.answer",
+    "source": "Because each set is <em>handcrafted and customized</em>, we unfortunately <strong>cannot accept returns</strong>. If there is an issue with your order, please contact us and we will make it right.",
+    "translation": "Parce que chaque ensemble est <em>fait à la main et personnalisé</em>, nous <strong>ne pouvons malheureusement pas accepter les retours</strong>. S'il y a un problème avec votre commande, veuillez nous contacter et nous le réglerons.",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 0,
+    "constraints_list": [],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.other.title",
+    "source": "Other Questions",
+    "translation": "Autres questions",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "cat eye → Cat Eye",
+      "nail tech → styliste ongulaire",
+      "press-on nails → press-on nails"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.other.contactText",
+    "source": "If you have a question not covered here, please reach out to us through our",
+    "translation": "Si vous avez une question qui n'est pas abordée ici, veuillez nous contacter via notre",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → styliste ongulaire",
+      "press-on nails → press-on nails",
+      "cat eye → Cat Eye"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.other.contactLink",
+    "source": "<a href=\"#\">Contact page</a>",
+    "translation": "<a href=\"#\">Page de contact</a>",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "press-on nails → press-on nails",
+      "nail tech → styliste ongulaire",
+      "seafoam → vert d’eau"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "faq.other.helpText",
+    "source": "We are <strong>always happy to help</strong>.",
+    "translation": "Nous sommes <strong>toujours heureux de vous aider</strong>.",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "nail tech → styliste ongulaire",
+      "press-on nails → press-on nails",
+      "finish → effet"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  },
+  {
+    "path": "footer.copyright",
+    "source": "© 2025 <strong>NaiLit</strong>.",
+    "translation": "© 2025 <strong>NaiLit</strong>.",
+    "model": "claude-3.5-sonnet",
+    "approach": "RAG",
+    "target_lang": "fr",
+    "tm_hit": false,
+    "constraints_found": 3,
+    "constraints_list": [
+      "NaiLit → NaiLit",
+      "nail tech → styliste ongulaire",
+      "press-on nails → press-on nails"
+    ],
+    "timestamp": "2025-09-27 11:04:16",
+    "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
+  }
+]

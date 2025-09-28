@@ -1,0 +1,10 @@
+model,target_language,n_segments,error_count,error_rate,tag_preservation_rate,length_ratio_avg,length_ratio_std,total_duration_sec,avg_latency_sec,segments_per_minute,estimated_cost_usd,few_shot_prompting,evaluation_timestamp
+gemini-2.5-flash,fr,76,0,0.0,0.711,1.569,0.743,113.16,1.489,40.3,0.0005,True,2025-09-27 10:14:32
+gemini-2.5-flash,ja,76,0,0.0,0.934,0.768,0.476,162.1,2.133,28.1,0.0003,True,2025-09-27 10:17:14
+gemini-2.5-flash,it,76,0,0.0,0.961,1.207,0.454,100.65,1.324,45.3,0.0004,True,2025-09-27 10:18:55
+gpt-4o-mini,fr,76,0,0.0,0.987,1.276,0.308,17.28,0.227,263.9,0.0009,True,2025-09-27 10:19:12
+gpt-4o-mini,ja,76,0,0.0,0.974,0.655,0.194,16.53,0.218,275.8,0.0005,True,2025-09-27 10:19:29
+gpt-4o-mini,it,76,0,0.0,0.987,1.16,0.252,17.56,0.231,259.6,0.0008,True,2025-09-27 10:19:46
+claude-3-5-sonnet,fr,76,0,0.0,0.684,1.366,0.406,263.57,3.468,17.3,0.0216,True,2025-09-27 10:24:10
+claude-3-5-sonnet,ja,76,0,0.0,0.724,0.887,0.729,181.96,2.394,25.1,0.0132,True,2025-09-27 10:27:12
+claude-3-5-sonnet,it,76,0,0.0,0.75,1.211,0.323,188.27,2.477,24.2,0.0204,True,2025-09-27 10:30:20

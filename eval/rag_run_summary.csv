@@ -1,0 +1,4 @@
+language,total_segments,unique_sources,tm_hits_segments,tm_hit_rate_segments,errors,error_rate,total_constraints,avg_constraints_per_segment,duration_sec,segments_per_sec,output_file,input_tokens,output_tokens,wall_seconds_metered
+fr,76,73,2,0.02631578947368421,0,0.0,212,2.789473684210526,24.9,3.0474400391581007,translations\rag\fr.json,27568,1522,61.836793422698975
+ja,76,73,2,0.02631578947368421,0,0.0,212,2.789473684210526,38.3,1.9834605995446641,translations\rag\ja.json,29610,1756,62.88097953796387
+it,76,73,2,0.02631578947368421,0,0.0,212,2.789473684210526,38.3,1.9867855280098012,translations\rag\it.json,27145,1581,66.11275172233582

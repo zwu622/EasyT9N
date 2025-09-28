@@ -75,110 +75,88 @@ For demo purposes, the externalized strings of a press-on nail ecommerce web app
 
 ---
 
-## Requirements
-
-- **Python**: `>= 3.13`
-
-Install dependencies from `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## Setup
 
-1) Create & activate a virtual environment
+**Requirements**  
+- Python **3.13+**  
+- [JupyterLab](https://jupyter.org/install) for running notebooks  
+- [uv](https://github.com/astral-sh/uv) as the package/dependency manager  
+
+**1) Install uv**  
+On macOS/Linux:  
 ```bash
-python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-# macOS/Linux:
-source .venv/bin/activate
-pip install -U pip
-```
+curl -LsSf https://astral.sh/uv/install.sh | sh
 
-2) Install dependencies
-```bash
-pip install -r requirements.txt
-```
+On Windows (PowerShell):
+irm https://astral.sh/uv/install.ps1 | iex
 
-3) Create `.env` (not tracked by git)
-```env
-# OpenAI
-OPENAI_API_KEY=sk-...
+2) Create a project venv and install deps
 
-# Anthropic
+uv venv
+source .venv/bin/activate       # Windows: .venv\Scripts\activate
+uv pip install -r requirements.txt
+
+3) Install JupyterLab if not present
+
+uv pip install jupyterlab
+
+4) Add API keys to .env
+
+OPENAI_API_KEY=...
 ANTHROPIC_API_KEY=...
+GOOGLE_API_KEY=...  
 
-# Google (google-genai)
-GOOGLE_API_KEY=...
+OR use the .env file provided separately
 
-# Optional hints
-OPENAI_BASELINE_MODEL=gpt-4o-mini
-BASELINE_MODEL_HINT="gpt openai claude gemini"
-RAG_MAX_WORKERS=4
-OPENAI_RAG_MODEL=gpt-4o-mini
-```
+5) Prepare data files
 
-4) Put your data in `data/`:
-- `en.json` (source strings)
-- `glossary.csv` (DNT + mappings)
-- `translation_memory.csv` (optional but recommended)
+To run demo, ensure that the following are present:
+
+data/en.json (source text)
+
+data/glossary.csv (EN→FR/JA/IT + DNT flag)
+
+data/translation_memory.csv
 
 ---
 
-## How to Run
+## How to Run (Baseline → RAG → Compare)
+
+### Launch JupyterLab
+
+jupyter lab
+
+Open the notebooks/ folder.
 
 ### A) Baselines
 Open **`Baseline.ipynb`** and run all cells:
+- Translate EN→FR/JA/IT without retrieval
 - Produces `translations/baseline/<…>/{fr,ja,it}.json`
 - Saves baseline metrics to `eval/baseline/<…>/metrics_{lang}.json`
 
 ### B) RAG Pipeline
 Open **`RAG_Enhanced_Translation_System.ipynb`** and run all cells:
-- Builds/updates a persistent **Chroma** index from `glossary.csv`
-- Uses **`intfloat/multilingual-e5-base`** embeddings to retrieve glossary terms
-- Translates with prompt constraints (DNT, glossary mappings), preserving **HTML tags**
-- Saves outputs to `translations/rag/{lang}.json`
-- Logs metered **tokens**, **runtime**, and **estimated cost** to `eval/rag_run_summary.csv`
+- Embed glossary into Chroma.
+- Retrieve glossary terms per source segment.
+- Inject them as constraints at inference time.
+- Outputs: translations/rag/{fr,ja,it}.json, eval/rag_comprehensive_evaluation.csv
 
-### C) Evaluation & Reports
+### C) Comparison
 The RAG notebook writes:
-- `eval/rag_vs_baseline_comparison.csv` – coverage & similarity diagnostics
-- `eval/rag_comprehensive_evaluation.csv` – DNT/glossary/tags/retrieval + BLEU/chrF + semantic similarity
-- `eval/final_comparison.csv` – consolidated **quality + runtime/cost** table with deltas
+- RAG notebook will load baseline folder.
+- Evaluates DNT, glossary adherence, retrieval precision, tag preservation.
+- Saves: 
+eval/rag_vs_baseline_comparison.csv
+eval/final_comparison.csv
 
 ---
 
-## Methodology
-
-- **Baselines:** Gemini 2.5 Flash, GPT-4o Mini, Claude 3.5 Sonnet were chosen for speed, cost, and temperature control. All results are kept for transparent comparison.
-- **RAG:** Exact TM match → otherwise retrieve glossary terms (semantic + lexical boost) → enforce DNT and tag fidelity in prompts.
-- **Why nail art?** The domain has many locale-specific terms. Without retrieval, LLMs often normalize or mistranslate specialized phrasing. RAG narrows the model’s options to the correct vocabulary.
-
----
-
-## Known Limitations
-
-- Very short strings can be tricky for retrieval; tune `top_k`/`min_score`.
-- `sentence-transformers` will bring in a compatible `torch`; GPU acceleration depends on your environment.
-
----
-
-## Extending
-
-- Add more locales or domain TMs (e.g., “ui” vs “marketing”).
-- Add **style profiles** per locale (tone, formality).
-- Swap in newer MTEB-ranked embedding models as they land.
-- Sample segments for **post-edit distance** to estimate MTPE effort saved.
-
-
----
+## Troubleshooting
+- If API requests are throttled: reduce MAX_WORKERS to 2–3.
+- If glossary changes aren’t applied: delete .chroma/ and rerun RAG
+- If wrong baseline folder loads: adjust BASELINE_MODEL_HINT
 
 ## Acknowledgments
 
 - `intfloat/multilingual-e5-base` (Hugging Face) for multilingual retrieval.
-- **Chroma** for simple, persistent vector search.
-- **OpenAI / Anthropic / Google** SDKs for generation.

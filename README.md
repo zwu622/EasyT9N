@@ -44,9 +44,9 @@ For demo purposes, the externalized strings of a press-on nail ecommerce web app
 │  ├─ rag_vs_baseline_comparison.csv
 │  ├─ rag_comprehensive_evaluation.csv
 │  └─ final_comparison.csv        # quality + runtime/cost side-by-side
-├─ .env                           
+├─ .env
 ├─ Baseline.ipynb                 # run baseline models and save outputs
-└─ RAG_Enhanced.ipynb  		      # full RAG pipeline + evaluation
+└─ RAG_Enhanced.ipynb             # full RAG pipeline + evaluation
 ```
 
 ---
@@ -68,13 +68,12 @@ For demo purposes, the externalized strings of a press-on nail ecommerce web app
 ### `data/translation_memory.csv` (example columns)
 
 | tm_id   | src_lang | tgt_lang | src_text                                                | tgt_text                                                | domain | quality  | frozen |
-|---------|----------|---------|---------------------------------------------------------|---------------------------------------------------------|--------|----------|--------|
-| tm-0001 | en       | fr      | {strong}NaiLit{/strong} …                               | {strong}NaiLit{/strong} …                               | ui     | approved | FALSE  |
+|---------|----------|----------|---------------------------------------------------------|---------------------------------------------------------|--------|----------|--------|
+| tm-0001 | en       | fr       | {strong}NaiLit{/strong} …                               | {strong}NaiLit{/strong} …                               | ui     | approved | FALSE  |
 
 - **Exact TM matches win first**; otherwise the RAG prompt uses glossary constraints.
 
 ---
-
 
 ## Setup
 
@@ -87,75 +86,79 @@ For demo purposes, the externalized strings of a press-on nail ecommerce web app
 On macOS/Linux:  
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
+```
 
-On Windows (PowerShell):
+On Windows (PowerShell):  
+```powershell
 irm https://astral.sh/uv/install.ps1 | iex
+```
 
-2) Create a project venv and install deps
-
+**2) Create a project venv and install deps**  
+```bash
 uv venv
 source .venv/bin/activate       # Windows: .venv\Scripts\activate
 uv pip install -r requirements.txt
+```
 
-3) Install JupyterLab if not present
-
+**3) Install JupyterLab if not present**  
+```bash
 uv pip install jupyterlab
+```
 
-4) Add API keys to .env
-
+**4) Add API keys to `.env`**  
+```dotenv
 OPENAI_API_KEY=...
 ANTHROPIC_API_KEY=...
-GOOGLE_API_KEY=...  
+GOOGLE_API_KEY=...
+```
 
-OR use the .env file provided separately
+Or just edit the `.env` file provided separately.
 
-5) Prepare data files
-
-To run demo, ensure that the following are present:
-
-data/en.json (source text)
-
-data/glossary.csv (EN→FR/JA/IT + DNT flag)
-
-data/translation_memory.csv
+**5) Prepare data files**  
+To run the demo, ensure the following are present:  
+- `data/en.json` (source text)  
+- `data/glossary.csv` (EN→FR/JA/IT + DNT flag)  
+- `data/translation_memory.csv`
 
 ---
 
 ## How to Run (Baseline → RAG → Compare)
 
 ### Launch JupyterLab
-
+```bash
 jupyter lab
-
-Open the notebooks/ folder.
+```
+Open the `notebooks/` folder.
 
 ### A) Baselines
-Open **`Baseline.ipynb`** and run all cells:
-- Translate EN→FR/JA/IT without retrieval
-- Produces `translations/baseline/<…>/{fr,ja,it}.json`
-- Saves baseline metrics to `eval/baseline/<…>/metrics_{lang}.json`
+Open **`Baseline.ipynb`** and run all cells:  
+- Translate EN→FR/JA/IT without retrieval  
+- Produces `translations/baseline/<…>/{fr,ja,it}.json`  
+- Saves baseline metrics to `eval/baseline/<…>/metrics_{lang}.json`  
 
 ### B) RAG Pipeline
-Open **`RAG_Enhanced_Translation_System.ipynb`** and run all cells:
-- Embed glossary into Chroma.
-- Retrieve glossary terms per source segment.
-- Inject them as constraints at inference time.
-- Outputs: translations/rag/{fr,ja,it}.json, eval/rag_comprehensive_evaluation.csv
+Open **`RAG_Enhanced.ipynb`** and run all cells:  
+- Embed glossary into Chroma  
+- Retrieve glossary terms per source segment  
+- Inject them as constraints at inference time  
+- Outputs: `translations/rag/{fr,ja,it}.json`, `eval/rag_comprehensive_evaluation.csv`  
 
 ### C) Comparison
-The RAG notebook writes:
-- RAG notebook will load baseline folder.
-- Evaluates DNT, glossary adherence, retrieval precision, tag preservation.
-- Saves: 
-eval/rag_vs_baseline_comparison.csv
-eval/final_comparison.csv
+The RAG notebook writes:  
+- Evaluates DNT, glossary adherence, retrieval precision, tag preservation  
+- Saves:  
+  - `eval/rag_vs_baseline_comparison.csv`  
+  - `eval/final_comparison.csv`  
 
 ---
 
 ## Troubleshooting
-- If API requests are throttled: reduce MAX_WORKERS to 2–3.
-- If glossary changes aren’t applied: delete .chroma/ and rerun RAG
-- If wrong baseline folder loads: adjust BASELINE_MODEL_HINT
+
+- If API requests are throttled: reduce `MAX_WORKERS` to 2–3.  
+- If glossary changes aren’t applied: delete `.chroma/` and rerun RAG.  
+- If wrong baseline folder loads: adjust `BASELINE_MODEL_HINT`.  
+
+---
 
 ## Acknowledgments
 

@@ -154,9 +154,7 @@ The RAG notebook also produces:
 
 This project can be distributed in two ways:  
 1. **With results included**: all translations and evaluation CSVs pre-computed for quick review.  
-2. **Clean run**: only data and notebooks provided. Allows reviewers to reproduce results from scratch.  
-
-Both are optional, but including both versions is often appreciated by evaluators.  
+2. **Clean run**: Please delete all files under /EasyT9N/eval and /EasyT9N/translations to reproduce a clean run.  
 
 ---
 

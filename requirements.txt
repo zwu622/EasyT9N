@@ -1,0 +1,20 @@
+# Core dependencies
+jupyterlab>=4.2.0
+tqdm>=4.66.0
+pandas>=2.2.0
+numpy>=2.0.0
+
+# Environment and secrets
+python-dotenv>=1.0.1
+
+# Embeddings and retrieval
+sentence-transformers>=2.7.0
+chromadb>=0.5.0
+
+# Evaluation and metrics
+sacrebleu>=2.4.0
+
+# LLM API clients
+openai>=1.0.0
+anthropic>=0.68.0
+google-genai>=1.38.0

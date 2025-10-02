@@ -2,170 +2,170 @@
   {
     "path": "nav.design",
     "source": "Design",
-    "translation": "Design",
+    "translation": "Design\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "nav.about",
     "source": "About Us",
-    "translation": "Chi siamo",
+    "translation": "Chi Siamo\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "about.title",
     "source": "About Us",
-    "translation": "Chi siamo",
+    "translation": "Chi Siamo\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "nav.faq",
     "source": "FAQ",
-    "translation": "FAQ",
+    "translation": "Domande frequenti",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.title",
     "source": "FAQ",
-    "translation": "FAQ",
+    "translation": "Domande frequenti",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "hero.title",
     "source": "Design Your",
-    "translation": "Progetta il Tuo\n\n</translation>",
+    "translation": "Crea il Tuo",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "hero.titleHighlight",
     "source": "<span>Perfect Nails</span>",
-    "translation": "<span>Unghie Perfette</span>\n\n</translation>",
+    "translation": "<span>Unghie Perfette</span>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "hero.subtitle",
     "source": "No more salon stress. No more flimsy press-ons. With <strong>NaiLit</strong>, you get <strong>fully custom</strong>, <strong>hand-painted</strong>, high-quality <strong>Gel-X</strong> press-on nails for every occasion.",
-    "translation": "Basta stress dal salone. Basta unghie finte fragili. Con <strong>NaiLit</strong>, ottieni unghie press-on <strong>Gel-X</strong> di alta qualità, <strong>dipinte a mano</strong> e <strong>completamente personalizzate</strong> per ogni occasione.",
+    "translation": "Basta stress da salone. Basta press-on fragili. Con <strong>NaiLit</strong>, ottieni press-on nails <strong>completamente personalizzate</strong>, <strong>dipinte a mano</strong>, di alta qualità in <strong>Gel-X</strong> per ogni occasione.\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "hero.startDesigning",
     "source": "Start Designing",
-    "translation": "Inizia a Progettare",
+    "translation": "Inizia a Personalizzare\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "features.designer.title",
     "source": "Custom Designer",
-    "translation": "Designer Personalizzato",
+    "translation": "Designer Personalizzato\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "features.designer.description",
     "source": "Mix and match <strong>colors, patterns, and finishes</strong> to create your unique style",
-    "translation": "Combina e abbina <strong>colori, motivi e finiture</strong> per creare il tuo stile unico",
+    "translation": "Combina e abbina <strong>colori, fantasie e finiture</strong> per creare il tuo stile unico\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "features.share.title",
     "source": "Share & Save",
-    "translation": "Condividi e Salva",
+    "translation": "Condividi e Risparmia\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "features.share.description",
     "source": "<strong>Download your designs</strong> or share them with friends via social links",
-    "translation": "<strong>Scarica i tuoi design</strong> o condividili con gli amici tramite i link social\n\n</translation>",
+    "translation": "<strong>Scarica i tuoi design</strong> o condividili con gli amici tramite i social\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "features.premium.title",
     "source": "Premium Sets",
-    "translation": "Set Premium",
+    "translation": "Set Premium\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "features.premium.description",
     "source": "Order <strong>custom designs</strong> or choose from our curated nail art collections",
-    "translation": "Ordina <strong>design personalizzati</strong> o scegli dalle nostre collezioni curate di nail art",
+    "translation": "Ordina <strong>design personalizzati</strong> o scegli dalle nostre collezioni curate di nail art\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "about.backToHome",
     "source": "← Back to Home",
-    "translation": "← Torna alla Home",
+    "translation": "← Torna alla Home\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.backToHome",
     "source": "← Back to Home",
-    "translation": "← Torna alla Home",
+    "translation": "← Torna alla Home\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "about.tagline",
     "source": "<strong>NaiLit</strong> is here to make your nails <em>lit</em> and help you <em>nail it</em>! ✨",
-    "translation": "<strong>NaiLit</strong> è qui per far brillare le tue unghie e aiutarti a dare il meglio di te! ✨\n\n</translation>",
+    "translation": "<strong>NaiLit</strong> è qui per far brillare le tue unghie e farti <em>brillare</em> come una star! ✨\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "about.intro",
     "source": "We believe that nails should be as <strong>unique as you are</strong>. That is why <strong>NaiLit</strong> offers fully customizable press-on nails designed with you in mind. Using our <em>Nail Dress-Up system</em>, you can choose your shape, length, color, and finish to create a set that is <strong>100% your style</strong>.",
-    "translation": "Crediamo che le unghie debbano essere <strong>uniche come te</strong>. Per questo motivo <strong>NaiLit</strong> offre unghie press-on completamente personalizzabili pensate appositamente per te. Utilizzando il nostro <em>Nail Dress-Up system</em>, puoi scegliere la forma, la lunghezza, il colore e la finitura per creare un set che è <strong>100% il tuo stile</strong>.",
+    "translation": "Crediamo che le unghie debbano essere <strong>uniche come te</strong>. Per questo motivo <strong>NaiLit</strong> offre press-on nails completamente personalizzabili pensate appositamente per te. Utilizzando il nostro <em>sistema Nail Dress-Up</em>, puoi scegliere la forma, la lunghezza, il colore e la finitura per creare un set che sia <strong>al 100% il tuo stile</strong>.\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "about.craftmanship",
     "source": "Once you have submitted your design, our <strong>expert nail techs</strong> handcraft each set on <em>authentic Gel-X bases</em>. <strong>No 3D printing. No bulky plastic.</strong> Just the perfect balance of thinness, flexibility, and <strong>salon-quality feel</strong> combined with the convenience of press-ons.",
-    "translation": "Una volta inviato il tuo design, i nostri <strong>tecnici esperti</strong> realizzano artigianalmente ogni set su <em>autentiche basi Gel-X</em>. <strong>Niente stampa 3D. Niente plastica ingombrante.</strong> Solo il perfetto equilibrio tra sottigliezza, flessibilità e <strong>qualità da salone</strong> combinato con la praticità delle unghie press-on.",
+    "translation": "Una volta inviato il tuo design, le nostre <strong>onicotecniche esperte</strong> realizzano a mano ogni set su <em>autentiche basi Gel-X</em>. <strong>Niente stampa 3D. Niente plastica ingombrante.</strong> Solo il perfetto equilibrio tra sottigliezza, flessibilità e <strong>qualità da salone</strong> unito alla praticità delle press-on.\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "about.safety",
     "source": "We are also proud to say that our products are <strong>Trimethylbenzoyl Diphenylphosphine Oxide (TPO)-free</strong> and fully compliant with <strong>EU safety standards</strong>. Beauty should never come at the cost of safety, and <strong>NaiLit</strong> is committed to giving you both.",
-    "translation": "Siamo anche orgogliosi di dire che i nostri prodotti sono <strong>privi di Trimethylbenzoyl Diphenylphosphine Oxide (TPO)</strong> e pienamente conformi agli <strong>standard di sicurezza UE</strong>. La bellezza non dovrebbe mai andare a scapito della sicurezza, e <strong>NaiLit</strong> si impegna a garantirti entrambe.",
+    "translation": "Siamo anche orgogliosi di dire che i nostri prodotti sono <strong>privi di Ossido di Trimetilbenzoil Difenilfosfina (TPO)</strong> e pienamente conformi agli <strong>standard di sicurezza UE</strong>. La bellezza non dovrebbe mai andare a scapito della sicurezza, e <strong>NaiLit</strong> si impegna a garantirti entrambe.\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "about.kitIncludes",
@@ -173,7 +173,7 @@
     "translation": "<strong>Ogni kit include:</strong>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "about.adhesiveKit",
@@ -181,15 +181,15 @@
     "translation": "<strong>1x Kit Adesivo per Unghie</strong> (include sia colla che linguette adesive, così puoi scegliere tra una <em>tenuta duratura</em> o un <em>facile riutilizzo</em>)\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "about.removalKit",
     "source": "<strong>1x Nail Removal Kit</strong> (so you can change up your look whenever you want, <em>without damage</em>)",
-    "translation": "<strong>1x Kit per la Rimozione delle Unghie</strong> (così puoi cambiare il tuo look quando vuoi, <em>senza danni</em>)\n\n</translation>",
+    "translation": "<strong>1x Kit Rimozione Unghie</strong> (così puoi cambiare look quando vuoi, <em>senza danneggiare</em>)\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "about.confidence",
@@ -197,23 +197,23 @@
     "translation": "Con <strong>NaiLit</strong>, non indossi semplicemente delle unghie. Indossi il tuo <em>stile</em>, la tua <em>creatività</em> e la tua <em>sicurezza</em>.\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "about.motto",
     "source": "<strong>NaiLit. Nails made for you, by you.</strong> 💅",
-    "translation": "<strong>NaiLit. Unghie create per te, da te.</strong> 💅\n\n</translation>",
+    "translation": "<strong>NaiLit. Unghie create per te, da te.</strong> 💅",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "about.faqText",
     "source": "For Order and Shipping related questions, please see our",
-    "translation": "Per domande relative agli Ordini e alle Spedizioni, consulta il nostro\n\n</translation>",
+    "translation": "Per domande relative agli Ordini e alle Spedizioni, consulta il nostro",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "about.faqLink",
@@ -221,23 +221,23 @@
     "translation": "<a href=\"#\">Pagina FAQ</a>\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.title",
     "source": "Design Your Nails",
-    "translation": "Disegna le Tue Unghie",
+    "translation": "Disegna le Tue Unghie\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.backToHome",
     "source": "Back to Home",
-    "translation": "Torna alla Home",
+    "translation": "Torna alla Home\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.shape.title",
@@ -245,79 +245,79 @@
     "translation": "Forma",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.shape.oval",
     "source": "Oval",
-    "translation": "Ovale",
+    "translation": "Ovale\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.shape.coffin",
     "source": "Coffin",
-    "translation": "Bara",
+    "translation": "Ballerina\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.shape.stiletto",
     "source": "Stiletto",
-    "translation": "Stiletto",
+    "translation": "Stiletto\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.shape.almond",
     "source": "Almond",
-    "translation": "Mandorla",
+    "translation": "Mandorla\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.color.title",
     "source": "Color",
-    "translation": "Colore",
+    "translation": "Colore\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.color.mutedPink",
     "source": "Muted Pink",
-    "translation": "Rosa tenue",
+    "translation": "Rosa Tenue\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.color.nude",
     "source": "Nude",
-    "translation": "Nudo",
+    "translation": "Nude\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.color.seafoam",
     "source": "Seafoam",
-    "translation": "Verde acqua",
+    "translation": "Verde acqua\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.color.milkyWhite",
     "source": "Milky White",
-    "translation": "Bianco Latte",
+    "translation": "Bianco Latte\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.finish.title",
@@ -325,39 +325,39 @@
     "translation": "Fine",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.finish.blush",
     "source": "Blush",
-    "translation": "Fard",
+    "translation": "Blush\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.finish.french",
     "source": "French",
-    "translation": "Francese",
+    "translation": "French\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.finish.catEye",
     "source": "Cat Eye",
-    "translation": "Occhio di gatto",
+    "translation": "Cat Eye\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.finish.glitter",
     "source": "Glitter",
-    "translation": "Glitter",
+    "translation": "Glitter\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.size.title",
@@ -365,15 +365,15 @@
     "translation": "Taglia",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.size.short",
     "source": "Short",
-    "translation": "Breve",
+    "translation": "Corto\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.size.medium",
@@ -381,63 +381,63 @@
     "translation": "Media",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.size.long",
     "source": "Long",
-    "translation": "Lungo",
+    "translation": "Lungo\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.preview",
     "source": "Preview",
-    "translation": "Anteprima",
+    "translation": "Anteprima\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.saveDesign",
     "source": "Save Design",
-    "translation": "Salva Design",
+    "translation": "Salva Design\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "design.downloadDesign",
     "source": "Download Design",
-    "translation": "Scarica Design",
+    "translation": "Scarica Design\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.orders.title",
     "source": "Orders",
-    "translation": "Ordini",
+    "translation": "Ordini\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.orders.placeOrder.question",
     "source": "<strong>How do I place an order?</strong>",
-    "translation": "<strong>Come posso effettuare un ordine?</strong>",
+    "translation": "<strong>Come posso effettuare un ordine?</strong>\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.orders.placeOrder.answer",
     "source": "Simply use our <strong>Nail Dress-Up system</strong> to design your set, add it to cart, and check out. Once your order is placed, our <em>expert nail techs</em> will start handcrafting your press-ons.",
-    "translation": "Usa semplicemente il nostro <strong>sistema Nail Dress-Up</strong> per progettare il tuo set, aggiungerlo al carrello e completare l'acquisto. Una volta effettuato l'ordine, i nostri <em>tecnici esperti</em> inizieranno a realizzare a mano le tue unghie press-on.",
+    "translation": "Usa semplicemente il nostro <strong>sistema Nail Dress-Up</strong> per progettare il tuo set, aggiungerlo al carrello e completare l'acquisto. Una volta effettuato l'ordine, le nostre <em>onicotecniche esperte</em> inizieranno a realizzare a mano le tue press-on.\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.orders.processTime.question",
@@ -445,23 +445,23 @@
     "translation": "<strong>Quanto tempo ci vuole per elaborare il mio ordine?</strong>\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.orders.processTime.answer",
     "source": "Because each set is <em>custom-made</em>, please allow <strong>5–7 business days</strong> for production before shipping.",
-    "translation": "Poiché ogni set è <em>realizzato su misura</em>, sono necessari <strong>5-7 giorni lavorativi</strong> per la produzione prima della spedizione.",
+    "translation": "Poiché ogni set è <em>realizzato su misura</em>, sono necessari <strong>5-7 giorni lavorativi</strong> per la produzione prima della spedizione.\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.shipping.title",
     "source": "Shipping",
-    "translation": "Spedizione",
+    "translation": "Spedizione\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.shipping.whereShip.question",
@@ -469,15 +469,15 @@
     "translation": "<strong>Dove spedite?</strong>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.shipping.whereShip.answer",
     "source": "We currently ship domestically within the <strong>United States</strong> and internationally to <strong>Italy, France, Canada, and Japan</strong>.",
-    "translation": "Attualmente spediamo a livello nazionale negli <strong>Stati Uniti</strong> e a livello internazionale in <strong>Italia, Francia, Canada e Giappone</strong>.",
+    "translation": "Attualmente spediamo a livello nazionale negli <strong>Stati Uniti</strong> e a livello internazionale in <strong>Italia, Francia, Canada e Giappone</strong>.\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.shipping.cost.question",
@@ -485,23 +485,23 @@
     "translation": "<strong>Quanto costa la spedizione?</strong>\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.shipping.cost.answer",
     "source": "Domestic shipping is a <strong>flat rate of $X</strong>. International shipping rates vary depending on destination and will be calculated at checkout.",
-    "translation": "La spedizione nazionale ha una <strong>tariffa fissa di $X</strong>. Le tariffe di spedizione internazionale variano in base alla destinazione e verranno calcolate al momento del checkout.",
+    "translation": "La spedizione nazionale ha una <strong>tariffa fissa di $X</strong>. Le tariffe di spedizione internazionale variano in base alla destinazione e verranno calcolate al momento del checkout.\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.shipping.duration.question",
     "source": "<strong>How long does shipping take?</strong>",
-    "translation": "<strong>Quanto tempo richiede la spedizione?</strong>",
+    "translation": "<strong>Quanto tempo richiede la spedizione?</strong>\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.shipping.duration.intro",
@@ -509,7 +509,7 @@
     "translation": "I tempi di spedizione variano in base alla destinazione:",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.shipping.duration.us",
@@ -517,7 +517,7 @@
     "translation": "<strong>Stati Uniti:</strong> 3-5 giorni lavorativi dopo l'elaborazione\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.shipping.duration.canada",
@@ -525,7 +525,7 @@
     "translation": "<strong>Canada:</strong> 5-10 giorni lavorativi dopo l'elaborazione\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.shipping.duration.europe",
@@ -533,7 +533,7 @@
     "translation": "<strong>Italia e Francia:</strong> 7-14 giorni lavorativi dopo l'elaborazione\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.shipping.duration.japan",
@@ -541,47 +541,47 @@
     "translation": "<strong>Giappone:</strong> 7-14 giorni lavorativi dopo l'elaborazione\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.returns.title",
     "source": "Returns & Exchanges",
-    "translation": "Resi e Cambi",
+    "translation": "Resi e Cambi\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.returns.acceptReturns.question",
     "source": "<strong>Do you accept returns?</strong>",
-    "translation": "<strong>Accettate i resi?</strong>",
+    "translation": "<strong>Accettate i resi?</strong>\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.returns.acceptReturns.answer",
     "source": "Because each set is <em>handcrafted and customized</em>, we unfortunately <strong>cannot accept returns</strong>. If there is an issue with your order, please contact us and we will make it right.",
-    "translation": "Poiché ogni set è <em>realizzato a mano e personalizzato</em>, purtroppo <strong>non possiamo accettare resi</strong>. In caso di problemi con il tuo ordine, contattaci e risolveremo la situazione.",
+    "translation": "Poiché ogni set è <em>realizzato a mano e personalizzato</em>, purtroppo <strong>non possiamo accettare resi</strong>. In caso di problemi con il tuo ordine, contattaci e troveremo una soluzione.\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.other.title",
     "source": "Other Questions",
-    "translation": "Altre Domande",
+    "translation": "Altre Domande\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.other.contactText",
     "source": "If you have a question not covered here, please reach out to us through our",
-    "translation": "Se hai una domanda che non è trattata qui, contattaci attraverso il nostro\n\n</translation>",
+    "translation": "Se hai una domanda che non è stata trattata qui, contattaci attraverso il nostro",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.other.contactLink",
@@ -589,15 +589,15 @@
     "translation": "<a href=\"#\">Pagina contatti</a>\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "faq.other.helpText",
     "source": "We are <strong>always happy to help</strong>.",
-    "translation": "Siamo <strong>sempre felici di aiutare</strong>.",
+    "translation": "Siamo <strong>sempre felici di aiutare</strong>.\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   },
   {
     "path": "footer.copyright",
@@ -605,6 +605,6 @@
     "translation": "© 2025 <strong>NaiLit</strong>.\n\n</translation>",
     "model": "claude-3-5-sonnet",
     "target_lang": "it",
-    "timestamp": "2025-09-27 10:30:20"
+    "timestamp": "2025-10-02 11:33:28"
   }
 ]

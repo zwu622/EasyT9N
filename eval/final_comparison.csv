@@ -1,4 +1,0 @@
-language,dnt_preservation_rate,glossary_adherence_avg,tag_preservation_rate,semantic_similarity_avg,rag_duration_sec,rag_segments_per_sec,rag_input_tokens,rag_output_tokens,baseline_model,baseline_duration_sec,baseline_segments_per_sec,baseline_avg_latency_sec,delta_segments_per_sec
-fr,1.0,0.974,0.987,0.972,24.9,3.0474400391581007,27568,1522,claude-3-5-sonnet,263.57,0.28833333333333333,3.468,2.7591067058247676
-it,1.0,0.943,0.974,0.976,38.3,1.9867855280098012,27145,1581,claude-3-5-sonnet,188.27,0.4033333333333333,2.477,1.583452194676468
-ja,1.0,0.993,0.961,0.967,38.3,1.9834605995446641,29610,1756,claude-3-5-sonnet,181.96,0.41833333333333333,2.394,1.5651272662113307

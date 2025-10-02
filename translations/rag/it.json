@@ -3,7 +3,7 @@
     "path": "nav.design",
     "source": "Design",
     "translation": "Design",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -13,14 +13,14 @@
       "finish → finitura",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "nav.about",
     "source": "About Us",
     "translation": "Chi Siamo",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -30,14 +30,14 @@
       "press-on nails → press-on nails",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "nav.faq",
     "source": "FAQ",
     "translation": "FAQ",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -47,14 +47,14 @@
       "seafoam → verde acqua",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "hero.title",
     "source": "Design Your",
     "translation": "Progetta il tuo",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -64,14 +64,14 @@
       "finish → finitura",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "hero.titleHighlight",
     "source": "<span>Perfect Nails</span>",
     "translation": "<span>Unghie Perfette</span>",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -81,14 +81,14 @@
       "nail tech → onicotecnica",
       "NaiLit → NaiLit"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "hero.subtitle",
     "source": "No more salon stress. No more flimsy press-ons. With <strong>NaiLit</strong>, you get <strong>fully custom</strong>, <strong>hand-painted</strong>, high-quality <strong>Gel-X</strong> press-on nails for every occasion.",
     "translation": "Con <strong>NaiLit</strong>, ogni dettaglio parla di te. Press-on nails <strong>personalizzate</strong>, <strong>dipinte a mano</strong>, <strong>riutilizzabili</strong> e <strong>resistenti</strong>, in Gel-X, per sentirti unica oggi, domani e sempre.",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": true,
@@ -98,14 +98,14 @@
       "Gel-X → Gel-X",
       "NaiLit → NaiLit"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "hero.startDesigning",
     "source": "Start Designing",
     "translation": "Inizia a progettare",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -115,14 +115,14 @@
       "finish → finitura",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.designer.title",
     "source": "Custom Designer",
-    "translation": "Designer personalizzati",
-    "model": "claude-3.5-sonnet",
+    "translation": "Designer personalizzato",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -132,14 +132,14 @@
       "muted pink → rosa antico",
       "stiletto → stiletto"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.designer.description",
     "source": "Mix and match <strong>colors, patterns, and finishes</strong> to create your unique style",
-    "translation": "Mix and match <strong>colori, modelli e finiture</strong> per creare il tuo stile unico",
-    "model": "claude-3.5-sonnet",
+    "translation": "Mix and match <strong>colori, motivi e finiture</strong> per creare il tuo stile unico",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -149,14 +149,14 @@
       "blush → blush nails",
       "glitter → glitterate"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.share.title",
     "source": "Share & Save",
     "translation": "Condividi e Risparmia",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -166,14 +166,14 @@
       "nude → nude",
       "Removal → rimozione"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.share.description",
     "source": "<strong>Download your designs</strong> or share them with friends via social links",
     "translation": "<strong>Scarica i tuoi design</strong> o condividili con gli amici tramite i link social",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -183,14 +183,14 @@
       "nude → nude",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.premium.title",
     "source": "Premium Sets",
     "translation": "Set Premium",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -200,14 +200,14 @@
       "glitter → glitterate",
       "muted pink → rosa antico"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "features.premium.description",
     "source": "Order <strong>custom designs</strong> or choose from our curated nail art collections",
-    "translation": "Ordina <strong>design personalizzati</strong> o scegli dalle nostre collezioni curate di nail art",
-    "model": "claude-3.5-sonnet",
+    "translation": "Ordina <strong>design personalizzati</strong> o scegli tra le nostre collezioni di nail art curate",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -217,14 +217,14 @@
       "press-on nails → press-on nails",
       "nude → nude"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.title",
     "source": "About Us",
     "translation": "Chi Siamo",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -234,14 +234,14 @@
       "press-on nails → press-on nails",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.backToHome",
     "source": "← Back to Home",
     "translation": "← Torna alla Home",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -251,14 +251,14 @@
       "milky white → bianco lattiginoso",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.tagline",
     "source": "<strong>NaiLit</strong> is here to make your nails <em>lit</em> and help you <em>nail it</em>! ✨",
     "translation": "<strong>NaiLit</strong> è pensato per illuminare <em>le tue unghie</em> e <em>la tua vita</em>!✨",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": true,
@@ -268,14 +268,14 @@
       "nail tech → onicotecnica",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.intro",
     "source": "We believe that nails should be as <strong>unique as you are</strong>. That is why <strong>NaiLit</strong> offers fully customizable press-on nails designed with you in mind. Using our <em>Nail Dress-Up system</em>, you can choose your shape, length, color, and finish to create a set that is <strong>100% your style</strong>.",
-    "translation": "Crediamo che le unghie debbano essere <strong>uniche come te</strong>. Ecco perché <strong>NaiLit</strong> offre press-on nails completamente personalizzabili progettati pensando a te. Utilizzando il nostro <em>sistema Nail Dress-Up</em>, puoi scegliere la tua forma, lunghezza, colore e finitura per creare un set che è <strong>100% il tuo stile</strong>.",
-    "model": "claude-3.5-sonnet",
+    "translation": "Crediamo che le unghie debbano essere <strong>uniche come te</strong>. Ecco perché <strong>NaiLit</strong> offre press-on nails completamente personalizzabili progettate pensando a te. Utilizzando il nostro <em>Nail Dress-Up system</em>, puoi scegliere la tua forma, lunghezza, colore e finitura per creare un set che sia <strong>100% il tuo stile</strong>.",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -285,14 +285,14 @@
       "NaiLit → NaiLit",
       "finish → finitura"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.craftmanship",
     "source": "Once you have submitted your design, our <strong>expert nail techs</strong> handcraft each set on <em>authentic Gel-X bases</em>. <strong>No 3D printing. No bulky plastic.</strong> Just the perfect balance of thinness, flexibility, and <strong>salon-quality feel</strong> combined with the convenience of press-ons.",
-    "translation": "Una volta inviato il tuo design, i nostri <strong>onicotecnici esperti</strong> realizzano a mano ogni set su <em>fondi Gel-X autentici</em>. <strong>Niente stampa 3D. Niente plastica ingombrante.</strong> Solo il perfetto equilibrio di sottigliezza, flessibilità e <strong>sensazione di qualità da salone</strong> combinata con la comodità delle press-on nails.",
-    "model": "claude-3.5-sonnet",
+    "translation": "Ogni volta che hai inviato il tuo design, i nostri <strong>esperti onicotecnici</strong> realizzano a mano ogni set su <em>basi Gel-X autentiche</em>. <strong>Niente stampa 3D. Niente plastica ingombrante.</strong> Solo il perfetto equilibrio tra sottigliezza, flessibilità e <strong>sensazione di qualità da salone</strong> combinato con la comodità delle press-on nails.",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -302,14 +302,14 @@
       "nail tech → onicotecnica",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.safety",
     "source": "We are also proud to say that our products are <strong>Trimethylbenzoyl Diphenylphosphine Oxide (TPO)-free</strong> and fully compliant with <strong>EU safety standards</strong>. Beauty should never come at the cost of safety, and <strong>NaiLit</strong> is committed to giving you both.",
-    "translation": "Siamo anche orgogliosi di dire che i nostri prodotti sono <strong>senza Trimethylbenzoyl Diphenylphosphine Oxide (TPO)</strong> e completamente conformi agli <strong>standard di sicurezza dell'UE</strong>. La bellezza non dovrebbe mai venire a scapito della sicurezza, e <strong>NaiLit</strong> è impegnata a offrirti entrambi.",
-    "model": "claude-3.5-sonnet",
+    "translation": "Siamo anche orgogliosi di dire che i nostri prodotti sono <strong>senza Trimethylbenzoyl Diphenylphosphine Oxide (TPO)</strong> e completamente conformi agli <strong>standard di sicurezza dell'UE</strong>. La bellezza non dovrebbe mai venire a scapito della sicurezza, e <strong>NaiLit</strong> è impegnata a offrirti entrambe.",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -317,14 +317,14 @@
     "constraints_list": [
       "NaiLit → NaiLit"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.kitIncludes",
     "source": "<strong>Every kit comes complete with:</strong>",
     "translation": "<strong>Ogni kit è completo di:</strong>",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -334,14 +334,14 @@
       "seafoam → verde acqua",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.adhesiveKit",
     "source": "<strong>1x Nail Adhesive Kit</strong> (featuring both glue and sticker tabs, so you can choose between <em>long-lasting hold</em> or <em>easy reuse</em>)",
-    "translation": "<strong>1x Kit di adesivo per unghie</strong> (che include sia colla che adesivi, così puoi scegliere tra <em>tenuta duratura</em> o <em>riutilizzo facile</em>)",
-    "model": "claude-3.5-sonnet",
+    "translation": "<strong>1x Kit di Adesivo per Unghie</strong> (che include sia colla che adesivi, così puoi scegliere tra <em>tenuta duratura</em> o <em>facile riutilizzo</em>)",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -349,14 +349,14 @@
     "constraints_list": [
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.removalKit",
     "source": "<strong>1x Nail Removal Kit</strong> (so you can change up your look whenever you want, <em>without damage</em>)",
     "translation": "<strong>1x Kit per la rimozione delle unghie</strong> (così puoi cambiare il tuo look ogni volta che vuoi, <em>senza danni</em>)",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -366,14 +366,14 @@
       "oval → ovale",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.confidence",
     "source": "With <strong>NaiLit</strong>, you do not just wear nails. You wear your <em>style</em>, your <em>creativity</em>, and your <em>confidence</em>.",
-    "translation": "Con <strong>NaiLit</strong>, non indossi solo unghie. Indossi il tuo <em>stile</em>, la tua <em>creatività</em> e la tua <em>fiducia</em>.",
-    "model": "claude-3.5-sonnet",
+    "translation": "<strong>NaiLit</strong> non indossi solo unghie. Indossi il tuo <em>stile</em>, la tua <em>creatività</em> e la tua <em>fiducia</em>.",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -382,14 +382,14 @@
       "NaiLit → NaiLit",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.motto",
     "source": "<strong>NaiLit. Nails made for you, by you.</strong> 💅",
     "translation": "<strong>NaiLit. Unghie create per te, da te.</strong> 💅</translation>",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -399,14 +399,14 @@
       "press-on nails → press-on nails",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.faqText",
     "source": "For Order and Shipping related questions, please see our",
     "translation": "Per domande relative a ordini e spedizioni, si prega di consultare il nostro",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -416,14 +416,14 @@
       "press-on nails → press-on nails",
       "finish → finitura"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "about.faqLink",
     "source": "<a href=\"#\">FAQ page</a>",
     "translation": "<a href=\"#\">Pagina FAQ</a>",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -433,14 +433,14 @@
       "cat eye → cat-eye",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.title",
     "source": "Design Your Nails",
     "translation": "Progetta le tue unghie",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -450,14 +450,14 @@
       "nail tech → onicotecnica",
       "NaiLit → NaiLit"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.backToHome",
     "source": "Back to Home",
     "translation": "Torna alla Home",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -467,14 +467,14 @@
       "press-on nails → press-on nails",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.title",
     "source": "Shape",
     "translation": "Forma",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -484,14 +484,14 @@
       "cat eye → cat-eye",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.oval",
     "source": "Oval",
-    "translation": "Ovale",
-    "model": "claude-3.5-sonnet",
+    "translation": "ovale",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -501,14 +501,14 @@
       "Removal → rimozione",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.coffin",
     "source": "Coffin",
     "translation": "Ballerina",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -518,14 +518,14 @@
       "seafoam → verde acqua",
       "glitter → glitterate"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.stiletto",
     "source": "Stiletto",
-    "translation": "Stiletto",
-    "model": "claude-3.5-sonnet",
+    "translation": "stiletto",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -535,14 +535,14 @@
       "glitter → glitterate",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.shape.almond",
     "source": "Almond",
     "translation": "Mandorla",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -552,14 +552,14 @@
       "oval → ovale",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.title",
     "source": "Color",
     "translation": "Colore",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -569,14 +569,14 @@
       "glitter → glitterate",
       "muted pink → rosa antico"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.mutedPink",
     "source": "Muted Pink",
     "translation": "Rosa antico",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -586,14 +586,14 @@
       "milky white → bianco lattiginoso",
       "glitter → glitterate"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.nude",
     "source": "Nude",
     "translation": "Nude",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -603,14 +603,14 @@
       "nail tech → onicotecnica",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.seafoam",
     "source": "Seafoam",
-    "translation": "Verde acqua",
-    "model": "claude-3.5-sonnet",
+    "translation": "verde acqua",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -620,14 +620,14 @@
       "glitter → glitterate",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.color.milkyWhite",
     "source": "Milky White",
     "translation": "Bianco lattiginoso",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -637,14 +637,14 @@
       "muted pink → rosa antico",
       "glitter → glitterate"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.title",
     "source": "Finish",
     "translation": "Finitura",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -654,14 +654,14 @@
       "Removal → rimozione",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.blush",
     "source": "Blush",
     "translation": "blush nails",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -671,14 +671,14 @@
       "glitter → glitterate",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.french",
     "source": "French",
-    "translation": "Francese",
-    "model": "claude-3.5-sonnet",
+    "translation": "French",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -688,14 +688,14 @@
       "cat eye → cat-eye",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.catEye",
     "source": "Cat Eye",
     "translation": "Cat-eye",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -705,14 +705,14 @@
       "nail tech → onicotecnica",
       "glitter → glitterate"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.finish.glitter",
     "source": "Glitter",
     "translation": "glitterate",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -722,14 +722,14 @@
       "blush → blush nails",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.size.title",
     "source": "Size",
     "translation": "Dimensione",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -739,14 +739,14 @@
       "finish → finitura",
       "Removal → rimozione"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.size.short",
     "source": "Short",
     "translation": "Breve",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -756,14 +756,14 @@
       "finish → finitura",
       "muted pink → rosa antico"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.size.medium",
     "source": "Medium",
-    "translation": "Medio",
-    "model": "claude-3.5-sonnet",
+    "translation": "Media",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -773,14 +773,14 @@
       "nude → nude",
       "Removal → rimozione"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.size.long",
     "source": "Long",
     "translation": "Lungo",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -790,14 +790,14 @@
       "cat eye → cat-eye",
       "nude → nude"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.preview",
     "source": "Preview",
     "translation": "Anteprima",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -807,14 +807,14 @@
       "press-on nails → press-on nails",
       "Removal → rimozione"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.saveDesign",
     "source": "Save Design",
     "translation": "Salva Design",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -824,14 +824,14 @@
       "Removal → rimozione",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "design.downloadDesign",
     "source": "Download Design",
     "translation": "Scarica Design",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -841,14 +841,14 @@
       "Removal → rimozione",
       "finish → finitura"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.title",
     "source": "FAQ",
     "translation": "FAQ",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -858,14 +858,14 @@
       "seafoam → verde acqua",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.backToHome",
     "source": "← Back to Home",
     "translation": "← Torna alla Home",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -875,14 +875,14 @@
       "milky white → bianco lattiginoso",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.title",
     "source": "Orders",
     "translation": "Ordini",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -892,14 +892,14 @@
       "finish → finitura",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.placeOrder.question",
     "source": "<strong>How do I place an order?</strong>",
     "translation": "<strong>Come posso effettuare un ordine?</strong>",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -909,14 +909,14 @@
       "oval → ovale",
       "finish → finitura"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.placeOrder.answer",
     "source": "Simply use our <strong>Nail Dress-Up system</strong> to design your set, add it to cart, and check out. Once your order is placed, our <em>expert nail techs</em> will start handcrafting your press-ons.",
-    "translation": "Utilizza semplicemente il nostro <strong>Nail Dress-Up system</strong> per progettare il tuo set, aggiungerlo al carrello e procedere al pagamento. Una volta effettuato l'ordine, i nostri <em>onicotecnici esperti</em> inizieranno a realizzare a mano i tuoi press-on nails.",
-    "model": "claude-3.5-sonnet",
+    "translation": "Utilizza semplicemente il nostro <strong>system di Nail Dress-Up</strong> per progettare il tuo set, aggiungerlo al carrello e procedere al pagamento. Una volta effettuato l'ordine, i nostri <em>esperti onicotecnici</em> inizieranno a realizzare a mano le tue press-on nails.",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -925,14 +925,14 @@
       "nail tech → onicotecnica",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.processTime.question",
     "source": "<strong>How long does it take to process my order?</strong>",
     "translation": "<strong>Quanto tempo ci vuole per elaborare il mio ordine?</strong>",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -942,27 +942,27 @@
       "Removal → rimozione",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.orders.processTime.answer",
     "source": "Because each set is <em>custom-made</em>, please allow <strong>5–7 business days</strong> for production before shipping.",
     "translation": "Poiché ogni set è <em>realizzato su misura</em>, ti preghiamo di consentire <strong>5–7 giorni lavorativi</strong> per la produzione prima della spedizione.",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
     "constraints_found": 0,
     "constraints_list": [],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.title",
     "source": "Shipping",
     "translation": "Spedizione",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -972,14 +972,14 @@
       "Removal → rimozione",
       "glitter → glitterate"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.whereShip.question",
     "source": "<strong>Where do you ship?</strong>",
     "translation": "<strong>Dove spedisci?</strong>",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -989,27 +989,27 @@
       "press-on nails → press-on nails",
       "Removal → rimozione"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.whereShip.answer",
     "source": "We currently ship domestically within the <strong>United States</strong> and internationally to <strong>Italy, France, Canada, and Japan</strong>.",
     "translation": "Attualmente spediamo a livello nazionale all'interno degli <strong>Stati Uniti</strong> e internazionalmente in <strong>Italia, Francia, Canada e Giappone</strong>.",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
     "constraints_found": 0,
     "constraints_list": [],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.cost.question",
     "source": "<strong>How much is shipping?</strong>",
     "translation": "<strong>Quanto costa la spedizione?</strong>",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1019,14 +1019,14 @@
       "press-on nails → press-on nails",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.cost.answer",
     "source": "Domestic shipping is a <strong>flat rate of $X</strong>. International shipping rates vary depending on destination and will be calculated at checkout.",
-    "translation": "La spedizione domestica ha un <strong>costo fisso di $X</strong>. Le tariffe di spedizione internazionale variano a seconda della destinazione e verranno calcolate al momento del pagamento.",
-    "model": "claude-3.5-sonnet",
+    "translation": "La spedizione nazionale ha un <strong>costo fisso di $X</strong>. Le tariffe di spedizione internazionale variano a seconda della destinazione e saranno calcolate al momento del pagamento.",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1035,14 +1035,14 @@
       "press-on nails → press-on nails",
       "Gel-X → Gel-X"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.question",
     "source": "<strong>How long does shipping take?</strong>",
     "translation": "<strong>Quanto tempo ci vuole per la spedizione?</strong>",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1052,14 +1052,14 @@
       "nail tech → onicotecnica",
       "seafoam → verde acqua"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.intro",
     "source": "Shipping times vary by destination:",
     "translation": "I tempi di spedizione variano in base alla destinazione:",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1069,14 +1069,14 @@
       "press-on nails → press-on nails",
       "oval → ovale"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.us",
     "source": "<strong>United States:</strong> 3–5 business days after processing",
     "translation": "<strong>Stati Uniti:</strong> 3–5 giorni lavorativi dopo l'elaborazione",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1086,14 +1086,14 @@
       "press-on nails → press-on nails",
       "Removal → rimozione"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.canada",
     "source": "<strong>Canada:</strong> 5–10 business days after processing",
-    "translation": "<strong>Canada:</strong> 5–10 giorni lavorativi dopo la rimozione",
-    "model": "claude-3.5-sonnet",
+    "translation": "<strong>Canada:</strong> 5–10 giorni lavorativi dopo la lavorazione",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1103,14 +1103,14 @@
       "Removal → rimozione",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.europe",
     "source": "<strong>Italy & France:</strong> 7–14 business days after processing",
     "translation": "<strong>Italia e Francia:</strong> 7–14 giorni lavorativi dopo l'elaborazione",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1120,14 +1120,14 @@
       "press-on nails → press-on nails",
       "finish → finitura"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.shipping.duration.japan",
     "source": "<strong>Japan:</strong> 7–14 business days after processing",
     "translation": "<strong>Giappone:</strong> 7–14 giorni lavorativi dopo l'elaborazione",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1137,14 +1137,14 @@
       "nail tech → onicotecnica",
       "finish → finitura"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.returns.title",
     "source": "Returns & Exchanges",
     "translation": "Resi e Scambi",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1154,14 +1154,14 @@
       "cat eye → cat-eye",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.returns.acceptReturns.question",
     "source": "<strong>Do you accept returns?</strong>",
     "translation": "<strong>Accettate resi?</strong>",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1171,27 +1171,27 @@
       "press-on nails → press-on nails",
       "nail tech → onicotecnica"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.returns.acceptReturns.answer",
     "source": "Because each set is <em>handcrafted and customized</em>, we unfortunately <strong>cannot accept returns</strong>. If there is an issue with your order, please contact us and we will make it right.",
-    "translation": "Poiché ogni set è <em>realizzato a mano e personalizzato</em>, purtroppo <strong>non possiamo accettare resi</strong>. Se c'è un problema con il tuo ordine, ti preghiamo di contattarci e faremo il possibile per risolverlo.",
-    "model": "claude-3.5-sonnet",
+    "translation": "Poiché ogni set è <em>realizzato a mano e personalizzato</em>, purtroppo <strong>non possiamo accettare resi</strong>. Se c'è un problema con il tuo ordine, ti preghiamo di contattarci e lo risolveremo.",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
     "constraints_found": 0,
     "constraints_list": [],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.other.title",
     "source": "Other Questions",
     "translation": "Altre Domande",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1201,14 +1201,14 @@
       "nail tech → onicotecnica",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.other.contactText",
     "source": "If you have a question not covered here, please reach out to us through our",
     "translation": "Se hai una domanda non trattata qui, ti preghiamo di contattarci tramite il nostro",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1218,14 +1218,14 @@
       "press-on nails → press-on nails",
       "cat eye → cat-eye"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.other.contactLink",
     "source": "<a href=\"#\">Contact page</a>",
     "translation": "<a href=\"#\">Pagina di contatto</a>",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1235,14 +1235,14 @@
       "nail tech → onicotecnica",
       "seafoam → verde acqua"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "faq.other.helpText",
     "source": "We are <strong>always happy to help</strong>.",
     "translation": "Siamo <strong>sempre felici di aiutare</strong>.",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1252,14 +1252,14 @@
       "press-on nails → press-on nails",
       "finish → finitura"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   },
   {
     "path": "footer.copyright",
     "source": "© 2025 <strong>NaiLit</strong>.",
     "translation": "© 2025 <strong>NaiLit</strong>.",
-    "model": "claude-3.5-sonnet",
+    "model": "gpt-4o-mini",
     "approach": "RAG",
     "target_lang": "it",
     "tm_hit": false,
@@ -1269,7 +1269,7 @@
       "nail tech → onicotecnica",
       "press-on nails → press-on nails"
     ],
-    "timestamp": "2025-09-27 11:05:32",
+    "timestamp": "2025-10-02 11:42:01",
     "source_sha": "7b6d712fae4b88898b1f209c053485d77cdac666"
   }
 ]
